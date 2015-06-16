@@ -13,6 +13,8 @@ k <- within(k, {
   sourcePath <- "../data/source"
   summariesSourcePath <- "../data/source/summaries"
 
+  outputPath <- "../data/output"
+
   sourceColNames <- c(
     'party_riding_name',
     'total_contributions',
