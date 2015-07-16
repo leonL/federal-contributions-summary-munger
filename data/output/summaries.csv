@@ -9,10 +9,7 @@
 "Bloc Québécois",TRUE,NA,NA,"2011",78949131,37316485,41632646,0,7056,881,6175,0
 "Bloc Québécois",TRUE,NA,NA,"2012",43424837,18461287,24963550,0,4292,459,3833,0
 "Bloc Québécois",TRUE,NA,NA,"2013",41703049,18199374,23503675,0,4146,446,3700,0
-"Bloc Québécois",TRUE,NA,NA,"2014",1768929,592500,1176429,0,261,14,247,0
-"Bloc Québécois",TRUE,NA,NA,"2014",6555508,2556000,3999508,0,716,65,651,0
-"Bloc Québécois",TRUE,NA,NA,"2014",13289754,3310300,9979454,0,1946,84,1862,0
-"Bloc Québécois",TRUE,NA,NA,"2014",20763454,10216400,10547054,0,1725,245,1480,0
+"Bloc Québécois",TRUE,NA,NA,"2014",42377645,16675200,25702445,0,4648,408,4240,0
 "Bloc Québécois",TRUE,NA,NA,"2015",8777489,3224500,5552989,0,988,75,913,0
 "Bloc Québécois",FALSE,"Abitibi—Témiscamingue",24001,"2004",2013900,1147500,866400,0,156,25,131,0
 "Bloc Québécois",FALSE,"Alfred-Pellan",24003,"2004",1481000,874500,606500,0,146,22,124,0
@@ -28,7 +25,7 @@
 "Bloc Québécois",FALSE,"Gatineau",24020,"2004",781667,670000,111667,0,32,16,16,0
 "Bloc Québécois",FALSE,"Hochelaga",24021,"2004",1456800,231500,1225300,0,342,7,335,0
 "Bloc Québécois",FALSE,"Hull—Aylmer",24023,"2004",891500,582000,309500,0,36,15,21,0
-"Bloc Québécois",FALSE,"Jeanne-Le Ber",24024,"2004",732302,300000,428324,3978,90,6,49,35
+"Bloc Québécois",FALSE,"Jeanne-Le Ber",24024,"2004",732302,3e+05,428324,3978,90,6,49,35
 "Bloc Québécois",FALSE,"Joliette",24025,"2004",2066997,1002709,765288,299000,368,21,132,215
 "Bloc Québécois",FALSE,"Jonquière—Alma",24026,"2004",37000,0,37000,0,6,0,6,0
 "Bloc Québécois",FALSE,"La Pointe-de-l'Île",24028,"2004",1967000,678000,1288500,500,641,12,579,50
@@ -106,7 +103,7 @@
 "Bloc Québécois",FALSE,"Saint-Hyacinthe—Bagot",24063,"2005",1298110,191000,704610,0,93,17,76,0
 "Bloc Québécois",FALSE,"Saint-Jean",24064,"2005",1178000,275000,903000,0,126,7,119,0
 "Bloc Québécois",FALSE,"Saint-Lambert",24065,"2005",1277456,773000,491722,12734,229,13,55,161
-"Bloc Québécois",FALSE,"Saint-Maurice—Champlain",24068,"2005",1110000,210000,900000,0,91,6,85,0
+"Bloc Québécois",FALSE,"Saint-Maurice—Champlain",24068,"2005",1110000,210000,9e+05,0,91,6,85,0
 "Bloc Québécois",FALSE,"Shefford",24069,"2005",1175500,802000,336500,37000,190,24,51,115
 "Bloc Québécois",FALSE,"Sherbrooke",24070,"2005",1113665,341465,772200,0,100,9,91,0
 "Bloc Québécois",FALSE,"Terrebonne—Blainville",24071,"2005",2222070,1216635,1005435,0,220,19,201,0
@@ -172,7 +169,7 @@
 "Bloc Québécois",FALSE,"Alfred-Pellan",24003,"2007",1621000,673000,948000,0,293,19,274,0
 "Bloc Québécois",FALSE,"Argenteuil—Papineau—Mirabel",24004,"2007",1631100,538700,1092400,0,548,14,534,0
 "Bloc Québécois",FALSE,"Beauharnois—Salaberry",24006,"2007",1461704,640800,700200,120704,235,17,102,116
-"Bloc Québécois",FALSE,"Berthier—Maskinongé",24008,"2007",1391500,800000,591500,0,104,20,84,0
+"Bloc Québécois",FALSE,"Berthier—Maskinongé",24008,"2007",1391500,8e+05,591500,0,104,20,84,0
 "Bloc Québécois",FALSE,"Brome—Missisquoi",24010,"2007",2015200,883000,1126500,5700,177,21,136,20
 "Bloc Québécois",FALSE,"Chambly—Borduas",24012,"2007",1630024,601209,1028815,0,155,15,140,0
 "Bloc Québécois",FALSE,"Charlesbourg—Haute-Saint-Charles",24013,"2007",325500,80000,245500,0,49,2,47,0
@@ -288,7 +285,7 @@
 "Bloc Québécois",FALSE,"Drummond",24018,"2009",1150500,1040000,110500,0,37,21,16,0
 "Bloc Québécois",FALSE,"Gaspésie—Îles-de-la-Madeleine",24019,"2009",1532000,1460000,72000,0,26,14,12,0
 "Bloc Québécois",FALSE,"Gatineau",24020,"2009",2069000,1239000,830000,0,104,32,72,0
-"Bloc Québécois",FALSE,"Hochelaga",24021,"2009",925000,600000,325000,0,68,13,55,0
+"Bloc Québécois",FALSE,"Hochelaga",24021,"2009",925000,6e+05,325000,0,68,13,55,0
 "Bloc Québécois",FALSE,"Hull—Aylmer",24023,"2009",846000,422000,424000,0,47,9,38,0
 "Bloc Québécois",FALSE,"Jeanne-Le Ber",24024,"2009",704500,600500,104000,0,23,14,9,0
 "Bloc Québécois",FALSE,"Joliette",24025,"2009",1406400,1128600,277800,0,128,28,100,0
@@ -301,7 +298,7 @@
 "Bloc Québécois",FALSE,"Louis-Saint-Laurent",24038,"2009",582000,310000,272000,0,59,8,51,0
 "Bloc Québécois",FALSE,"Manicouagan",24039,"2009",1436000,1148000,288000,0,65,15,50,0
 "Bloc Québécois",FALSE,"Marc-Aurèle-Fortin",24040,"2009",2470500,2208000,262500,0,89,34,55,0
-"Bloc Québécois",FALSE,"Haute-Gaspésie—La Mitis—Matane—Matapédia",24041,"2009",590000,400000,190000,0,54,8,46,0
+"Bloc Québécois",FALSE,"Haute-Gaspésie—La Mitis—Matane—Matapédia",24041,"2009",590000,4e+05,190000,0,54,8,46,0
 "Bloc Québécois",FALSE,"Mégantic—L'Érable",24042,"2009",1540500,968500,572000,0,636,24,612,0
 "Bloc Québécois",FALSE,"Montcalm",24043,"2009",3839000,2036000,1803000,0,238,57,181,0
 "Bloc Québécois",FALSE,"Abitibi—Baie-James—Nunavik—Eeyou",24046,"2009",1543000,1160000,383000,0,75,20,55,0
@@ -391,8 +388,8 @@
 "Bloc Québécois",FALSE,"Chicoutimi—Le Fjord",24016,"2011",1334000,685000,649000,0,79,17,62,0
 "Bloc Québécois",FALSE,"Compton—Stanstead",24017,"2011",1592500,1185500,407000,0,87,30,57,0
 "Bloc Québécois",FALSE,"Drummond",24018,"2011",1495500,1412500,83000,0,37,23,14,0
-"Bloc Québécois",FALSE,"Gaspésie—Îles-de-la-Madeleine",24019,"2011",422500,400000,22500,0,9,4,5,0
-"Bloc Québécois",FALSE,"Gatineau",24020,"2011",1295000,1000000,295000,0,47,17,30,0
+"Bloc Québécois",FALSE,"Gaspésie—Îles-de-la-Madeleine",24019,"2011",422500,4e+05,22500,0,9,4,5,0
+"Bloc Québécois",FALSE,"Gatineau",24020,"2011",1295000,1e+06,295000,0,47,17,30,0
 "Bloc Québécois",FALSE,"Hochelaga",24021,"2011",1283400,805000,478400,0,57,18,39,0
 "Bloc Québécois",FALSE,"Hull—Aylmer",24023,"2011",1141500,825000,316500,0,44,18,26,0
 "Bloc Québécois",FALSE,"Jeanne-Le Ber",24024,"2011",1277475,1008750,268725,0,59,21,38,0
@@ -457,13 +454,13 @@
 "Bloc Québécois",FALSE,"Terrebonne—Blainville",24071,"2012",74000,67000,7000,0,4,2,2,0
 "Bloc Québécois",FALSE,"Verchères—Les Patriotes",24074,"2012",76500,75000,1500,0,3,1,2,0
 "Bloc Québécois",FALSE,"Alfred-Pellan",24003,"2013",357500,160000,197500,0,35,4,31,0
-"Bloc Québécois",FALSE,"Brome—Missisquoi",24010,"2013",330750,200000,130750,0,56,6,50,0
+"Bloc Québécois",FALSE,"Brome—Missisquoi",24010,"2013",330750,2e+05,130750,0,56,6,50,0
 "Bloc Québécois",FALSE,"Chicoutimi—Le Fjord",24016,"2013",1132000,335000,797000,0,85,9,76,0
 "Bloc Québécois",FALSE,"Compton—Stanstead",24017,"2013",267500,200500,67000,0,20,5,15,0
 "Bloc Québécois",FALSE,"Drummond",24018,"2013",40000,40000,0,0,1,1,0,0
 "Bloc Québécois",FALSE,"Gatineau",24020,"2013",486000,370000,116000,0,17,5,12,0
 "Bloc Québécois",FALSE,"Joliette",24025,"2013",159100,80600,78500,0,36,2,34,0
-"Bloc Québécois",FALSE,"Haute-Gaspésie—La Mitis—Matane—Matapédia",24041,"2013",1097000,700000,397000,0,118,15,103,0
+"Bloc Québécois",FALSE,"Haute-Gaspésie—La Mitis—Matane—Matapédia",24041,"2013",1097000,7e+05,397000,0,118,15,103,0
 "Bloc Québécois",FALSE,"Mégantic—L'Érable",24042,"2013",36500,20500,16000,0,8,1,7,0
 "Bloc Québécois",FALSE,"Montcalm",24043,"2013",341000,275000,66000,0,10,5,5,0
 "Bloc Québécois",FALSE,"Abitibi—Baie-James—Nunavik—Eeyou",24046,"2013",323500,122000,201500,0,28,3,25,0
@@ -474,7 +471,7 @@
 "Bloc Québécois",FALSE,"Roberval—Lac-Saint-Jean",24060,"2013",658500,392500,266000,0,38,10,28,0
 "Bloc Québécois",FALSE,"Saint-Hyacinthe—Bagot",24063,"2013",83500,80000,3500,0,8,2,6,0
 "Bloc Québécois",FALSE,"Saint-Maurice—Champlain",24068,"2013",658750,284000,374750,0,93,8,85,0
-"Bloc Québécois",FALSE,"Shefford",24069,"2013",227900,200000,27900,0,17,5,12,0
+"Bloc Québécois",FALSE,"Shefford",24069,"2013",227900,2e+05,27900,0,17,5,12,0
 "Bloc Québécois",FALSE,"Sherbrooke",24070,"2013",415950,67000,348950,0,35,2,33,0
 "Bloc Québécois",FALSE,"Verchères—Les Patriotes",24074,"2013",131500,76000,55500,0,39,1,38,0
 "Conservative Party of Canada",TRUE,NA,NA,"2004",1091032000,595357200,495674800,0,68382,11591,56791,0
@@ -487,15 +484,12 @@
 "Conservative Party of Canada",TRUE,NA,NA,"2011",2273796646,1428755309,845025805,15532,110267,27852,82403,12
 "Conservative Party of Canada",TRUE,NA,NA,"2012",1725809841,1057999201,667765640,45000,87306,20469,66809,28
 "Conservative Party of Canada",TRUE,NA,NA,"2013",1810095642,1229432177,580627965,35500,80135,22728,57386,21
-"Conservative Party of Canada",TRUE,NA,NA,"2014",663471665,321226740,342244425,500,47133,6831,40301,1
-"Conservative Party of Canada",TRUE,NA,NA,"2014",470070594,213683738,256376356,10500,35837,4616,31212,9
-"Conservative Party of Canada",TRUE,NA,NA,"2014",455429179,228268427,227160052,700,31765,4199,27564,2
-"Conservative Party of Canada",TRUE,NA,NA,"2014",422457858,173403845,249053406,607,35201,4046,31153,2
+"Conservative Party of Canada",TRUE,NA,NA,"2014",2011429296,936582750,1074834239,12307,149936,19692,130230,14
 "Conservative Party of Canada",TRUE,NA,NA,"2015",630291751,333995130,296291121,5500,41161,5387,35770,4
 "Conservative Party of Canada",FALSE,"Humber—St. Barbe—Baie Verte",10003,"2004",52438,101250,3625,0,8,8,0,0
 "Conservative Party of Canada",FALSE,"St. John's South—Mount Pearl",10007,"2004",150254,0,150254,0,50,50,0,0
-"Conservative Party of Canada",FALSE,"Cardigan",11001,"2004",841500,400000,441500,0,44,8,36,0
-"Conservative Party of Canada",FALSE,"Malpeque",11004,"2004",120000,100000,20000,0,4,2,2,0
+"Conservative Party of Canada",FALSE,"Cardigan",11001,"2004",841500,4e+05,441500,0,44,8,36,0
+"Conservative Party of Canada",FALSE,"Malpeque",11004,"2004",120000,1e+05,20000,0,4,2,2,0
 "Conservative Party of Canada",FALSE,"Cape Breton—Canso",12001,"2004",241617,223617,18000,0,7,1,6,0
 "Conservative Party of Canada",FALSE,"Central Nova",12002,"2004",501700,0,450200,0,59,59,0,0
 "Conservative Party of Canada",FALSE,"Dartmouth—Cole Harbour",12003,"2004",819000,630000,189000,0,32,4,28,0
@@ -527,7 +521,7 @@
 "Conservative Party of Canada",FALSE,"Louis-Saint-Laurent",24038,"2004",645110,172810,472300,0,36,4,32,0
 "Conservative Party of Canada",FALSE,"Notre-Dame-de-Grâce—Lachine",24045,"2004",54000,50000,4000,0,2,1,1,0
 "Conservative Party of Canada",FALSE,"Outremont",24047,"2004",1308500,781000,527500,0,55,11,44,0
-"Conservative Party of Canada",FALSE,"Pierrefonds—Dollard",24049,"2004",540000,500000,40000,0,5,2,3,0
+"Conservative Party of Canada",FALSE,"Pierrefonds—Dollard",24049,"2004",540000,5e+05,40000,0,5,2,3,0
 "Conservative Party of Canada",FALSE,"Pontiac",24050,"2004",761000,650000,111000,0,17,7,10,0
 "Conservative Party of Canada",FALSE,"Portneuf—Jacques-Cartier",24051,"2004",97500,50000,45000,2500,9,0,4,5
 "Conservative Party of Canada",FALSE,"Saint-Jean",24064,"2004",50000,50000,0,0,1,1,0,0
@@ -549,7 +543,7 @@
 "Conservative Party of Canada",FALSE,"Durham",35014,"2004",2727000,2014500,712500,0,145,69,76,0
 "Conservative Party of Canada",FALSE,"Davenport",35015,"2004",542950,93518,449432,0,35,2,33,0
 "Conservative Party of Canada",FALSE,"Don Valley East",35016,"2004",2465000,1821000,644000,0,112,0,112,0
-"Conservative Party of Canada",FALSE,"Don Valley West",35017,"2004",876500,600000,276500,0,48,12,36,0
+"Conservative Party of Canada",FALSE,"Don Valley West",35017,"2004",876500,6e+05,276500,0,48,12,36,0
 "Conservative Party of Canada",FALSE,"Dufferin—Caledon",35018,"2004",1441500,740000,701500,0,79,15,64,0
 "Conservative Party of Canada",FALSE,"Eglinton—Lawrence",35019,"2004",275000,275000,0,0,4,4,0,0
 "Conservative Party of Canada",FALSE,"Elgin—Middlesex—London",35020,"2004",979259,174357,804902,0,133,5,128,0
@@ -563,7 +557,7 @@
 "Conservative Party of Canada",FALSE,"Haliburton—Kawartha Lakes—Brock",35029,"2004",497651,25000,472651,0,61,1,60,0
 "Conservative Party of Canada",FALSE,"Halton",35030,"2004",1798390,1503890,294500,0,44,14,30,0
 "Conservative Party of Canada",FALSE,"Hamilton Centre",35031,"2004",80119,0,43000,37119,56,0,6,50
-"Conservative Party of Canada",FALSE,"Hamilton East—Stoney Creek",35032,"2004",1390354,1000000,390354,0,40,2,38,0
+"Conservative Party of Canada",FALSE,"Hamilton East—Stoney Creek",35032,"2004",1390354,1e+06,390354,0,40,2,38,0
 "Conservative Party of Canada",FALSE,"Hamilton Mountain",35033,"2004",380000,61000,319000,0,39,2,37,0
 "Conservative Party of Canada",FALSE,"Huron—Bruce",35034,"2004",639500,282500,357000,0,48,7,41,0
 "Conservative Party of Canada",FALSE,"Kenora",35035,"2004",108500,0,108500,0,13,0,13,0
@@ -640,14 +634,14 @@
 "Conservative Party of Canada",FALSE,"Saint Boniface",46009,"2004",1245600,674600,571000,0,58,19,39,0
 "Conservative Party of Canada",FALSE,"Selkirk—Interlake",46010,"2004",982000,645000,337000,0,91,15,76,0
 "Conservative Party of Canada",FALSE,"Winnipeg North",46012,"2004",139002,0,139002,0,20,0,20,0
-"Conservative Party of Canada",FALSE,"Winnipeg South",46013,"2004",367500,100000,267500,0,43,0,43,0
+"Conservative Party of Canada",FALSE,"Winnipeg South",46013,"2004",367500,1e+05,267500,0,43,0,43,0
 "Conservative Party of Canada",FALSE,"Winnipeg South Centre",46014,"2004",777000,490000,287000,0,40,10,30,0
 "Conservative Party of Canada",FALSE,"Battlefords—Lloydminster",47001,"2004",35020,30000,4020,1000,45,45,0,0
 "Conservative Party of Canada",FALSE,"Blackstrap",47002,"2004",67100,25000,25000,17100,17,1,4,12
 "Conservative Party of Canada",FALSE,"Desnethé—Missinippi—Churchill River",47003,"2004",182500,50000,132500,0,18,1,17,0
 "Conservative Party of Canada",FALSE,"Cypress Hills—Grasslands",47004,"2004",93000,0,93000,0,18,0,18,0
 "Conservative Party of Canada",FALSE,"Palliser",47005,"2004",1173743,355000,408000,410743,189,189,0,0
-"Conservative Party of Canada",FALSE,"Prince Albert",47006,"2004",338500,200000,138500,0,15,4,11,0
+"Conservative Party of Canada",FALSE,"Prince Albert",47006,"2004",338500,2e+05,138500,0,15,4,11,0
 "Conservative Party of Canada",FALSE,"Regina—Lumsden—Lake Centre",47007,"2004",198000,0,198000,0,24,0,24,0
 "Conservative Party of Canada",FALSE,"Regina—Qu'Appelle",47008,"2004",823000,295000,520000,8000,82,6,66,10
 "Conservative Party of Canada",FALSE,"Saskatoon—Humboldt",47009,"2004",564311,266347,183000,114964,128,0,28,100
@@ -684,7 +678,7 @@
 "Conservative Party of Canada",FALSE,"Burnaby—New Westminster",59003,"2004",117100,0,101000,16100,61,0,11,50
 "Conservative Party of Canada",FALSE,"Chilliwack—Fraser Canyon",59005,"2004",544540,76000,465800,2740,148,2,81,65
 "Conservative Party of Canada",FALSE,"Delta—Richmond East",59006,"2004",95000,0,95000,0,8,0,8,0
-"Conservative Party of Canada",FALSE,"Pitt Meadows—Maple Ridge—Mission",59007,"2004",598000,400000,195000,3000,48,7,21,20
+"Conservative Party of Canada",FALSE,"Pitt Meadows—Maple Ridge—Mission",59007,"2004",598000,4e+05,195000,3000,48,7,21,20
 "Conservative Party of Canada",FALSE,"Esquimalt—Juan de Fuca",59008,"2004",1256000,527000,729000,0,82,11,71,0
 "Conservative Party of Canada",FALSE,"Fleetwood—Port Kells",59009,"2004",180000,180000,0,0,1,1,0,0
 "Conservative Party of Canada",FALSE,"Kamloops—Thompson—Cariboo",59010,"2004",192500,90000,102500,0,12,2,10,0
@@ -701,7 +695,7 @@
 "Conservative Party of Canada",FALSE,"Prince George—Peace River",59022,"2004",201500,46000,155500,0,20,20,0,0
 "Conservative Party of Canada",FALSE,"Richmond",59023,"2004",381850,275350,106500,0,16,5,11,0
 "Conservative Party of Canada",FALSE,"Saanich—Gulf Islands",59024,"2004",1800500,272500,1528000,0,195,7,188,0
-"Conservative Party of Canada",FALSE,"British Columbia Southern Interior",59026,"2004",531000,100000,431000,0,50,2,48,0
+"Conservative Party of Canada",FALSE,"British Columbia Southern Interior",59026,"2004",531000,1e+05,431000,0,50,2,48,0
 "Conservative Party of Canada",FALSE,"South Surrey—White Rock—Cloverdale",59027,"2004",2277000,1302500,974500,0,131,26,105,0
 "Conservative Party of Canada",FALSE,"Vancouver Centre",59029,"2004",3628794,2425000,1203794,0,142,40,102,0
 "Conservative Party of Canada",FALSE,"Vancouver East",59030,"2004",375349,255500,119849,0,174,174,0,0
@@ -737,7 +731,7 @@
 "Conservative Party of Canada",FALSE,"New Brunswick Southwest",13008,"2005",231500,150000,81500,0,15,3,12,0
 "Conservative Party of Canada",FALSE,"Saint John",13009,"2005",887287,586576,300712,0,113,12,101,0
 "Conservative Party of Canada",FALSE,"Ahuntsic",24002,"2005",4000,0,0,0,0,0,0,0
-"Conservative Party of Canada",FALSE,"Beauharnois—Salaberry",24006,"2005",1e+05,100000,0,0,1,1,0,0
+"Conservative Party of Canada",FALSE,"Beauharnois—Salaberry",24006,"2005",1e+05,1e+05,0,0,1,1,0,0
 "Conservative Party of Canada",FALSE,"Beauport—Limoilou",24007,"2005",3648000,3590000,58000,0,44,40,4,0
 "Conservative Party of Canada",FALSE,"Berthier—Maskinongé",24008,"2005",29000,0,0,0,23,0,0,23
 "Conservative Party of Canada",FALSE,"Brome—Missisquoi",24010,"2005",26000,0,26000,0,2,0,2,0
@@ -760,7 +754,7 @@
 "Conservative Party of Canada",FALSE,"Outremont",24047,"2005",14407500,14370000,37500,0,68,63,5,0
 "Conservative Party of Canada",FALSE,"Papineau",24048,"2005",1106366,726366,380000,0,46,7,39,0
 "Conservative Party of Canada",FALSE,"Pierrefonds—Dollard",24049,"2005",1025000,423500,601500,0,63,12,51,0
-"Conservative Party of Canada",FALSE,"Pontiac",24050,"2005",329500,300000,15000,14500,25,3,2,20
+"Conservative Party of Canada",FALSE,"Pontiac",24050,"2005",329500,3e+05,15000,14500,25,3,2,20
 "Conservative Party of Canada",FALSE,"Québec",24052,"2005",475500,40000,193500,242000,219,1,43,175
 "Conservative Party of Canada",FALSE,"Richmond—Arthabaska",24055,"2005",643437,392500,250937,0,37,6,31,0
 "Conservative Party of Canada",FALSE,"Rimouski-Neigette—Témiscouata—Les Basques",24056,"2005",41000,21000,20000,0,3,1,2,0
@@ -829,7 +823,7 @@
 "Conservative Party of Canada",FALSE,"Niagara West—Glanbrook",35055,"2005",1079142,144850,548550,22800,95,0,71,24
 "Conservative Party of Canada",FALSE,"Niagara West—Glanbrook",35055,"2005",2506012,1720512,785500,0,114,34,80,0
 "Conservative Party of Canada",FALSE,"Nipissing—Timiskaming",35057,"2005",2519372,1311993,1207379,0,160,38,122,0
-"Conservative Party of Canada",FALSE,"Northumberland—Quinte West",35058,"2005",1095875,100000,995875,0,214,153,61,0
+"Conservative Party of Canada",FALSE,"Northumberland—Quinte West",35058,"2005",1095875,1e+05,995875,0,214,153,61,0
 "Conservative Party of Canada",FALSE,"Oak Ridges—Markham",35059,"2005",3315400,1999700,1315700,0,180,34,146,0
 "Conservative Party of Canada",FALSE,"Oakville",35060,"2005",3262000,1725800,1536200,0,169,44,125,0
 "Conservative Party of Canada",FALSE,"Oshawa",35061,"2005",2161738,1124797,636291,400650,303,24,73,206
@@ -849,7 +843,7 @@
 "Conservative Party of Canada",FALSE,"Richmond Hill",35075,"2005",1172900,1081500,91400,0,34,18,16,0
 "Conservative Party of Canada",FALSE,"St. Catharines",35076,"2005",5073997,3343529,1723968,6500,269,54,200,15
 "Conservative Party of Canada",FALSE,"St. Paul's",35077,"2005",9948657,8890230,1058427,0,207,119,88,0
-"Conservative Party of Canada",FALSE,"Sarnia—Lambton",35078,"2005",1283000,500000,783000,0,105,11,94,0
+"Conservative Party of Canada",FALSE,"Sarnia—Lambton",35078,"2005",1283000,5e+05,783000,0,105,11,94,0
 "Conservative Party of Canada",FALSE,"Sault Ste. Marie",35079,"2005",195500,140000,55500,0,11,2,9,0
 "Conservative Party of Canada",FALSE,"Scarborough—Agincourt",35080,"2005",1097300,935800,161500,0,31,12,19,0
 "Conservative Party of Canada",FALSE,"Scarborough Centre",35081,"2005",1861500,1109500,752000,0,113,17,96,0
@@ -877,14 +871,14 @@
 "Conservative Party of Canada",FALSE,"York South—Weston",35105,"2005",961610,849000,105500,7109,40,10,10,20
 "Conservative Party of Canada",FALSE,"Brandon—Souris",46001,"2005",737500,0,737500,0,95,0,95,0
 "Conservative Party of Canada",FALSE,"Charleswood—St. James—Assiniboia",46002,"2005",3168499,2258499,910000,0,152,51,101,0
-"Conservative Party of Canada",FALSE,"Churchill",46003,"2005",2e+05,200000,0,0,4,4,0,0
+"Conservative Party of Canada",FALSE,"Churchill",46003,"2005",2e+05,2e+05,0,0,4,4,0,0
 "Conservative Party of Canada",FALSE,"Elmwood—Transcona",46005,"2005",1288000,821100,466900,0,70,9,61,0
 "Conservative Party of Canada",FALSE,"Kildonan—St. Paul",46006,"2005",3387681,1995000,1392681,0,212,29,183,0
 "Conservative Party of Canada",FALSE,"Portage—Lisgar",46007,"2005",1701500,1600000,101500,0,58,45,13,0
 "Conservative Party of Canada",FALSE,"Provencher",46008,"2005",1964000,762500,1201500,0,166,17,149,0
 "Conservative Party of Canada",FALSE,"Saint Boniface",46009,"2005",35000,0,35000,0,2,0,2,0
 "Conservative Party of Canada",FALSE,"Selkirk—Interlake",46010,"2005",2358770,1137000,1209000,12770,205,26,149,30
-"Conservative Party of Canada",FALSE,"Winnipeg South",46013,"2005",502000,200000,302000,0,41,2,39,0
+"Conservative Party of Canada",FALSE,"Winnipeg South",46013,"2005",502000,2e+05,302000,0,41,2,39,0
 "Conservative Party of Canada",FALSE,"Winnipeg South Centre",46014,"2005",2904500,2082000,822500,0,105,36,69,0
 "Conservative Party of Canada",FALSE,"Battlefords—Lloydminster",47001,"2005",132019,120000,10456,1563,45,45,0,0
 "Conservative Party of Canada",FALSE,"Blackstrap",47002,"2005",2320500,1410500,910000,0,149,18,131,0
@@ -987,7 +981,7 @@
 "Conservative Party of Canada",FALSE,"Miramichi",13006,"2006",189500,28000,161500,0,63,1,62,0
 "Conservative Party of Canada",FALSE,"Moncton—Riverview—Dieppe",13007,"2006",315000,230000,85000,0,11,4,7,0
 "Conservative Party of Canada",FALSE,"New Brunswick Southwest",13008,"2006",403417,210991,192426,0,134,7,127,0
-"Conservative Party of Canada",FALSE,"Saint John",13009,"2006",532000,500000,32000,0,10,7,3,0
+"Conservative Party of Canada",FALSE,"Saint John",13009,"2006",532000,5e+05,32000,0,10,7,3,0
 "Conservative Party of Canada",FALSE,"Tobique—Mactaquac",13010,"2006",125599,0,0,125599,51,0,0,51
 "Conservative Party of Canada",FALSE,"Argenteuil—Papineau—Mirabel",24004,"2006",514000,504000,10000,0,16,15,1,0
 "Conservative Party of Canada",FALSE,"Beauce",24005,"2006",3688600,1691450,1997150,0,225,52,173,0
@@ -1027,7 +1021,7 @@
 "Conservative Party of Canada",FALSE,"Pontiac",24050,"2006",8126667,8071195,55473,0,121,116,5,0
 "Conservative Party of Canada",FALSE,"Portneuf—Jacques-Cartier",24051,"2006",3435000,1940000,1495000,0,116,39,77,0
 "Conservative Party of Canada",FALSE,"Québec",24052,"2006",1500,0,0,1500,3,0,0,3
-"Conservative Party of Canada",FALSE,"Repentigny",24053,"2006",3e+05,300000,0,0,6,6,0,0
+"Conservative Party of Canada",FALSE,"Repentigny",24053,"2006",3e+05,3e+05,0,0,6,6,0,0
 "Conservative Party of Canada",FALSE,"Richmond—Arthabaska",24055,"2006",364984,357500,5000,2484,19,17,1,1
 "Conservative Party of Canada",FALSE,"Rimouski-Neigette—Témiscouata—Les Basques",24056,"2006",92000,92000,92000,0,5,0,5,0
 "Conservative Party of Canada",FALSE,"Rivière-des-Mille-Îles",24057,"2006",50000,0,50000,0,3,0,3,0
@@ -1047,7 +1041,7 @@
 "Conservative Party of Canada",FALSE,"Algoma—Manitoulin—Kapuskasing",35002,"2006",228000,50000,178000,0,16,1,15,0
 "Conservative Party of Canada",FALSE,"Ancaster—Dundas—Flamborough—Westdale",35003,"2006",2559250,1426500,1132750,0,157,44,113,0
 "Conservative Party of Canada",FALSE,"Barrie",35004,"2006",1989500,1415500,574000,0,119,39,80,0
-"Conservative Party of Canada",FALSE,"Beaches—East York",35005,"2006",208000,200000,8000,0,3,2,1,0
+"Conservative Party of Canada",FALSE,"Beaches—East York",35005,"2006",208000,2e+05,8000,0,3,2,1,0
 "Conservative Party of Canada",FALSE,"Brampton—Springdale",35007,"2006",192020,166020,26000,0,4,2,2,0
 "Conservative Party of Canada",FALSE,"Brampton West",35008,"2006",315500,31500,284000,0,19,1,18,0
 "Conservative Party of Canada",FALSE,"Brant",35009,"2006",599250,554250,45000,0,7,3,4,0
@@ -1154,10 +1148,10 @@
 "Conservative Party of Canada",FALSE,"Selkirk—Interlake",46010,"2006",1499500,398000,1101500,0,139,11,128,0
 "Conservative Party of Canada",FALSE,"Winnipeg Centre",46011,"2006",141500,35000,106500,0,12,1,11,0
 "Conservative Party of Canada",FALSE,"Winnipeg North",46012,"2006",5000,0,5000,0,1,0,1,0
-"Conservative Party of Canada",FALSE,"Winnipeg South Centre",46014,"2006",245000,200000,45000,0,7,4,3,0
+"Conservative Party of Canada",FALSE,"Winnipeg South Centre",46014,"2006",245000,2e+05,45000,0,7,4,3,0
 "Conservative Party of Canada",FALSE,"Battlefords—Lloydminster",47001,"2006",112500,0,112500,0,10,0,10,0
 "Conservative Party of Canada",FALSE,"Blackstrap",47002,"2006",917500,522000,395500,0,54,10,44,0
-"Conservative Party of Canada",FALSE,"Desnethé—Missinippi—Churchill River",47003,"2006",181500,100000,81500,0,12,1,11,0
+"Conservative Party of Canada",FALSE,"Desnethé—Missinippi—Churchill River",47003,"2006",181500,1e+05,81500,0,12,1,11,0
 "Conservative Party of Canada",FALSE,"Cypress Hills—Grasslands",47004,"2006",61000,0,61000,0,10,0,10,0
 "Conservative Party of Canada",FALSE,"Palliser",47005,"2006",207000,155000,52000,0,10,3,7,0
 "Conservative Party of Canada",FALSE,"Prince Albert",47006,"2006",670000,580000,90000,0,17,8,9,0
@@ -1178,7 +1172,7 @@
 "Conservative Party of Canada",FALSE,"Calgary Southeast",48007,"2006",5360100,3779100,1581000,0,299,94,205,0
 "Conservative Party of Canada",FALSE,"Calgary Southwest",48008,"2006",6017800,2893500,3124300,0,442,54,388,0
 "Conservative Party of Canada",FALSE,"Calgary West",48009,"2006",865500,180000,685500,0,101,6,95,0
-"Conservative Party of Canada",FALSE,"Crowfoot",48010,"2006",342000,200000,142000,0,16,3,13,0
+"Conservative Party of Canada",FALSE,"Crowfoot",48010,"2006",342000,2e+05,142000,0,16,3,13,0
 "Conservative Party of Canada",FALSE,"Edmonton—Mill Woods—Beaumont",48011,"2006",713500,585500,128000,0,22,12,10,0
 "Conservative Party of Canada",FALSE,"Edmonton Centre",48012,"2006",5642714,3607704,2035009,0,268,58,210,0
 "Conservative Party of Canada",FALSE,"Edmonton East",48013,"2006",2533580,714000,1802000,17580,259,20,224,15
@@ -1188,7 +1182,7 @@
 "Conservative Party of Canada",FALSE,"Edmonton—Spruce Grove",48017,"2006",1583063,1408563,174500,0,48,31,17,0
 "Conservative Party of Canada",FALSE,"Edmonton—Strathcona",48018,"2006",2749000,1587000,1162000,0,195,25,170,0
 "Conservative Party of Canada",FALSE,"Lethbridge",48019,"2006",1696000,572500,1123500,0,107,9,98,0
-"Conservative Party of Canada",FALSE,"Macleod",48020,"2006",851200,200000,651200,0,80,4,76,0
+"Conservative Party of Canada",FALSE,"Macleod",48020,"2006",851200,2e+05,651200,0,80,4,76,0
 "Conservative Party of Canada",FALSE,"Medicine Hat",48021,"2006",139500,30000,109500,0,14,1,13,0
 "Conservative Party of Canada",FALSE,"Peace River",48022,"2006",16000,0,16000,0,3,0,3,0
 "Conservative Party of Canada",FALSE,"Red Deer",48023,"2006",686570,378000,140000,168570,242,5,12,225
@@ -1205,7 +1199,7 @@
 "Conservative Party of Canada",FALSE,"Delta—Richmond East",59006,"2006",628500,302500,326000,0,49,8,41,0
 "Conservative Party of Canada",FALSE,"Pitt Meadows—Maple Ridge—Mission",59007,"2006",2622500,1775000,827500,20000,305,29,76,200
 "Conservative Party of Canada",FALSE,"Esquimalt—Juan de Fuca",59008,"2006",2334000,1431000,903000,0,116,24,92,0
-"Conservative Party of Canada",FALSE,"Fleetwood—Port Kells",59009,"2006",2e+05,200000,0,0,3,3,0,0
+"Conservative Party of Canada",FALSE,"Fleetwood—Port Kells",59009,"2006",2e+05,2e+05,0,0,3,3,0,0
 "Conservative Party of Canada",FALSE,"Kamloops—Thompson—Cariboo",59010,"2006",599696,293463,290700,15533,102,10,42,50
 "Conservative Party of Canada",FALSE,"Kelowna—Lake Country",59011,"2006",1781000,724500,1056500,0,145,14,131,0
 "Conservative Party of Canada",FALSE,"Kootenay—Columbia",59012,"2006",3538490,2413990,1124500,0,149,33,116,0
@@ -1248,7 +1242,7 @@
 "Conservative Party of Canada",FALSE,"South Shore—St. Margaret's",12009,"2007",181000,150000,31000,0,7,2,5,0
 "Conservative Party of Canada",FALSE,"Sydney—Victoria",12010,"2007",101200,46500,54700,0,9,2,7,0
 "Conservative Party of Canada",FALSE,"West Nova",12011,"2007",514800,250000,239000,25800,95,5,25,65
-"Conservative Party of Canada",FALSE,"Acadie—Bathurst",13001,"2007",363500,100000,263500,0,185,1,184,0
+"Conservative Party of Canada",FALSE,"Acadie—Bathurst",13001,"2007",363500,1e+05,263500,0,185,1,184,0
 "Conservative Party of Canada",FALSE,"Beauséjour",13002,"2007",107500,25000,82500,0,21,1,20,0
 "Conservative Party of Canada",FALSE,"Fredericton",13003,"2007",431980,330000,101980,0,26,7,19,0
 "Conservative Party of Canada",FALSE,"Fundy Royal",13004,"2007",387000,235000,152000,0,16,0,16,0
@@ -1357,7 +1351,7 @@
 "Conservative Party of Canada",FALSE,"Nepean—Carleton",35052,"2007",3971622,2738590,1233032,0,249,43,206,0
 "Conservative Party of Canada",FALSE,"Newmarket—Aurora",35053,"2007",1274000,507500,766500,0,94,12,82,0
 "Conservative Party of Canada",FALSE,"Niagara Falls",35054,"2007",3098350,1692000,1386200,20150,197,44,141,12
-"Conservative Party of Canada",FALSE,"Niagara West—Glanbrook",35055,"2007",1749441,1390000,300000,59441,88,17,31,40
+"Conservative Party of Canada",FALSE,"Niagara West—Glanbrook",35055,"2007",1749441,1390000,3e+05,59441,88,17,31,40
 "Conservative Party of Canada",FALSE,"Niagara West—Glanbrook",35055,"2007",884804,515389,369414,0,72,17,55,0
 "Conservative Party of Canada",FALSE,"Nipissing—Timiskaming",35057,"2007",974000,510000,464000,0,56,11,45,0
 "Conservative Party of Canada",FALSE,"Northumberland—Quinte West",35058,"2007",2463700,1635200,828500,0,133,32,101,0
@@ -1412,7 +1406,7 @@
 "Conservative Party of Canada",FALSE,"Saint Boniface",46009,"2007",813000,505000,308000,0,53,11,42,0
 "Conservative Party of Canada",FALSE,"Selkirk—Interlake",46010,"2007",1748800,532100,1216700,0,142,15,127,0
 "Conservative Party of Canada",FALSE,"Winnipeg Centre",46011,"2007",209500,130000,79500,0,12,3,9,0
-"Conservative Party of Canada",FALSE,"Winnipeg South Centre",46014,"2007",1355000,955000,400000,0,51,18,33,0
+"Conservative Party of Canada",FALSE,"Winnipeg South Centre",46014,"2007",1355000,955000,4e+05,0,51,18,33,0
 "Conservative Party of Canada",FALSE,"Battlefords—Lloydminster",47001,"2007",1183300,601300,582000,0,120,12,108,0
 "Conservative Party of Canada",FALSE,"Blackstrap",47002,"2007",755000,280000,475000,0,60,7,53,0
 "Conservative Party of Canada",FALSE,"Desnethé—Missinippi—Churchill River",47003,"2007",541900,265900,276000,0,37,5,32,0
@@ -1450,14 +1444,14 @@
 "Conservative Party of Canada",FALSE,"Peace River",48022,"2007",87500,80000,7500,0,3,1,2,0
 "Conservative Party of Canada",FALSE,"Red Deer",48023,"2007",323000,170000,153000,0,20,2,18,0
 "Conservative Party of Canada",FALSE,"Vegreville—Wainwright",48024,"2007",551500,288500,261000,2000,44,6,36,2
-"Conservative Party of Canada",FALSE,"Westlock—St. Paul",48025,"2007",289000,200000,89000,0,10,2,8,0
+"Conservative Party of Canada",FALSE,"Westlock—St. Paul",48025,"2007",289000,2e+05,89000,0,10,2,8,0
 "Conservative Party of Canada",FALSE,"Wetaskiwin",48026,"2007",347000,155000,192000,0,32,4,28,0
 "Conservative Party of Canada",FALSE,"Wild Rose",48027,"2007",266500,30000,236500,0,18,1,17,0
 "Conservative Party of Canada",FALSE,"Yellowhead",48028,"2007",467000,375000,92000,0,14,5,9,0
 "Conservative Party of Canada",FALSE,"Abbotsford",59001,"2007",2451600,1187500,1264100,0,170,25,145,0
 "Conservative Party of Canada",FALSE,"Burnaby—Douglas",59002,"2007",376700,230700,146000,0,37,6,31,0
 "Conservative Party of Canada",FALSE,"Burnaby—New Westminster",59003,"2007",265435,40000,199300,16135,32,1,19,12
-"Conservative Party of Canada",FALSE,"Cariboo—Prince George",59004,"2007",149500,100000,48500,1000,7,1,5,1
+"Conservative Party of Canada",FALSE,"Cariboo—Prince George",59004,"2007",149500,1e+05,48500,1000,7,1,5,1
 "Conservative Party of Canada",FALSE,"Chilliwack—Fraser Canyon",59005,"2007",1719100,960500,758600,0,135,24,111,0
 "Conservative Party of Canada",FALSE,"Delta—Richmond East",59006,"2007",891804,390052,492963,8790,130,12,78,40
 "Conservative Party of Canada",FALSE,"Pitt Meadows—Maple Ridge—Mission",59007,"2007",2846950,1773000,1073950,0,119,28,91,0
@@ -1470,7 +1464,7 @@
 "Conservative Party of Canada",FALSE,"Nanaimo—Cowichan",59015,"2007",3896100,2199000,1697100,0,200,26,174,0
 "Conservative Party of Canada",FALSE,"Newton—North Delta",59016,"2007",1201383,1056000,107500,37883,78,19,9,50
 "Conservative Party of Canada",FALSE,"New Westminster—Coquitlam",59017,"2007",2890000,2285000,605000,0,107,43,64,0
-"Conservative Party of Canada",FALSE,"Okanagan—Shuswap",59018,"2007",121050,100000,21050,0,2,2,0,0
+"Conservative Party of Canada",FALSE,"Okanagan—Shuswap",59018,"2007",121050,1e+05,21050,0,2,2,0,0
 "Conservative Party of Canada",FALSE,"North Vancouver",59019,"2007",5285449,3525000,1585500,174949,1309,70,142,1097
 "Conservative Party of Canada",FALSE,"Okanagan—Coquihalla",59020,"2007",4233453,2621000,1419500,192953,285,0,210,75
 "Conservative Party of Canada",FALSE,"Port Moody—Westwood—Port Coquitlam",59021,"2007",2605268,1844509,760758,0,95,38,57,0
@@ -1489,8 +1483,8 @@
 "Conservative Party of Canada",FALSE,"West Vancouver—Sunshine Coast—Sea to Sky Country",59036,"2007",8091500,4994000,2824000,273500,1630,101,262,1267
 "Conservative Party of Canada",FALSE,"Yukon",60001,"2007",4541500,3178000,1363500,0,197,54,143,0
 "Conservative Party of Canada",FALSE,"Avalon",10001,"2008",4434000,3265000,1169000,0,124,59,65,0
-"Conservative Party of Canada",FALSE,"Bonavista—Gander—Grand Falls—Windsor",10002,"2008",1e+05,100000,0,0,1,1,0,0
-"Conservative Party of Canada",FALSE,"St. John's East",10006,"2008",190000,90000,100000,0,7,2,5,0
+"Conservative Party of Canada",FALSE,"Bonavista—Gander—Grand Falls—Windsor",10002,"2008",1e+05,1e+05,0,0,1,1,0,0
+"Conservative Party of Canada",FALSE,"St. John's East",10006,"2008",190000,90000,1e+05,0,7,2,5,0
 "Conservative Party of Canada",FALSE,"Cardigan",11001,"2008",676000,210000,466000,0,53,4,49,0
 "Conservative Party of Canada",FALSE,"Charlottetown",11002,"2008",180000,155000,25000,0,6,3,3,0
 "Conservative Party of Canada",FALSE,"Egmont",11003,"2008",3340200,3103200,237000,0,74,52,22,0
@@ -1507,13 +1501,13 @@
 "Conservative Party of Canada",FALSE,"Beauséjour",13002,"2008",851500,591500,260000,0,47,13,34,0
 "Conservative Party of Canada",FALSE,"Fredericton",13003,"2008",3267500,2945000,322500,0,87,57,30,0
 "Conservative Party of Canada",FALSE,"Madawaska—Restigouche",13005,"2008",1097075,689300,407775,0,113,11,102,0
-"Conservative Party of Canada",FALSE,"Miramichi",13006,"2008",588000,500000,88000,0,21,10,11,0
+"Conservative Party of Canada",FALSE,"Miramichi",13006,"2008",588000,5e+05,88000,0,21,10,11,0
 "Conservative Party of Canada",FALSE,"Moncton—Riverview—Dieppe",13007,"2008",1725163,1284681,440482,0,78,28,50,0
 "Conservative Party of Canada",FALSE,"New Brunswick Southwest",13008,"2008",562790,472789,90000,0,16,8,8,0
 "Conservative Party of Canada",FALSE,"Saint John",13009,"2008",2844756,2080387,764369,0,109,41,68,0
 "Conservative Party of Canada",FALSE,"Tobique—Mactaquac",13010,"2008",956445,784344,161101,11000,62,13,14,35
 "Conservative Party of Canada",FALSE,"Abitibi—Témiscamingue",24001,"2008",27000,27000,0,0,2,2,0,0
-"Conservative Party of Canada",FALSE,"Ahuntsic",24002,"2008",3335753,2935753,400000,0,91,63,28,0
+"Conservative Party of Canada",FALSE,"Ahuntsic",24002,"2008",3335753,2935753,4e+05,0,91,63,28,0
 "Conservative Party of Canada",FALSE,"Argenteuil—Papineau—Mirabel",24004,"2008",626000,610000,15000,1000,12,10,1,1
 "Conservative Party of Canada",FALSE,"Beauce",24005,"2008",5684500,3878000,1806500,0,240,72,168,0
 "Conservative Party of Canada",FALSE,"Beauharnois—Salaberry",24006,"2008",1179000,1099000,80000,0,26,21,5,0
@@ -1532,10 +1526,10 @@
 "Conservative Party of Canada",FALSE,"Honoré-Mercier",24022,"2008",656200,508700,147500,0,20,9,11,0
 "Conservative Party of Canada",FALSE,"Hull—Aylmer",24023,"2008",957527,636559,320968,0,52,11,41,0
 "Conservative Party of Canada",FALSE,"Jeanne-Le Ber",24024,"2008",589412,548412,41000,0,11,7,4,0
-"Conservative Party of Canada",FALSE,"Joliette",24025,"2008",293000,200000,88000,5000,14,3,8,3
+"Conservative Party of Canada",FALSE,"Joliette",24025,"2008",293000,2e+05,88000,5000,14,3,8,3
 "Conservative Party of Canada",FALSE,"Jonquière—Alma",24026,"2008",5924600,5811050,113550,0,100,89,11,0
 "Conservative Party of Canada",FALSE,"Lac-Saint-Louis",24027,"2008",354680,330000,11500,13180,33,5,2,26
-"Conservative Party of Canada",FALSE,"LaSalle—Émard",24029,"2008",1e+05,100000,0,0,1,1,0,0
+"Conservative Party of Canada",FALSE,"LaSalle—Émard",24029,"2008",1e+05,1e+05,0,0,1,1,0,0
 "Conservative Party of Canada",FALSE,"Laurentides—Labelle",24030,"2008",139500,115000,16000,8500,11,3,2,6
 "Conservative Party of Canada",FALSE,"Laurier—Sainte-Marie",24031,"2008",3994100,3825100,169000,0,56,41,15,0
 "Conservative Party of Canada",FALSE,"Laval",24032,"2008",2609249,2609249,0,0,61,61,0,0
@@ -1544,15 +1538,15 @@
 "Conservative Party of Canada",FALSE,"Longueuil—Pierre-Boucher",24035,"2008",4135800,4086800,49000,0,55,50,5,0
 "Conservative Party of Canada",FALSE,"Lotbinière—Chutes-de-la-Chaudière",24036,"2008",151000,110000,41000,0,9,3,6,0
 "Conservative Party of Canada",FALSE,"Louis-Hébert",24037,"2008",2959300,1475000,1299300,185000,311,27,159,125
-"Conservative Party of Canada",FALSE,"Louis-Saint-Laurent",24038,"2008",320000,300000,20000,0,4,3,1,0
+"Conservative Party of Canada",FALSE,"Louis-Saint-Laurent",24038,"2008",320000,3e+05,20000,0,4,3,1,0
 "Conservative Party of Canada",FALSE,"Manicouagan",24039,"2008",657000,229500,427500,0,45,5,40,0
 "Conservative Party of Canada",FALSE,"Marc-Aurèle-Fortin",24040,"2008",140000,130000,10000,0,4,3,1,0
 "Conservative Party of Canada",FALSE,"Haute-Gaspésie—La Mitis—Matane—Matapédia",24041,"2008",227000,180000,47000,0,6,3,3,0
 "Conservative Party of Canada",FALSE,"Mégantic—L'Érable",24042,"2008",2083400,798400,1285000,0,154,17,137,0
-"Conservative Party of Canada",FALSE,"Montcalm",24043,"2008",378170,278170,100000,0,14,9,5,0
+"Conservative Party of Canada",FALSE,"Montcalm",24043,"2008",378170,278170,1e+05,0,14,9,5,0
 "Conservative Party of Canada",FALSE,"Abitibi—Baie-James—Nunavik—Eeyou",24046,"2008",1786000,1650000,135000,1000,78,66,11,1
 "Conservative Party of Canada",FALSE,"Papineau",24048,"2008",651510,537620,113890,0,23,7,16,0
-"Conservative Party of Canada",FALSE,"Pierrefonds—Dollard",24049,"2008",930000,900000,30000,0,18,15,3,0
+"Conservative Party of Canada",FALSE,"Pierrefonds—Dollard",24049,"2008",930000,9e+05,30000,0,18,15,3,0
 "Conservative Party of Canada",FALSE,"Pontiac",24050,"2008",10514500,10056000,458500,0,159,118,41,0
 "Conservative Party of Canada",FALSE,"Portneuf—Jacques-Cartier",24051,"2008",3295000,1925000,1370000,0,106,37,69,0
 "Conservative Party of Canada",FALSE,"Repentigny",24053,"2008",140000,140000,0,0,3,3,0,0
@@ -1562,10 +1556,10 @@
 "Conservative Party of Canada",FALSE,"Saint-Bruno—Saint-Hubert",24062,"2008",649500,525000,124500,0,22,8,14,0
 "Conservative Party of Canada",FALSE,"Saint-Hyacinthe—Bagot",24063,"2008",375000,375000,0,0,5,5,0,0
 "Conservative Party of Canada",FALSE,"Saint-Lambert",24065,"2008",180000,40000,140000,0,13,1,12,0
-"Conservative Party of Canada",FALSE,"Saint-Laurent—Cartierville",24066,"2008",646000,500000,146000,0,26,12,14,0
+"Conservative Party of Canada",FALSE,"Saint-Laurent—Cartierville",24066,"2008",646000,5e+05,146000,0,26,12,14,0
 "Conservative Party of Canada",FALSE,"Saint-Léonard—Saint-Michel",24067,"2008",227500,34400,185100,8000,29,1,20,8
 "Conservative Party of Canada",FALSE,"Saint-Maurice—Champlain",24068,"2008",1257500,855000,402500,0,54,21,33,0
-"Conservative Party of Canada",FALSE,"Shefford",24069,"2008",134000,100000,34000,0,3,1,2,0
+"Conservative Party of Canada",FALSE,"Shefford",24069,"2008",134000,1e+05,34000,0,3,1,2,0
 "Conservative Party of Canada",FALSE,"Sherbrooke",24070,"2008",7e+05,680000,20000,0,8,7,1,0
 "Conservative Party of Canada",FALSE,"Terrebonne—Blainville",24071,"2008",1223500,897500,251000,75000,87,16,16,55
 "Conservative Party of Canada",FALSE,"Trois-Rivières",24072,"2008",1252500,367500,885000,0,61,10,51,0
@@ -1593,7 +1587,7 @@
 "Conservative Party of Canada",FALSE,"Eglinton—Lawrence",35019,"2008",7355500,6355000,1000500,0,160,92,68,0
 "Conservative Party of Canada",FALSE,"Elgin—Middlesex—London",35020,"2008",2890100,1442500,1447600,0,187,34,153,0
 "Conservative Party of Canada",FALSE,"Essex",35021,"2008",3110500,1359500,1751000,0,216,30,186,0
-"Conservative Party of Canada",FALSE,"Etobicoke Centre",35022,"2008",5768000,2768000,3000000,0,276,56,220,0
+"Conservative Party of Canada",FALSE,"Etobicoke Centre",35022,"2008",5768000,2768000,3e+06,0,276,56,220,0
 "Conservative Party of Canada",FALSE,"Etobicoke—Lakeshore",35023,"2008",3188338,2250050,938287,0,153,36,117,0
 "Conservative Party of Canada",FALSE,"Etobicoke North",35024,"2008",2117167,2117167,0,0,22,22,0,0
 "Conservative Party of Canada",FALSE,"Glengarry—Prescott—Russell",35025,"2008",8905428,5121500,3783928,0,465,116,349,0
@@ -1605,7 +1599,7 @@
 "Conservative Party of Canada",FALSE,"Hamilton Centre",35031,"2008",727500,215000,491000,21500,99,6,68,25
 "Conservative Party of Canada",FALSE,"Hamilton East—Stoney Creek",35032,"2008",745809,463309,282500,0,47,10,37,0
 "Conservative Party of Canada",FALSE,"Hamilton Mountain",35033,"2008",1846165,666000,1169000,11165,135,19,96,20
-"Conservative Party of Canada",FALSE,"Huron—Bruce",35034,"2008",225000,100000,125000,0,11,1,10,0
+"Conservative Party of Canada",FALSE,"Huron—Bruce",35034,"2008",225000,1e+05,125000,0,11,1,10,0
 "Conservative Party of Canada",FALSE,"Kenora",35035,"2008",4591854,2857041,1734813,0,266,64,202,0
 "Conservative Party of Canada",FALSE,"Kingston and the Islands",35036,"2008",1870500,855000,1013500,2000,129,19,109,1
 "Conservative Party of Canada",FALSE,"Kitchener Centre",35037,"2008",2120206,1423914,696292,0,92,33,59,0
@@ -1637,13 +1631,13 @@
 "Conservative Party of Canada",FALSE,"Ottawa South",35064,"2008",4234544,2007283,2227261,0,267,39,228,0
 "Conservative Party of Canada",FALSE,"Ottawa—Vanier",35065,"2008",710236,432585,277650,0,70,9,61,0
 "Conservative Party of Canada",FALSE,"Ottawa West—Nepean",35066,"2008",8075000,5326500,2748500,0,357,112,245,0
-"Conservative Party of Canada",FALSE,"Oxford",35067,"2008",937000,337000,600000,0,80,10,70,0
+"Conservative Party of Canada",FALSE,"Oxford",35067,"2008",937000,337000,6e+05,0,80,10,70,0
 "Conservative Party of Canada",FALSE,"Parry Sound—Muskoka",35069,"2008",7223032,5857417,1365615,0,237,130,107,0
 "Conservative Party of Canada",FALSE,"Perth—Wellington",35070,"2008",1167000,429000,738000,0,102,9,93,0
 "Conservative Party of Canada",FALSE,"Peterborough",35071,"2008",5822937,5247777,459160,116000,250,81,44,125
 "Conservative Party of Canada",FALSE,"Pickering—Scarborough East",35072,"2008",2719525,2421790,291735,6000,116,35,31,50
 "Conservative Party of Canada",FALSE,"Prince Edward—Hastings",35073,"2008",1775000,1093500,681500,0,94,20,74,0
-"Conservative Party of Canada",FALSE,"Renfrew—Nipissing—Pembroke",35074,"2008",1837550,100000,1737550,0,228,3,225,0
+"Conservative Party of Canada",FALSE,"Renfrew—Nipissing—Pembroke",35074,"2008",1837550,1e+05,1737550,0,228,3,225,0
 "Conservative Party of Canada",FALSE,"St. Catharines",35076,"2008",6528036,4027618,2500418,0,329,84,245,0
 "Conservative Party of Canada",FALSE,"St. Paul's",35077,"2008",499200,375100,124100,0,24,8,16,0
 "Conservative Party of Canada",FALSE,"Sarnia—Lambton",35078,"2008",3118000,925000,2149000,44000,312,19,233,60
@@ -1657,7 +1651,7 @@
 "Conservative Party of Canada",FALSE,"Stormont—Dundas—South Glengarry",35087,"2008",1884500,30000,1569500,285000,533,1,247,285
 "Conservative Party of Canada",FALSE,"Sudbury",35088,"2008",4917961,4450243,467718,0,112,67,45,0
 "Conservative Party of Canada",FALSE,"Thornhill",35089,"2008",6844800,5672500,1124300,48000,455,113,88,254
-"Conservative Party of Canada",FALSE,"Thunder Bay—Superior North",35091,"2008",248350,200000,38350,10000,14,2,2,10
+"Conservative Party of Canada",FALSE,"Thunder Bay—Superior North",35091,"2008",248350,2e+05,38350,10000,14,2,2,10
 "Conservative Party of Canada",FALSE,"Toronto Centre",35093,"2008",65000,25000,40000,0,5,1,4,0
 "Conservative Party of Canada",FALSE,"Toronto—Danforth",35094,"2008",336000,172000,164000,0,26,6,20,0
 "Conservative Party of Canada",FALSE,"Trinity—Spadina",35095,"2008",2046500,1257400,789100,0,88,27,61,0
@@ -1781,14 +1775,14 @@
 "Conservative Party of Canada",FALSE,"Tobique—Mactaquac",13010,"2009",943865,306015,637850,0,109,6,103,0
 "Conservative Party of Canada",FALSE,"Beauce",24005,"2009",7154800,5146000,2008800,0,284,96,188,0
 "Conservative Party of Canada",FALSE,"Beauharnois—Salaberry",24006,"2009",320000,205000,115000,0,12,5,7,0
-"Conservative Party of Canada",FALSE,"Beauport—Limoilou",24007,"2009",120000,100000,20000,0,3,1,2,0
+"Conservative Party of Canada",FALSE,"Beauport—Limoilou",24007,"2009",120000,1e+05,20000,0,3,1,2,0
 "Conservative Party of Canada",FALSE,"Berthier—Maskinongé",24008,"2009",1042500,260000,782500,0,48,8,40,0
 "Conservative Party of Canada",FALSE,"Bourassa",24009,"2009",1575000,1570000,5000,0,27,26,1,0
 "Conservative Party of Canada",FALSE,"Brossard—La Prairie",24011,"2009",866078,476363,388475,1240,58,9,41,8
 "Conservative Party of Canada",FALSE,"Charlesbourg—Haute-Saint-Charles",24013,"2009",117000,50000,67000,0,9,1,8,0
 "Conservative Party of Canada",FALSE,"Chicoutimi—Le Fjord",24016,"2009",10000,0,0,0,0,0,0,0
 "Conservative Party of Canada",FALSE,"Drummond",24018,"2009",575000,575000,0,0,7,7,0,0
-"Conservative Party of Canada",FALSE,"Gaspésie—Îles-de-la-Madeleine",24019,"2009",133000,100000,33000,0,7,4,3,0
+"Conservative Party of Canada",FALSE,"Gaspésie—Îles-de-la-Madeleine",24019,"2009",133000,1e+05,33000,0,7,4,3,0
 "Conservative Party of Canada",FALSE,"Jeanne-Le Ber",24024,"2009",201500,30000,171500,0,33,1,32,0
 "Conservative Party of Canada",FALSE,"Joliette",24025,"2009",127500,80000,47000,500,7,1,5,1
 "Conservative Party of Canada",FALSE,"Jonquière—Alma",24026,"2009",2562811,553276,2009534,0,124,14,110,0
@@ -1826,7 +1820,7 @@
 "Conservative Party of Canada",FALSE,"Burlington",35010,"2009",625545,243115,382430,0,46,7,39,0
 "Conservative Party of Canada",FALSE,"Cambridge",35011,"2009",1847180,1265280,581900,0,77,24,53,0
 "Conservative Party of Canada",FALSE,"Carleton—Mississippi Mills",35012,"2009",2481209,1153757,1327452,0,179,28,151,0
-"Conservative Party of Canada",FALSE,"Chatham-Kent—Essex",35013,"2009",793000,300000,493000,0,65,8,57,0
+"Conservative Party of Canada",FALSE,"Chatham-Kent—Essex",35013,"2009",793000,3e+05,493000,0,65,8,57,0
 "Conservative Party of Canada",FALSE,"Durham",35014,"2009",2803900,690000,2113900,0,227,18,209,0
 "Conservative Party of Canada",FALSE,"Davenport",35015,"2009",264494,197502,66992,0,21,4,17,0
 "Conservative Party of Canada",FALSE,"Don Valley East",35016,"2009",1010000,566600,443400,0,65,9,56,0
@@ -1936,7 +1930,7 @@
 "Conservative Party of Canada",FALSE,"Saskatoon—Humboldt",47009,"2009",1002500,396000,606500,0,88,12,76,0
 "Conservative Party of Canada",FALSE,"Saskatoon—Rosetown—Biggar",47010,"2009",4643007,2592507,2035000,15500,317,51,228,38
 "Conservative Party of Canada",FALSE,"Saskatoon—Wanuskewin",47011,"2009",569400,275000,294400,0,39,7,32,0
-"Conservative Party of Canada",FALSE,"Souris—Moose Mountain",47012,"2009",250000,200000,50000,0,6,3,3,0
+"Conservative Party of Canada",FALSE,"Souris—Moose Mountain",47012,"2009",250000,2e+05,50000,0,6,3,3,0
 "Conservative Party of Canada",FALSE,"Wascana",47013,"2009",221300,210300,11000,0,6,4,2,0
 "Conservative Party of Canada",FALSE,"Yorkton—Melville",47014,"2009",699810,245825,453985,0,69,6,63,0
 "Conservative Party of Canada",FALSE,"Fort McMurray—Athabasca",48001,"2009",931500,835000,96500,0,26,9,17,0
@@ -1985,8 +1979,8 @@
 "Conservative Party of Canada",FALSE,"North Vancouver",59019,"2009",9377515,7383005,1994509,0,301,123,178,0
 "Conservative Party of Canada",FALSE,"Okanagan—Coquihalla",59020,"2009",373605,2239500,1485000,11605,186,0,161,25
 "Conservative Party of Canada",FALSE,"Port Moody—Westwood—Port Coquitlam",59021,"2009",2147500,1553000,594500,0,84,35,49,0
-"Conservative Party of Canada",FALSE,"Prince George—Peace River",59022,"2009",985000,800000,185000,0,30,15,15,0
-"Conservative Party of Canada",FALSE,"Richmond",59023,"2009",1734100,1634100,100000,0,50,43,7,0
+"Conservative Party of Canada",FALSE,"Prince George—Peace River",59022,"2009",985000,8e+05,185000,0,30,15,15,0
+"Conservative Party of Canada",FALSE,"Richmond",59023,"2009",1734100,1634100,1e+05,0,50,43,7,0
 "Conservative Party of Canada",FALSE,"Saanich—Gulf Islands",59024,"2009",1412300,416000,996300,0,120,11,109,0
 "Conservative Party of Canada",FALSE,"British Columbia Southern Interior",59026,"2009",930500,615000,315500,0,48,10,38,0
 "Conservative Party of Canada",FALSE,"South Surrey—White Rock—Cloverdale",59027,"2009",6855288,4727788,2127500,0,325,78,247,0
@@ -2042,14 +2036,14 @@
 "Conservative Party of Canada",FALSE,"Lotbinière—Chutes-de-la-Chaudière",24036,"2010",2630951,1620000,1008000,2951,94,28,64,2
 "Conservative Party of Canada",FALSE,"Louis-Hébert",24037,"2010",2446600,2025000,420500,1100,83,50,32,1
 "Conservative Party of Canada",FALSE,"Louis-Saint-Laurent",24038,"2010",2524500,2420000,104500,0,69,58,11,0
-"Conservative Party of Canada",FALSE,"Manicouagan",24039,"2010",1e+05,100000,0,0,1,1,0,0
+"Conservative Party of Canada",FALSE,"Manicouagan",24039,"2010",1e+05,1e+05,0,0,1,1,0,0
 "Conservative Party of Canada",FALSE,"Mégantic—L'Érable",24042,"2010",1814500,434000,1380500,0,153,12,141,0
-"Conservative Party of Canada",FALSE,"Mount Royal",24044,"2010",1e+05,100000,0,0,1,1,0,0
+"Conservative Party of Canada",FALSE,"Mount Royal",24044,"2010",1e+05,1e+05,0,0,1,1,0,0
 "Conservative Party of Canada",FALSE,"Abitibi—Baie-James—Nunavik—Eeyou",24046,"2010",456500,85000,371500,0,34,2,32,0
 "Conservative Party of Canada",FALSE,"Papineau",24048,"2010",26000,26000,0,0,1,1,0,0
 "Conservative Party of Canada",FALSE,"Pierrefonds—Dollard",24049,"2010",11772500,11455000,317500,0,230,200,30,0
 "Conservative Party of Canada",FALSE,"Pontiac",24050,"2010",9507200,9339700,167500,0,124,109,15,0
-"Conservative Party of Canada",FALSE,"Portneuf—Jacques-Cartier",24051,"2010",6e+05,600000,0,0,6,6,0,0
+"Conservative Party of Canada",FALSE,"Portneuf—Jacques-Cartier",24051,"2010",6e+05,6e+05,0,0,6,6,0,0
 "Conservative Party of Canada",FALSE,"Québec",24052,"2010",758000,478000,280000,0,37,16,21,0
 "Conservative Party of Canada",FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,"2010",82000,40000,42000,0,4,1,3,0
 "Conservative Party of Canada",FALSE,"Richmond—Arthabaska",24055,"2010",313000,145000,0,168000,113,4,0,109
@@ -2057,14 +2051,14 @@
 "Conservative Party of Canada",FALSE,"Roberval—Lac-Saint-Jean",24060,"2010",8840000,8807200,32800,0,162,160,2,0
 "Conservative Party of Canada",FALSE,"Saint-Bruno—Saint-Hubert",24062,"2010",487500,395000,92500,0,17,7,10,0
 "Conservative Party of Canada",FALSE,"Saint-Hyacinthe—Bagot",24063,"2010",475000,40000,425000,10000,44,1,38,5
-"Conservative Party of Canada",FALSE,"Saint-Laurent—Cartierville",24066,"2010",717000,600000,0,117000,105,15,0,90
+"Conservative Party of Canada",FALSE,"Saint-Laurent—Cartierville",24066,"2010",717000,6e+05,0,117000,105,15,0,90
 "Conservative Party of Canada",FALSE,"Saint-Maurice—Champlain",24068,"2010",40000,40000,0,0,1,1,0,0
 "Conservative Party of Canada",FALSE,"Shefford",24069,"2010",1232500,686000,544500,2000,65,13,51,1
 "Conservative Party of Canada",FALSE,"Sherbrooke",24070,"2010",490000,420000,70000,0,11,4,7,0
 "Conservative Party of Canada",FALSE,"Terrebonne—Blainville",24071,"2010",472500,226000,246500,0,41,5,36,0
 "Conservative Party of Canada",FALSE,"Trois-Rivières",24072,"2010",25000,25000,0,0,1,1,0,0
 "Conservative Party of Canada",FALSE,"Ajax—Pickering",35001,"2010",5499316,3728510,1508880,261926,1191,74,199,918
-"Conservative Party of Canada",FALSE,"Algoma—Manitoulin—Kapuskasing",35002,"2010",592500,500000,92500,0,20,10,10,0
+"Conservative Party of Canada",FALSE,"Algoma—Manitoulin—Kapuskasing",35002,"2010",592500,5e+05,92500,0,20,10,10,0
 "Conservative Party of Canada",FALSE,"Ancaster—Dundas—Flamborough—Westdale",35003,"2010",4317500,2970500,1347000,0,184,52,132,0
 "Conservative Party of Canada",FALSE,"Barrie",35004,"2010",2569590,1912190,657400,0,140,53,87,0
 "Conservative Party of Canada",FALSE,"Brampton—Springdale",35007,"2010",14548000,14520000,28000,0,271,269,2,0
@@ -2172,7 +2166,7 @@
 "Conservative Party of Canada",FALSE,"Winnipeg Centre",46011,"2010",375500,139000,236500,0,46,3,43,0
 "Conservative Party of Canada",FALSE,"Winnipeg North",46012,"2010",50000,50000,0,0,1,1,0,0
 "Conservative Party of Canada",FALSE,"Winnipeg South",46013,"2010",3242000,1406500,1829500,6000,222,34,185,3
-"Conservative Party of Canada",FALSE,"Winnipeg South Centre",46014,"2010",3300000,3100000,200000,0,73,58,15,0
+"Conservative Party of Canada",FALSE,"Winnipeg South Centre",46014,"2010",3300000,3100000,2e+05,0,73,58,15,0
 "Conservative Party of Canada",FALSE,"Battlefords—Lloydminster",47001,"2010",1955100,1022500,932600,0,113,18,95,0
 "Conservative Party of Canada",FALSE,"Blackstrap",47002,"2010",856000,484000,372000,0,53,10,43,0
 "Conservative Party of Canada",FALSE,"Desnethé—Missinippi—Churchill River",47003,"2010",841924,212000,557100,72824,151,5,83,63
@@ -2255,7 +2249,7 @@
 "Conservative Party of Canada",FALSE,"St. John's South—Mount Pearl",10007,"2011",5210000,5090000,120000,0,78,72,6,0
 "Conservative Party of Canada",FALSE,"Cardigan",11001,"2011",485000,410000,75000,0,17,10,7,0
 "Conservative Party of Canada",FALSE,"Charlottetown",11002,"2011",235496,191496,44000,0,9,5,4,0
-"Conservative Party of Canada",FALSE,"Egmont",11003,"2011",2550000,900000,1650000,0,136,15,121,0
+"Conservative Party of Canada",FALSE,"Egmont",11003,"2011",2550000,9e+05,1650000,0,136,15,121,0
 "Conservative Party of Canada",FALSE,"Malpeque",11004,"2011",518000,120000,398000,0,116,3,113,0
 "Conservative Party of Canada",FALSE,"Cape Breton—Canso",12001,"2011",1750866,529100,1171067,50700,407,13,139,255
 "Conservative Party of Canada",FALSE,"Central Nova",12002,"2011",922500,805000,117500,0,27,19,8,0
@@ -2268,7 +2262,7 @@
 "Conservative Party of Canada",FALSE,"South Shore—St. Margaret's",12009,"2011",103035,63036,40000,0,5,2,3,0
 "Conservative Party of Canada",FALSE,"Sydney—Victoria",12010,"2011",856003,676616,179387,0,68,12,56,0
 "Conservative Party of Canada",FALSE,"West Nova",12011,"2011",448946,316696,132250,0,24,7,17,0
-"Conservative Party of Canada",FALSE,"Acadie—Bathurst",13001,"2011",1e+05,0,100000,0,5,0,5,0
+"Conservative Party of Canada",FALSE,"Acadie—Bathurst",13001,"2011",1e+05,0,1e+05,0,5,0,5,0
 "Conservative Party of Canada",FALSE,"Beauséjour",13002,"2011",2295175,1867675,427500,0,75,40,35,0
 "Conservative Party of Canada",FALSE,"Fredericton",13003,"2011",6854500,6777000,77500,0,142,136,6,0
 "Conservative Party of Canada",FALSE,"Fundy Royal",13004,"2011",725879,50000,675879,0,0,-77,77,0
@@ -2303,14 +2297,14 @@
 "Conservative Party of Canada",FALSE,"Pierrefonds—Dollard",24049,"2011",3698500,3555000,143500,0,66,54,12,0
 "Conservative Party of Canada",FALSE,"Pontiac",24050,"2011",7627500,7352500,275000,0,107,88,19,0
 "Conservative Party of Canada",FALSE,"Portneuf—Jacques-Cartier",24051,"2011",560000,560000,0,0,7,7,0,0
-"Conservative Party of Canada",FALSE,"Québec",24052,"2011",368000,200000,90000,78000,94,4,38,52
+"Conservative Party of Canada",FALSE,"Québec",24052,"2011",368000,2e+05,90000,78000,94,4,38,52
 "Conservative Party of Canada",FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,"2011",175000,120000,55000,0,8,3,5,0
 "Conservative Party of Canada",FALSE,"Richmond—Arthabaska",24055,"2011",359000,260000,45000,54000,62,4,4,54
 "Conservative Party of Canada",FALSE,"Rivière-des-Mille-Îles",24057,"2011",2475000,2475000,0,0,32,32,0,0
 "Conservative Party of Canada",FALSE,"Roberval—Lac-Saint-Jean",24060,"2011",63000,40000,23000,0,3,1,2,0
 "Conservative Party of Canada",FALSE,"Saint-Hyacinthe—Bagot",24063,"2011",460000,275000,185000,0,31,4,27,0
 "Conservative Party of Canada",FALSE,"Saint-Laurent—Cartierville",24066,"2011",480000,310000,170000,0,21,6,15,0
-"Conservative Party of Canada",FALSE,"Saint-Léonard—Saint-Michel",24067,"2011",1e+05,100000,0,0,1,1,0,0
+"Conservative Party of Canada",FALSE,"Saint-Léonard—Saint-Michel",24067,"2011",1e+05,1e+05,0,0,1,1,0,0
 "Conservative Party of Canada",FALSE,"Saint-Maurice—Champlain",24068,"2011",50000,50000,0,0,2,2,0,0
 "Conservative Party of Canada",FALSE,"Shefford",24069,"2011",308000,270000,38000,0,7,3,4,0
 "Conservative Party of Canada",FALSE,"Trois-Rivières",24072,"2011",362500,345000,17500,0,11,4,7,0
@@ -2405,7 +2399,7 @@
 "Conservative Party of Canada",FALSE,"Thunder Bay—Superior North",35091,"2011",1305803,557500,704803,43500,139,12,92,35
 "Conservative Party of Canada",FALSE,"Timmins—James Bay",35092,"2011",343000,310000,33000,0,8,3,5,0
 "Conservative Party of Canada",FALSE,"Toronto Centre",35093,"2011",464700,377200,87500,0,15,7,8,0
-"Conservative Party of Canada",FALSE,"Toronto—Danforth",35094,"2011",210000,200000,10000,0,3,2,1,0
+"Conservative Party of Canada",FALSE,"Toronto—Danforth",35094,"2011",210000,2e+05,10000,0,3,2,1,0
 "Conservative Party of Canada",FALSE,"Trinity—Spadina",35095,"2011",687200,521200,166000,0,25,16,9,0
 "Conservative Party of Canada",FALSE,"Vaughan",35096,"2011",1555000,1530000,25000,0,19,17,2,0
 "Conservative Party of Canada",FALSE,"Wellington—Halton Hills",35098,"2011",525336,333336,192000,0,21,5,16,0
@@ -2497,12 +2491,12 @@
 "Conservative Party of Canada",FALSE,"Saanich—Gulf Islands",59024,"2011",1766900,1031500,735400,0,109,27,82,0
 "Conservative Party of Canada",FALSE,"Skeena—Bulkley Valley",59025,"2011",591831,467500,124331,0,20,9,11,0
 "Conservative Party of Canada",FALSE,"British Columbia Southern Interior",59026,"2011",3671700,1732200,1939500,0,244,28,216,0
-"Conservative Party of Canada",FALSE,"South Surrey—White Rock—Cloverdale",59027,"2011",6337600,3644600,2493000,200000,465,70,232,163
+"Conservative Party of Canada",FALSE,"South Surrey—White Rock—Cloverdale",59027,"2011",6337600,3644600,2493000,2e+05,465,70,232,163
 "Conservative Party of Canada",FALSE,"Surrey North",59028,"2011",740600,525750,214850,0,35,9,26,0
 "Conservative Party of Canada",FALSE,"Vancouver Centre",59029,"2011",2562910,1911000,566910,85000,133,37,46,50
 "Conservative Party of Canada",FALSE,"Vancouver East",59030,"2011",455000,365000,90000,0,9,5,4,0
 "Conservative Party of Canada",FALSE,"Vancouver Island North",59031,"2011",3988500,2790500,1198000,0,152,49,103,0
-"Conservative Party of Canada",FALSE,"Vancouver Kingsway",59032,"2011",1318500,900000,418500,0,69,22,47,0
+"Conservative Party of Canada",FALSE,"Vancouver Kingsway",59032,"2011",1318500,9e+05,418500,0,69,22,47,0
 "Conservative Party of Canada",FALSE,"Vancouver Quadra",59033,"2011",4358910,3055000,1303910,0,161,60,101,0
 "Conservative Party of Canada",FALSE,"Vancouver South",59034,"2011",5839310,5066500,770210,2600,146,81,60,5
 "Conservative Party of Canada",FALSE,"Victoria",59035,"2011",5842500,3109000,2733500,0,339,67,272,0
@@ -2626,7 +2620,7 @@
 "Conservative Party of Canada",FALSE,"Sault Ste. Marie",35079,"2012",731742,576294,155448,0,39,16,23,0
 "Conservative Party of Canada",FALSE,"Scarborough Centre",35081,"2012",2677422,1637163,1010659,29600,229,39,93,97
 "Conservative Party of Canada",FALSE,"Scarborough—Guildwood",35082,"2012",666619,580000,65619,21000,61,6,13,42
-"Conservative Party of Canada",FALSE,"Scarborough—Rouge River",35083,"2012",268000,100000,168000,0,17,1,16,0
+"Conservative Party of Canada",FALSE,"Scarborough—Rouge River",35083,"2012",268000,1e+05,168000,0,17,1,16,0
 "Conservative Party of Canada",FALSE,"Scarborough Southwest",35084,"2012",1229400,302500,776000,150900,219,7,92,120
 "Conservative Party of Canada",FALSE,"Simcoe—Grey",35085,"2012",6166054,4365081,1800973,0,237,104,133,0
 "Conservative Party of Canada",FALSE,"Simcoe North",35086,"2012",5392500,3243800,2148700,0,338,85,253,0
@@ -2635,7 +2629,7 @@
 "Conservative Party of Canada",FALSE,"Thornhill",35089,"2012",4837100,2224000,2613100,0,310,40,270,0
 "Conservative Party of Canada",FALSE,"Thunder Bay—Rainy River",35090,"2012",392268,100132,289136,3000,126,3,35,88
 "Conservative Party of Canada",FALSE,"Thunder Bay—Superior North",35091,"2012",70000,70000,0,0,1,1,0,0
-"Conservative Party of Canada",FALSE,"Toronto Centre",35093,"2012",193611,100000,93611,0,15,2,13,0
+"Conservative Party of Canada",FALSE,"Toronto Centre",35093,"2012",193611,1e+05,93611,0,15,2,13,0
 "Conservative Party of Canada",FALSE,"Toronto—Danforth",35094,"2012",1136000,775500,360500,0,56,20,36,0
 "Conservative Party of Canada",FALSE,"Trinity—Spadina",35095,"2012",587500,167500,420000,0,33,5,28,0
 "Conservative Party of Canada",FALSE,"Vaughan",35096,"2012",510000,510000,0,0,5,5,0,0
@@ -2700,7 +2694,7 @@
 "Conservative Party of Canada",FALSE,"Burnaby—New Westminster",59003,"2012",88500,44500,44000,0,8,1,7,0
 "Conservative Party of Canada",FALSE,"Chilliwack—Fraser Canyon",59005,"2012",1177000,575000,599000,3000,90,13,75,2
 "Conservative Party of Canada",FALSE,"Delta—Richmond East",59006,"2012",3805568,1504651,2252292,48625,489,34,271,184
-"Conservative Party of Canada",FALSE,"Pitt Meadows—Maple Ridge—Mission",59007,"2012",841800,500000,341800,0,48,8,40,0
+"Conservative Party of Canada",FALSE,"Pitt Meadows—Maple Ridge—Mission",59007,"2012",841800,5e+05,341800,0,48,8,40,0
 "Conservative Party of Canada",FALSE,"Esquimalt—Juan de Fuca",59008,"2012",357000,120000,237000,0,24,3,21,0
 "Conservative Party of Canada",FALSE,"Fleetwood—Port Kells",59009,"2012",400100,129500,270600,0,37,4,33,0
 "Conservative Party of Canada",FALSE,"Kamloops—Thompson—Cariboo",59010,"2012",1435000,945000,490000,0,52,17,35,0
@@ -2723,12 +2717,12 @@
 "Conservative Party of Canada",FALSE,"South Surrey—White Rock—Cloverdale",59027,"2012",2811600,1410100,1401500,0,154,27,127,0
 "Conservative Party of Canada",FALSE,"Surrey North",59028,"2012",612295,361295,251000,0,32,7,25,0
 "Conservative Party of Canada",FALSE,"Vancouver Centre",59029,"2012",871500,393000,478500,0,56,9,47,0
-"Conservative Party of Canada",FALSE,"Vancouver East",59030,"2012",1e+05,100000,0,0,1,1,0,0
-"Conservative Party of Canada",FALSE,"Vancouver Island North",59031,"2012",1127000,900000,227000,0,34,14,20,0
+"Conservative Party of Canada",FALSE,"Vancouver East",59030,"2012",1e+05,1e+05,0,0,1,1,0,0
+"Conservative Party of Canada",FALSE,"Vancouver Island North",59031,"2012",1127000,9e+05,227000,0,34,14,20,0
 "Conservative Party of Canada",FALSE,"Vancouver Kingsway",59032,"2012",482000,280000,202000,0,29,7,22,0
 "Conservative Party of Canada",FALSE,"Vancouver Quadra",59033,"2012",2003630,1786700,176000,40930,94,37,17,40
 "Conservative Party of Canada",FALSE,"Vancouver South",59034,"2012",4567500,3980000,587500,0,106,72,34,0
-"Conservative Party of Canada",FALSE,"Victoria",59035,"2012",1370000,870000,500000,0,83,16,67,0
+"Conservative Party of Canada",FALSE,"Victoria",59035,"2012",1370000,870000,5e+05,0,83,16,67,0
 "Conservative Party of Canada",FALSE,"West Vancouver—Sunshine Coast—Sea to Sky Country",59036,"2012",7379492,6487992,862000,29500,205,99,77,29
 "Conservative Party of Canada",FALSE,"Yukon",60001,"2012",4569119,3696500,872619,0,137,62,75,0
 "Conservative Party of Canada",FALSE,"Nunavut",62001,"2012",274000,260000,14000,0,6,3,3,0
@@ -2858,7 +2852,7 @@
 "Conservative Party of Canada",FALSE,"Sudbury",35088,"2013",5826154,5759986,66168,0,72,64,8,0
 "Conservative Party of Canada",FALSE,"Thornhill",35089,"2013",1079800,430000,649800,0,93,10,83,0
 "Conservative Party of Canada",FALSE,"Thunder Bay—Rainy River",35090,"2013",234000,129000,105000,0,12,2,10,0
-"Conservative Party of Canada",FALSE,"Thunder Bay—Superior North",35091,"2013",425000,200000,225000,0,32,2,30,0
+"Conservative Party of Canada",FALSE,"Thunder Bay—Superior North",35091,"2013",425000,2e+05,225000,0,32,2,30,0
 "Conservative Party of Canada",FALSE,"Toronto Centre",35093,"2013",2837700,1679900,1157800,0,118,35,83,0
 "Conservative Party of Canada",FALSE,"Wellington—Halton Hills",35098,"2013",1264000,776500,487500,0,53,13,40,0
 "Conservative Party of Canada",FALSE,"Whitby—Oshawa",35099,"2013",9467992,8905492,562500,0,154,114,40,0
@@ -2875,7 +2869,7 @@
 "Conservative Party of Canada",FALSE,"Provencher",46008,"2013",571875,491875,80000,0,16,6,10,0
 "Conservative Party of Canada",FALSE,"Saint Boniface",46009,"2013",8287600,6211054,2076546,0,292,107,185,0
 "Conservative Party of Canada",FALSE,"Selkirk—Interlake",46010,"2013",3867730,1332000,2445000,90730,409,30,226,153
-"Conservative Party of Canada",FALSE,"Winnipeg Centre",46011,"2013",150000,100000,50000,0,5,1,4,0
+"Conservative Party of Canada",FALSE,"Winnipeg Centre",46011,"2013",150000,1e+05,50000,0,5,1,4,0
 "Conservative Party of Canada",FALSE,"Winnipeg South",46013,"2013",3141600,1928800,1212800,0,174,44,130,0
 "Conservative Party of Canada",FALSE,"Winnipeg South Centre",46014,"2013",5673000,5307000,366000,0,133,96,37,0
 "Conservative Party of Canada",FALSE,"Battlefords—Lloydminster",47001,"2013",4198750,2600550,1598200,0,211,46,165,0
@@ -2911,7 +2905,7 @@
 "Conservative Party of Canada",FALSE,"Lethbridge",48019,"2013",1022000,350000,672000,0,86,8,78,0
 "Conservative Party of Canada",FALSE,"Macleod",48020,"2013",1077335,420000,657335,0,103,7,96,0
 "Conservative Party of Canada",FALSE,"Medicine Hat",48021,"2013",1331000,295000,1036000,0,121,6,115,0
-"Conservative Party of Canada",FALSE,"Peace River",48022,"2013",1e+05,100000,0,0,1,1,0,0
+"Conservative Party of Canada",FALSE,"Peace River",48022,"2013",1e+05,1e+05,0,0,1,1,0,0
 "Conservative Party of Canada",FALSE,"Red Deer",48023,"2013",152500,110000,42500,0,4,1,3,0
 "Conservative Party of Canada",FALSE,"Vegreville—Wainwright",48024,"2013",191000,170000,21000,0,5,2,3,0
 "Conservative Party of Canada",FALSE,"Westlock—St. Paul",48025,"2013",162000,50000,82000,30000,27,2,10,15
@@ -2946,9 +2940,9 @@
 "Conservative Party of Canada",FALSE,"Vancouver Centre",59029,"2013",648726,422164,226562,0,33,7,26,0
 "Conservative Party of Canada",FALSE,"Vancouver Island North",59031,"2013",817500,680000,137500,0,24,12,12,0
 "Conservative Party of Canada",FALSE,"Vancouver Kingsway",59032,"2013",172500,70000,102500,0,12,2,10,0
-"Conservative Party of Canada",FALSE,"Vancouver Quadra",59033,"2013",195000,100000,95000,0,9,2,7,0
+"Conservative Party of Canada",FALSE,"Vancouver Quadra",59033,"2013",195000,1e+05,95000,0,9,2,7,0
 "Conservative Party of Canada",FALSE,"Vancouver South",59034,"2013",2405700,2090700,315000,0,58,36,22,0
-"Conservative Party of Canada",FALSE,"Victoria",59035,"2013",363000,200000,163000,0,27,6,21,0
+"Conservative Party of Canada",FALSE,"Victoria",59035,"2013",363000,2e+05,163000,0,27,6,21,0
 "Conservative Party of Canada",FALSE,"West Vancouver—Sunshine Coast—Sea to Sky Country",59036,"2013",5620661,4705496,905165,10000,177,76,90,11
 "Conservative Party of Canada",FALSE,"Yukon",60001,"2013",3352000,2741500,610500,0,98,45,53,0
 "Conservative Party of Canada",FALSE,"Nunavut",62001,"2013",568197,417797,150399,0,30,8,22,0
@@ -2962,10 +2956,7 @@
 "Green Party of Canada",TRUE,NA,NA,"2011",171436534,96470580,74933954,32000,12590,2193,10376,21
 "Green Party of Canada",TRUE,NA,NA,"2012",169759306,111376585,58382721,0,9532,2467,7065,0
 "Green Party of Canada",TRUE,NA,NA,"2013",221195640,135065857,86129783,0,14500,3046,11454,0
-"Green Party of Canada",TRUE,NA,NA,"2014",53140413,16550935,36589477,0,7546,398,7148,0
-"Green Party of Canada",TRUE,NA,NA,"2014",48067334,11748009,36319325,0,7802,270,7532,0
-"Green Party of Canada",TRUE,NA,NA,"2014",145502052,68034940,77467112,0,13306,1467,11839,0
-"Green Party of Canada",TRUE,NA,NA,"2014",53779671,15353491,38426180,0,7644,375,7269,0
+"Green Party of Canada",TRUE,NA,NA,"2014",300489470,111687375,188802094,0,36298,2510,33788,0
 "Green Party of Canada",TRUE,NA,NA,"2015",67052171,19369594,47682577,0,10354,409,9945,0
 "Green Party of Canada",FALSE,"Malpeque",11004,"2004",278500,0,0,1000,8,0,0,8
 "Green Party of Canada",FALSE,"Notre-Dame-de-Grâce—Lachine",24045,"2004",30000,0,0,0,1,1,0,0
@@ -2989,7 +2980,7 @@
 "Green Party of Canada",FALSE,"Oak Ridges—Markham",35059,"2004",150000,150000,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Oakville",35060,"2004",40000,0,40000,0,3,0,3,0
 "Green Party of Canada",FALSE,"Ottawa South",35064,"2004",160500,120000,39750,750,14,3,9,2
-"Green Party of Canada",FALSE,"Ottawa—Vanier",35065,"2004",288700,200000,17700,71000,52,5,2,45
+"Green Party of Canada",FALSE,"Ottawa—Vanier",35065,"2004",288700,2e+05,17700,71000,52,5,2,45
 "Green Party of Canada",FALSE,"Ottawa West—Nepean",35066,"2004",40000,30000,10000,0,2,1,1,0
 "Green Party of Canada",FALSE,"Parkdale—High Park",35068,"2004",1223900,798900,422000,3000,71,0,66,5
 "Green Party of Canada",FALSE,"Perth—Wellington",35070,"2004",180000,180000,0,0,3,3,0,0
@@ -3030,7 +3021,7 @@
 "Green Party of Canada",FALSE,"Lévis—Bellechasse",24034,"2005",184000,184000,184000,0,6,0,6,0
 "Green Party of Canada",FALSE,"Outremont",24047,"2005",107500,40000,65500,2000,10,1,6,3
 "Green Party of Canada",FALSE,"Québec",24052,"2005",67061,56261,10800,0,8,1,7,0
-"Green Party of Canada",FALSE,"Rosemont—La Petite-Patrie",24061,"2005",220000,200000,20000,0,7,5,2,0
+"Green Party of Canada",FALSE,"Rosemont—La Petite-Patrie",24061,"2005",220000,2e+05,20000,0,7,5,2,0
 "Green Party of Canada",FALSE,"Vaudreuil-Soulanges",24073,"2005",130000,95000,35000,0,7,3,4,0
 "Green Party of Canada",FALSE,"Ancaster—Dundas—Flamborough—Westdale",35003,"2005",249421,102000,63515,83906,67,3,9,55
 "Green Party of Canada",FALSE,"Barrie",35004,"2005",885450,614500,269950,1000,61,12,44,5
@@ -3070,9 +3061,9 @@
 "Green Party of Canada",FALSE,"Thornhill",35089,"2005",40000,0,40000,0,6,0,6,0
 "Green Party of Canada",FALSE,"Thunder Bay—Rainy River",35090,"2005",20500,0,20500,0,2,0,2,0
 "Green Party of Canada",FALSE,"Toronto Centre",35093,"2005",533500,280000,247000,6500,44,7,25,12
-"Green Party of Canada",FALSE,"Toronto—Danforth",35094,"2005",176000,100000,70000,6000,11,1,7,3
-"Green Party of Canada",FALSE,"Vaughan",35096,"2005",750000,700000,50000,0,15,12,3,0
-"Green Party of Canada",FALSE,"Willowdale",35100,"2005",215000,200000,15000,0,2,2,0,0
+"Green Party of Canada",FALSE,"Toronto—Danforth",35094,"2005",176000,1e+05,70000,6000,11,1,7,3
+"Green Party of Canada",FALSE,"Vaughan",35096,"2005",750000,7e+05,50000,0,15,12,3,0
+"Green Party of Canada",FALSE,"Willowdale",35100,"2005",215000,2e+05,15000,0,2,2,0,0
 "Green Party of Canada",FALSE,"York—Simcoe",35104,"2005",25000,25000,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"York West",35106,"2005",141000,139000,2000,0,4,3,1,0
 "Green Party of Canada",FALSE,"Winnipeg North",46012,"2005",10000,10000,0,0,1,1,0,0
@@ -3084,7 +3075,7 @@
 "Green Party of Canada",FALSE,"Prince George—Peace River",59022,"2005",138000,118000,20000,0,4,3,1,0
 "Green Party of Canada",FALSE,"Saanich—Gulf Islands",59024,"2005",510000,295500,214500,0,30,7,23,0
 "Green Party of Canada",FALSE,"British Columbia Southern Interior",59026,"2005",515468,515468,0,0,2,2,0,0
-"Green Party of Canada",FALSE,"Vancouver Island North",59031,"2005",491500,400000,91500,0,15,7,8,0
+"Green Party of Canada",FALSE,"Vancouver Island North",59031,"2005",491500,4e+05,91500,0,15,7,8,0
 "Green Party of Canada",FALSE,"Vancouver Quadra",59033,"2005",15000,0,15000,0,2,0,2,0
 "Green Party of Canada",FALSE,"Victoria",59035,"2005",334140,285140,47000,2000,15,6,8,1
 "Green Party of Canada",FALSE,"Northwest Territories",61001,"2005",12000,0,12000,0,2,0,2,0
@@ -3117,7 +3108,7 @@
 "Green Party of Canada",FALSE,"Kitchener—Waterloo",35039,"2006",54000,40000,8000,6000,11,1,4,6
 "Green Party of Canada",FALSE,"Lanark—Frontenac—Lennox and Addington",35040,"2006",591075,201000,337575,52500,99,6,43,50
 "Green Party of Canada",FALSE,"Leeds—Grenville",35041,"2006",137500,41000,41000,96500,12,0,1,11
-"Green Party of Canada",FALSE,"London North Centre",35043,"2006",277000,75000,200000,2000,96,2,44,50
+"Green Party of Canada",FALSE,"London North Centre",35043,"2006",277000,75000,2e+05,2000,96,2,44,50
 "Green Party of Canada",FALSE,"London West",35044,"2006",781400,606000,167400,8000,58,4,44,10
 "Green Party of Canada",FALSE,"Mississauga—Streetsville",35051,"2006",45000,25000,20000,0,5,1,4,0
 "Green Party of Canada",FALSE,"Nepean—Carleton",35052,"2006",417855,222000,195855,0,25,6,19,0
@@ -3185,11 +3176,11 @@
 "Green Party of Canada",FALSE,"Barrie",35004,"2007",1779000,1277500,501500,0,95,22,73,0
 "Green Party of Canada",FALSE,"Beaches—East York",35005,"2007",1234000,921000,313000,0,74,19,55,0
 "Green Party of Canada",FALSE,"Brant",35009,"2007",513500,333500,180000,0,33,8,25,0
-"Green Party of Canada",FALSE,"Cambridge",35011,"2007",112000,100000,10000,2000,5,5,0,0
+"Green Party of Canada",FALSE,"Cambridge",35011,"2007",112000,1e+05,10000,2000,5,5,0,0
 "Green Party of Canada",FALSE,"Carleton—Mississippi Mills",35012,"2007",511800,311000,198000,2800,0,-117,67,50
 "Green Party of Canada",FALSE,"Chatham-Kent—Essex",35013,"2007",20000,0,20000,0,1,1,0,0
 "Green Party of Canada",FALSE,"Davenport",35015,"2007",80000,80000,0,0,2,2,0,0
-"Green Party of Canada",FALSE,"Don Valley East",35016,"2007",102000,100000,2000,0,2,1,1,0
+"Green Party of Canada",FALSE,"Don Valley East",35016,"2007",102000,1e+05,2000,0,2,1,1,0
 "Green Party of Canada",FALSE,"Dufferin—Caledon",35018,"2007",1808500,1392500,406000,10000,73,21,42,10
 "Green Party of Canada",FALSE,"Eglinton—Lawrence",35019,"2007",86100,0,0,0,7,7,0,0
 "Green Party of Canada",FALSE,"Elgin—Middlesex—London",35020,"2007",44000,40000,0,4000,5,1,0,4
@@ -3217,7 +3208,7 @@
 "Green Party of Canada",FALSE,"Ottawa Centre",35062,"2007",840700,654000,185140,2550,156,15,131,10
 "Green Party of Canada",FALSE,"Ottawa South",35064,"2007",989000,757000,232000,0,35,10,25,0
 "Green Party of Canada",FALSE,"Ottawa—Vanier",35065,"2007",144000,140000,4000,0,2,0,2,0
-"Green Party of Canada",FALSE,"Parkdale—High Park",35068,"2007",103500,100000,2500,1000,3,1,1,1
+"Green Party of Canada",FALSE,"Parkdale—High Park",35068,"2007",103500,1e+05,2500,1000,3,1,1,1
 "Green Party of Canada",FALSE,"Perth—Wellington",35070,"2007",57500,40000,10000,7500,12,1,1,10
 "Green Party of Canada",FALSE,"Peterborough",35071,"2007",200500,119000,61500,20000,85,3,52,30
 "Green Party of Canada",FALSE,"Prince Edward—Hastings",35073,"2007",205000,0,0,0,6,6,0,0
@@ -3230,7 +3221,7 @@
 "Green Party of Canada",FALSE,"Toronto Centre",35093,"2007",1100500,930500,170000,0,42,17,25,0
 "Green Party of Canada",FALSE,"Toronto—Danforth",35094,"2007",986924,671500,246500,68924,168,13,53,102
 "Green Party of Canada",FALSE,"Trinity—Spadina",35095,"2007",140000,140000,0,0,2,2,0,0
-"Green Party of Canada",FALSE,"Vaughan",35096,"2007",1e+05,100000,0,0,1,1,0,0
+"Green Party of Canada",FALSE,"Vaughan",35096,"2007",1e+05,1e+05,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Wellington—Halton Hills",35098,"2007",50000,40000,10000,0,2,1,1,0
 "Green Party of Canada",FALSE,"Willowdale",35100,"2007",360000,310000,50000,0,7,4,3,0
 "Green Party of Canada",FALSE,"York Centre",35103,"2007",411100,280000,131100,0,20,20,0,0
@@ -3241,7 +3232,7 @@
 "Green Party of Canada",FALSE,"Portage—Lisgar",46007,"2007",169000,143000,26000,0,8,4,4,0
 "Green Party of Canada",FALSE,"Saint Boniface",46009,"2007",320000,320000,0,0,5,5,0,0
 "Green Party of Canada",FALSE,"Regina—Qu'Appelle",47008,"2007",122000,91000,31000,0,5,2,3,0
-"Green Party of Canada",FALSE,"Wascana",47013,"2007",221659,100000,94059,27600,52,2,18,32
+"Green Party of Canada",FALSE,"Wascana",47013,"2007",221659,1e+05,94059,27600,52,2,18,32
 "Green Party of Canada",FALSE,"Calgary Centre-North",48003,"2007",117500,110000,7500,0,2,1,1,0
 "Green Party of Canada",FALSE,"Calgary Centre",48006,"2007",566936,301980,244200,20756,100,5,38,57
 "Green Party of Canada",FALSE,"Edmonton—Leduc",48014,"2007",5000,0,0,0,15,15,0,0
@@ -3264,9 +3255,9 @@
 "Green Party of Canada",FALSE,"South Surrey—White Rock—Cloverdale",59027,"2007",223000,220000,3000,0,4,2,2,0
 "Green Party of Canada",FALSE,"Vancouver Centre",59029,"2007",2367083,2120560,241119,5403,117,34,43,40
 "Green Party of Canada",FALSE,"Vancouver East",59030,"2007",180000,60000,120000,0,10,2,8,0
-"Green Party of Canada",FALSE,"Vancouver Island North",59031,"2007",220000,200000,20000,0,4,2,2,0
+"Green Party of Canada",FALSE,"Vancouver Island North",59031,"2007",220000,2e+05,20000,0,4,2,2,0
 "Green Party of Canada",FALSE,"Vancouver Quadra",59033,"2007",711300,416000,295300,0,69,6,63,0
-"Green Party of Canada",FALSE,"Victoria",59035,"2007",630000,600000,30000,0,12,8,4,0
+"Green Party of Canada",FALSE,"Victoria",59035,"2007",630000,6e+05,30000,0,12,8,4,0
 "Green Party of Canada",FALSE,"Yukon",60001,"2007",248000,104000,144000,0,29,2,27,0
 "Green Party of Canada",FALSE,"Malpeque",11004,"2008",70000,70000,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Cape Breton—Canso",12001,"2008",154725,45000,15000,94725,120,0,3,117
@@ -3277,7 +3268,7 @@
 "Green Party of Canada",FALSE,"Ahuntsic",24002,"2008",500,0,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Compton—Stanstead",24017,"2008",176000,25000,151000,0,15,1,14,0
 "Green Party of Canada",FALSE,"Hull—Aylmer",24023,"2008",150000,80000,70000,0,8,3,5,0
-"Green Party of Canada",FALSE,"Lac-Saint-Louis",24027,"2008",220000,200000,20000,0,6,5,1,0
+"Green Party of Canada",FALSE,"Lac-Saint-Louis",24027,"2008",220000,2e+05,20000,0,6,5,1,0
 "Green Party of Canada",FALSE,"Haute-Gaspésie—La Mitis—Matane—Matapédia",24041,"2008",360000,336000,24000,0,9,3,6,0
 "Green Party of Canada",FALSE,"Pierrefonds—Dollard",24049,"2008",30000,30000,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Pontiac",24050,"2008",304500,220000,84500,0,9,2,7,0
@@ -3312,7 +3303,7 @@
 "Green Party of Canada",FALSE,"Mississauga South",35050,"2008",434500,250000,184500,0,26,6,20,0
 "Green Party of Canada",FALSE,"Mississauga—Streetsville",35051,"2008",97000,26000,70000,1000,7,1,5,1
 "Green Party of Canada",FALSE,"Nepean—Carleton",35052,"2008",57000,40000,17000,0,5,1,4,0
-"Green Party of Canada",FALSE,"Newmarket—Aurora",35053,"2008",501907,300000,177000,24907,112,6,19,87
+"Green Party of Canada",FALSE,"Newmarket—Aurora",35053,"2008",501907,3e+05,177000,24907,112,6,19,87
 "Green Party of Canada",FALSE,"Niagara Falls",35054,"2008",616545,450000,72500,94045,118,8,9,101
 "Green Party of Canada",FALSE,"Niagara West—Glanbrook",35055,"2008",636200,396200,240000,0,64,6,58,0
 "Green Party of Canada",FALSE,"Nipissing—Timiskaming",35057,"2008",449503,280000,150000,19503,56,7,12,37
@@ -3323,7 +3314,7 @@
 "Green Party of Canada",FALSE,"Ottawa—Orléans",35063,"2008",44000,30000,14000,0,4,1,3,0
 "Green Party of Canada",FALSE,"Ottawa South",35064,"2008",207000,130000,77000,0,8,2,6,0
 "Green Party of Canada",FALSE,"Ottawa—Vanier",35065,"2008",331000,266000,65000,0,9,4,5,0
-"Green Party of Canada",FALSE,"Ottawa West—Nepean",35066,"2008",216000,200000,14000,2000,10,3,5,2
+"Green Party of Canada",FALSE,"Ottawa West—Nepean",35066,"2008",216000,2e+05,14000,2000,10,3,5,2
 "Green Party of Canada",FALSE,"Oxford",35067,"2008",246000,220000,26000,0,5,2,3,0
 "Green Party of Canada",FALSE,"Parkdale—High Park",35068,"2008",953000,610000,343000,0,43,10,33,0
 "Green Party of Canada",FALSE,"Perth—Wellington",35070,"2008",63000,40000,23000,0,4,1,3,0
@@ -3364,7 +3355,7 @@
 "Green Party of Canada",FALSE,"Kamloops—Thompson—Cariboo",59010,"2008",127000,35000,92000,0,19,1,18,0
 "Green Party of Canada",FALSE,"Nanaimo—Alberni",59014,"2008",774500,405000,369500,0,44,8,36,0
 "Green Party of Canada",FALSE,"Nanaimo—Cowichan",59015,"2008",120200,0,15000,0,24,24,0,0
-"Green Party of Canada",FALSE,"Newton—North Delta",59016,"2008",1e+05,100000,0,0,1,1,0,0
+"Green Party of Canada",FALSE,"Newton—North Delta",59016,"2008",1e+05,1e+05,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"New Westminster—Coquitlam",59017,"2008",309900,261400,47500,1000,13,3,4,6
 "Green Party of Canada",FALSE,"Okanagan—Shuswap",59018,"2008",2375000,1926000,449000,0,103,36,67,0
 "Green Party of Canada",FALSE,"Prince George—Peace River",59022,"2008",72500,41500,31000,0,6,1,5,0
@@ -3373,7 +3364,7 @@
 "Green Party of Canada",FALSE,"Vancouver Centre",59029,"2008",4049160,3478728,557000,13432,146,21,79,46
 "Green Party of Canada",FALSE,"Vancouver East",59030,"2008",119140,80000,0,39140,36,2,0,34
 "Green Party of Canada",FALSE,"Vancouver Island North",59031,"2008",361200,295000,65000,1200,20,6,6,8
-"Green Party of Canada",FALSE,"Vancouver Quadra",59033,"2008",250000,150000,100000,0,14,4,10,0
+"Green Party of Canada",FALSE,"Vancouver Quadra",59033,"2008",250000,150000,1e+05,0,14,4,10,0
 "Green Party of Canada",FALSE,"Victoria",59035,"2008",1104000,890000,214000,0,36,10,26,0
 "Green Party of Canada",FALSE,"West Vancouver—Sunshine Coast—Sea to Sky Country",59036,"2008",90000,90000,0,0,2,2,0,0
 "Green Party of Canada",FALSE,"Yukon",60001,"2008",1174003,652000,494900,27102,138,13,78,47
@@ -3386,7 +3377,7 @@
 "Green Party of Canada",FALSE,"Gaspésie—Îles-de-la-Madeleine",24019,"2009",2000,0,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Jeanne-Le Ber",24024,"2009",110000,80000,30000,0,4,2,2,0
 "Green Party of Canada",FALSE,"Lac-Saint-Louis",24027,"2009",581500,581500,0,0,14,14,0,0
-"Green Party of Canada",FALSE,"Laval",24032,"2009",2e+05,200000,0,0,5,5,0,0
+"Green Party of Canada",FALSE,"Laval",24032,"2009",2e+05,2e+05,0,0,5,5,0,0
 "Green Party of Canada",FALSE,"Laval—Les Îles",24033,"2009",58000,50000,8000,0,3,1,2,0
 "Green Party of Canada",FALSE,"Haute-Gaspésie—La Mitis—Matane—Matapédia",24041,"2009",84000,80000,4000,0,3,1,2,0
 "Green Party of Canada",FALSE,"Pierrefonds—Dollard",24049,"2009",317047,61000,256046,0,40,2,38,0
@@ -3445,12 +3436,12 @@
 "Green Party of Canada",FALSE,"Edmonton—Strathcona",48018,"2009",14700,14500,0,200,8,8,0,0
 "Green Party of Canada",FALSE,"Medicine Hat",48021,"2009",4500,0,0,0,0,0,0,0
 "Green Party of Canada",FALSE,"Westlock—St. Paul",48025,"2009",76000,50000,26000,0,5,1,4,0
-"Green Party of Canada",FALSE,"Chilliwack—Fraser Canyon",59005,"2009",106000,100000,6000,0,7,1,6,0
+"Green Party of Canada",FALSE,"Chilliwack—Fraser Canyon",59005,"2009",106000,1e+05,6000,0,7,1,6,0
 "Green Party of Canada",FALSE,"Kamloops—Thompson—Cariboo",59010,"2009",361810,86500,275310,0,59,2,57,0
 "Green Party of Canada",FALSE,"Nanaimo—Alberni",59014,"2009",260000,210000,50000,0,14,5,9,0
 "Green Party of Canada",FALSE,"Nanaimo—Cowichan",59015,"2009",52000,0,0,0,4,4,0,0
 "Green Party of Canada",FALSE,"New Westminster—Coquitlam",59017,"2009",164650,121000,41000,2650,21,2,9,10
-"Green Party of Canada",FALSE,"Okanagan—Shuswap",59018,"2009",319000,200000,119000,0,21,6,15,0
+"Green Party of Canada",FALSE,"Okanagan—Shuswap",59018,"2009",319000,2e+05,119000,0,21,6,15,0
 "Green Party of Canada",FALSE,"North Vancouver",59019,"2009",122000,120000,2000,0,3,2,1,0
 "Green Party of Canada",FALSE,"Prince George—Peace River",59022,"2009",50000,40000,10000,0,2,1,1,0
 "Green Party of Canada",FALSE,"Richmond",59023,"2009",90000,60000,30000,0,3,1,2,0
@@ -3471,8 +3462,8 @@
 "Green Party of Canada",FALSE,"Barrie",35004,"2010",1139400,890000,247725,1675,106,18,53,35
 "Green Party of Canada",FALSE,"Beaches—East York",35005,"2010",30000,30000,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Brant",35009,"2010",282045,175000,44000,63045,58,3,5,50
-"Green Party of Canada",FALSE,"Davenport",35015,"2010",2e+05,200000,0,0,2,2,0,0
-"Green Party of Canada",FALSE,"Dufferin—Caledon",35018,"2010",333500,230000,100000,3500,20,3,10,7
+"Green Party of Canada",FALSE,"Davenport",35015,"2010",2e+05,2e+05,0,0,2,2,0,0
+"Green Party of Canada",FALSE,"Dufferin—Caledon",35018,"2010",333500,230000,1e+05,3500,20,3,10,7
 "Green Party of Canada",FALSE,"Etobicoke—Lakeshore",35023,"2010",25000,25000,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Bruce—Grey—Owen Sound",35026,"2010",1211300,940100,237000,34200,137,15,75,47
 "Green Party of Canada",FALSE,"Guelph",35027,"2010",210000,190000,20000,0,11,5,6,0
@@ -3490,7 +3481,7 @@
 "Green Party of Canada",FALSE,"Newmarket—Aurora",35053,"2010",368324,246800,112800,8724,48,6,11,31
 "Green Party of Canada",FALSE,"Niagara West—Glanbrook",35055,"2010",1160267,954900,205367,0,41,18,23,0
 "Green Party of Canada",FALSE,"Nipissing—Timiskaming",35057,"2010",194052,0,28000,16052,78,78,0,0
-"Green Party of Canada",FALSE,"Northumberland—Quinte West",35058,"2010",327000,300000,27000,0,11,4,7,0
+"Green Party of Canada",FALSE,"Northumberland—Quinte West",35058,"2010",327000,3e+05,27000,0,11,4,7,0
 "Green Party of Canada",FALSE,"Oak Ridges—Markham",35059,"2010",111000,71000,40000,0,4,2,2,0
 "Green Party of Canada",FALSE,"Ottawa Centre",35062,"2010",108100,83600,22000,2500,10,3,2,5
 "Green Party of Canada",FALSE,"Ottawa West—Nepean",35066,"2010",577705,456405,108300,13000,76,12,21,43
@@ -3514,7 +3505,7 @@
 "Green Party of Canada",FALSE,"Winnipeg North",46012,"2010",85000,80000,5000,0,3,2,1,0
 "Green Party of Canada",FALSE,"Winnipeg South",46013,"2010",121803,57500,61303,3000,9,2,5,2
 "Green Party of Canada",FALSE,"Regina—Qu'Appelle",47008,"2010",199500,110000,89500,0,17,3,14,0
-"Green Party of Canada",FALSE,"Fort McMurray—Athabasca",48001,"2010",150000,100000,50000,0,4,1,3,0
+"Green Party of Canada",FALSE,"Fort McMurray—Athabasca",48001,"2010",150000,1e+05,50000,0,4,1,3,0
 "Green Party of Canada",FALSE,"Calgary Centre-North",48003,"2010",490500,280000,179000,31500,54,7,15,32
 "Green Party of Canada",FALSE,"Calgary Centre",48006,"2010",94800,40000,54800,0,9,1,8,0
 "Green Party of Canada",FALSE,"Calgary West",48009,"2010",240000,210000,29000,1000,10,2,5,3
@@ -3523,7 +3514,7 @@
 "Green Party of Canada",FALSE,"Nanaimo—Cowichan",59015,"2010",21100,0,0,0,6,6,0,0
 "Green Party of Canada",FALSE,"Okanagan—Shuswap",59018,"2010",86098,40000,45000,1098,39,1,4,34
 "Green Party of Canada",FALSE,"Prince George—Peace River",59022,"2010",2e+05,180000,20000,0,9,3,6,0
-"Green Party of Canada",FALSE,"Richmond",59023,"2010",1e+05,100000,0,0,1,1,0,0
+"Green Party of Canada",FALSE,"Richmond",59023,"2010",1e+05,1e+05,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Saanich—Gulf Islands",59024,"2010",5953513,4684181,1036800,232532,2365,79,206,2080
 "Green Party of Canada",FALSE,"British Columbia Southern Interior",59026,"2010",184800,160000,18000,6800,19,0,6,13
 "Green Party of Canada",FALSE,"Vancouver Centre",59029,"2010",3754775,3300925,445300,8550,146,52,73,21
@@ -3536,7 +3527,7 @@
 "Green Party of Canada",FALSE,"Fredericton",13003,"2011",317500,174000,140000,3500,26,4,15,7
 "Green Party of Canada",FALSE,"Moncton—Riverview—Dieppe",13007,"2011",267500,192000,75500,0,10,4,6,0
 "Green Party of Canada",FALSE,"New Brunswick Southwest",13008,"2011",487500,236000,251500,0,35,7,28,0
-"Green Party of Canada",FALSE,"Saint John",13009,"2011",102000,100000,2000,0,3,1,2,0
+"Green Party of Canada",FALSE,"Saint John",13009,"2011",102000,1e+05,2000,0,3,1,2,0
 "Green Party of Canada",FALSE,"Joliette",24025,"2011",261400,30100,193000,38300,66,1,16,49
 "Green Party of Canada",FALSE,"Lac-Saint-Louis",24027,"2011",150000,150000,0,0,4,4,0,0
 "Green Party of Canada",FALSE,"Laval—Les Îles",24033,"2011",40000,40000,0,0,1,1,0,0
@@ -3556,7 +3547,7 @@
 "Green Party of Canada",FALSE,"Haldimand—Norfolk",35028,"2011",257500,217500,40000,0,4,2,2,0
 "Green Party of Canada",FALSE,"Haliburton—Kawartha Lakes—Brock",35029,"2011",240000,150000,60000,30000,28,-2,13,17
 "Green Party of Canada",FALSE,"Kingston and the Islands",35036,"2011",396000,160000,236000,0,25,3,22,0
-"Green Party of Canada",FALSE,"Kitchener—Waterloo",35039,"2011",203000,200000,3000,0,5,3,2,0
+"Green Party of Canada",FALSE,"Kitchener—Waterloo",35039,"2011",203000,2e+05,3000,0,5,3,2,0
 "Green Party of Canada",FALSE,"Lanark—Frontenac—Lennox and Addington",35040,"2011",346000,169500,176500,0,18,5,13,0
 "Green Party of Canada",FALSE,"Leeds—Grenville",35041,"2011",436472,230000,175472,31000,48,5,24,19
 "Green Party of Canada",FALSE,"London—Fanshawe",35042,"2011",391422,257385,132827,1210,29,7,15,7
@@ -3572,13 +3563,13 @@
 "Green Party of Canada",FALSE,"Ottawa—Vanier",35065,"2011",259000,60000,199000,0,21,2,19,0
 "Green Party of Canada",FALSE,"Ottawa West—Nepean",35066,"2011",396411,349996,46415,0,10,6,4,0
 "Green Party of Canada",FALSE,"Oxford",35067,"2011",354500,299500,35000,20000,18,6,2,10
-"Green Party of Canada",FALSE,"Parkdale—High Park",35068,"2011",112500,100000,12500,0,2,1,1,0
+"Green Party of Canada",FALSE,"Parkdale—High Park",35068,"2011",112500,1e+05,12500,0,2,1,1,0
 "Green Party of Canada",FALSE,"Parry Sound—Muskoka",35069,"2011",335000,80000,255000,0,22,2,20,0
 "Green Party of Canada",FALSE,"Pickering—Scarborough East",35072,"2011",40000,40000,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"St. Paul's",35077,"2011",110000,64000,46000,0,4,1,3,0
 "Green Party of Canada",FALSE,"Scarborough—Guildwood",35082,"2011",90000,80000,10000,0,3,2,1,0
 "Green Party of Canada",FALSE,"Simcoe North",35086,"2011",66000,41000,25000,0,8,8,0,0
-"Green Party of Canada",FALSE,"Thornhill",35089,"2011",755000,400000,350000,5000,46,9,32,5
+"Green Party of Canada",FALSE,"Thornhill",35089,"2011",755000,4e+05,350000,5000,46,9,32,5
 "Green Party of Canada",FALSE,"Toronto Centre",35093,"2011",1066000,925000,135000,6000,36,9,14,13
 "Green Party of Canada",FALSE,"Toronto—Danforth",35094,"2011",1245000,1147000,85000,13000,31,14,10,7
 "Green Party of Canada",FALSE,"Trinity—Spadina",35095,"2011",531473,140000,266323,125150,144,2,22,120
@@ -3591,13 +3582,13 @@
 "Green Party of Canada",FALSE,"Calgary Centre-North",48003,"2011",72000,25000,32000,15000,16,1,4,11
 "Green Party of Canada",FALSE,"Calgary—Nose Hill",48005,"2011",70000,70000,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Calgary Centre",48006,"2011",603745,481000,122745,0,27,9,18,0
-"Green Party of Canada",FALSE,"Calgary West",48009,"2011",157000,100000,50000,7000,14,3,4,7
+"Green Party of Canada",FALSE,"Calgary West",48009,"2011",157000,1e+05,50000,7000,14,3,4,7
 "Green Party of Canada",FALSE,"Edmonton—Leduc",48014,"2011",258000,175000,83000,0,13,4,9,0
 "Green Party of Canada",FALSE,"Medicine Hat",48021,"2011",51000,40000,11000,0,8,1,7,0
 "Green Party of Canada",FALSE,"Kamloops—Thompson—Cariboo",59010,"2011",85000,40000,45000,0,4,1,3,0
 "Green Party of Canada",FALSE,"Nanaimo—Alberni",59014,"2011",466307,270000,195100,1207,41,6,15,20
 "Green Party of Canada",FALSE,"Nanaimo—Cowichan",59015,"2011",24700,0,0,700,6,6,0,0
-"Green Party of Canada",FALSE,"Okanagan—Shuswap",59018,"2011",491554,245000,200000,46554,86,5,16,65
+"Green Party of Canada",FALSE,"Okanagan—Shuswap",59018,"2011",491554,245000,2e+05,46554,86,5,16,65
 "Green Party of Canada",FALSE,"Richmond",59023,"2011",110000,110000,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Saanich—Gulf Islands",59024,"2011",15474314,8994263,6022000,458051,3279,165,826,2288
 "Green Party of Canada",FALSE,"Vancouver Centre",59029,"2011",2290500,1934000,352500,4000,84,28,43,13
@@ -3605,7 +3596,7 @@
 "Green Party of Canada",FALSE,"Victoria",59035,"2011",789332,562000,227332,0,42,11,31,0
 "Green Party of Canada",FALSE,"Yukon",60001,"2011",196000,70000,97000,29000,36,2,15,19
 "Green Party of Canada",FALSE,"Moncton—Riverview—Dieppe",13007,"2012",80000,64000,2000,14000,15,2,1,12
-"Green Party of Canada",FALSE,"Saint John",13009,"2012",108000,100000,8000,0,2,1,1,0
+"Green Party of Canada",FALSE,"Saint John",13009,"2012",108000,1e+05,8000,0,2,1,1,0
 "Green Party of Canada",FALSE,"Ahuntsic",24002,"2012",9000,9000,0,0,2,2,0,0
 "Green Party of Canada",FALSE,"Lac-Saint-Louis",24027,"2012",617393,535334,82059,0,40,13,27,0
 "Green Party of Canada",FALSE,"Papineau",24048,"2012",537830,295730,185600,56500,123,8,35,80
@@ -3619,10 +3610,10 @@
 "Green Party of Canada",FALSE,"Leeds—Grenville",35041,"2012",87780,80000,6780,1000,4,2,1,1
 "Green Party of Canada",FALSE,"London—Fanshawe",35042,"2012",117775,75000,42500,275,8,2,4,2
 "Green Party of Canada",FALSE,"Markham—Unionville",35045,"2012",499000,381500,117500,0,19,7,12,0
-"Green Party of Canada",FALSE,"Mississauga—Streetsville",35051,"2012",1e+05,100000,0,0,1,1,0,0
+"Green Party of Canada",FALSE,"Mississauga—Streetsville",35051,"2012",1e+05,1e+05,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Nepean—Carleton",35052,"2012",110000,110000,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Newmarket—Aurora",35053,"2012",52000,40000,9000,3000,6,1,3,2
-"Green Party of Canada",FALSE,"Northumberland—Quinte West",35058,"2012",229500,200000,29500,0,8,2,6,0
+"Green Party of Canada",FALSE,"Northumberland—Quinte West",35058,"2012",229500,2e+05,29500,0,8,2,6,0
 "Green Party of Canada",FALSE,"Ottawa West—Nepean",35066,"2012",105665,94999,10666,0,4,2,2,0
 "Green Party of Canada",FALSE,"Oxford",35067,"2012",80000,80000,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Renfrew—Nipissing—Pembroke",35074,"2012",30000,0,30000,0,1,0,1,0
@@ -3630,7 +3621,7 @@
 "Green Party of Canada",FALSE,"Sudbury",35088,"2012",125000,65000,60000,0,5,2,3,0
 "Green Party of Canada",FALSE,"Toronto Centre",35093,"2012",73500,35000,34500,4000,32,1,6,25
 "Green Party of Canada",FALSE,"Toronto—Danforth",35094,"2012",3627100,1711000,1916100,0,378,30,348,0
-"Green Party of Canada",FALSE,"Brandon—Souris",46001,"2012",1e+05,100000,0,0,1,1,0,0
+"Green Party of Canada",FALSE,"Brandon—Souris",46001,"2012",1e+05,1e+05,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Charleswood—St. James—Assiniboia",46002,"2012",114000,67500,46500,0,11,2,9,0
 "Green Party of Canada",FALSE,"Portage—Lisgar",46007,"2012",184000,180000,4000,0,3,2,1,0
 "Green Party of Canada",FALSE,"Regina—Qu'Appelle",47008,"2012",190000,111500,78500,0,12,3,9,0
@@ -3657,11 +3648,11 @@
 "Green Party of Canada",FALSE,"Guelph",35027,"2013",125000,120000,5000,0,5,3,2,0
 "Green Party of Canada",FALSE,"Hamilton Centre",35031,"2013",92000,80000,6000,6000,24,2,2,20
 "Green Party of Canada",FALSE,"Lanark—Frontenac—Lennox and Addington",35040,"2013",76000,24000,52000,0,4,1,3,0
-"Green Party of Canada",FALSE,"Leeds—Grenville",35041,"2013",206000,200000,3000,3000,6,3,1,2
+"Green Party of Canada",FALSE,"Leeds—Grenville",35041,"2013",206000,2e+05,3000,3000,6,3,1,2
 "Green Party of Canada",FALSE,"Markham—Unionville",35045,"2013",71000,71000,0,0,2,2,0,0
 "Green Party of Canada",FALSE,"Mississauga—Streetsville",35051,"2013",120000,120000,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Newmarket—Aurora",35053,"2013",65000,40000,25000,0,6,1,5,0
-"Green Party of Canada",FALSE,"Oxford",35067,"2013",1e+05,100000,0,0,1,1,0,0
+"Green Party of Canada",FALSE,"Oxford",35067,"2013",1e+05,1e+05,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Renfrew—Nipissing—Pembroke",35074,"2013",40000,40000,40000,40000,1,1,0,0
 "Green Party of Canada",FALSE,"Sudbury",35088,"2013",120000,80000,40000,0,4,2,2,0
 "Green Party of Canada",FALSE,"Thunder Bay—Superior North",35091,"2013",150000,140000,10000,0,4,3,1,0
@@ -3671,7 +3662,7 @@
 "Green Party of Canada",FALSE,"Portage—Lisgar",46007,"2013",86000,61000,25000,0,4,1,3,0
 "Green Party of Canada",FALSE,"Regina—Qu'Appelle",47008,"2013",60500,30000,30500,0,9,1,8,0
 "Green Party of Canada",FALSE,"Saskatoon—Humboldt",47009,"2013",100460,40000,36000,24460,52,1,6,45
-"Green Party of Canada",FALSE,"Calgary Centre-North",48003,"2013",157100,100000,31000,26100,26,2,4,20
+"Green Party of Canada",FALSE,"Calgary Centre-North",48003,"2013",157100,1e+05,31000,26100,26,2,4,20
 "Green Party of Canada",FALSE,"Calgary Centre",48006,"2013",284500,105000,117000,62500,332,2,10,320
 "Green Party of Canada",FALSE,"Calgary West",48009,"2013",2500,2500,0,0,1,1,0,0
 "Green Party of Canada",FALSE,"Edmonton—Leduc",48014,"2013",36358,31358,5000,0,3,1,2,0
@@ -3681,7 +3672,7 @@
 "Green Party of Canada",FALSE,"Nanaimo—Alberni",59014,"2013",145975,40000,70100,35875,126,1,5,120
 "Green Party of Canada",FALSE,"Nanaimo—Cowichan",59015,"2013",24000,0,0,0,2,2,0,0
 "Green Party of Canada",FALSE,"New Westminster—Coquitlam",59017,"2013",45000,45000,0,0,1,1,0,0
-"Green Party of Canada",FALSE,"Richmond",59023,"2013",2e+05,200000,0,0,2,2,0,0
+"Green Party of Canada",FALSE,"Richmond",59023,"2013",2e+05,2e+05,0,0,2,2,0,0
 "Green Party of Canada",FALSE,"Saanich—Gulf Islands",59024,"2013",7188087,4865996,1928100,393991,962,91,212,659
 "Green Party of Canada",FALSE,"Vancouver Centre",59029,"2013",1161540,1052000,90000,19540,61,15,16,30
 "Green Party of Canada",FALSE,"Victoria",59035,"2013",488146,376646,107500,4000,0,-29,29,0
@@ -3696,15 +3687,12 @@
 "Liberal Party of Canada",TRUE,NA,NA,"2011",1011990861,710471412,301128009,391441,49650,13520,35509,621
 "Liberal Party of Canada",TRUE,NA,NA,"2012",816665776,554276107,261603823,785846,44466,10246,33417,803
 "Liberal Party of Canada",TRUE,NA,NA,"2013",1129284585,757516990,370167975,1599620,71655,13783,55052,2820
-"Liberal Party of Canada",TRUE,NA,NA,"2014",377993048,238463511,138858843,670694,34945,4651,29948,346
-"Liberal Party of Canada",TRUE,NA,NA,"2014",285854862,154475861,131294001,85000,32272,2982,29246,44
-"Liberal Party of Canada",TRUE,NA,NA,"2014",326877054,179711828,146836254,328972,34953,3616,31072,265
-"Liberal Party of Canada",TRUE,NA,NA,"2014",578756047,350203996,228460993,91058,47568,7309,40173,86
+"Liberal Party of Canada",TRUE,NA,NA,"2014",1569481011,922855196,645450091,1175724,149738,18558,130439,741
 "Liberal Party of Canada",TRUE,NA,NA,"2015",387292978,239622754,147519646,150577,34508,4255,30054,199
 "Liberal Party of Canada",FALSE,"Avalon",10001,"2004",2775000,2190000,585000,0,81,28,53,0
 "Liberal Party of Canada",FALSE,"Humber—St. Barbe—Baie Verte",10003,"2004",627500,625000,2500,0,6,5,1,0
 "Liberal Party of Canada",FALSE,"Random—Burin—St. George's",10005,"2004",10000,10000,0,0,1,-1,1,1
-"Liberal Party of Canada",FALSE,"St. John's South—Mount Pearl",10007,"2004",197500,100000,97500,0,10,10,0,0
+"Liberal Party of Canada",FALSE,"St. John's South—Mount Pearl",10007,"2004",197500,1e+05,97500,0,10,10,0,0
 "Liberal Party of Canada",FALSE,"Cardigan",11001,"2004",65000,65000,0,0,2,2,0,0
 "Liberal Party of Canada",FALSE,"Charlottetown",11002,"2004",151000,145000,6000,0,4,3,1,0
 "Liberal Party of Canada",FALSE,"Egmont",11003,"2004",854371,230319,624052,0,87,4,83,0
@@ -3736,9 +3724,9 @@
 "Liberal Party of Canada",FALSE,"Chambly—Borduas",24012,"2004",6000,0,6000,0,1,0,1,0
 "Liberal Party of Canada",FALSE,"Charlesbourg—Haute-Saint-Charles",24013,"2004",797042,787042,10000,0,26,25,1,0
 "Liberal Party of Canada",FALSE,"Montmorency—Charlevoix—Haute-Côte-Nord",24014,"2004",61100,0,0,61100,1,1,0,0
-"Liberal Party of Canada",FALSE,"Compton—Stanstead",24017,"2004",110000,100000,10000,0,2,1,1,0
+"Liberal Party of Canada",FALSE,"Compton—Stanstead",24017,"2004",110000,1e+05,10000,0,2,1,1,0
 "Liberal Party of Canada",FALSE,"Drummond",24018,"2004",2590000,2245000,345000,0,52,31,21,0
-"Liberal Party of Canada",FALSE,"Gaspésie—Îles-de-la-Madeleine",24019,"2004",280000,200000,80000,0,8,0,8,0
+"Liberal Party of Canada",FALSE,"Gaspésie—Îles-de-la-Madeleine",24019,"2004",280000,2e+05,80000,0,8,0,8,0
 "Liberal Party of Canada",FALSE,"Gatineau",24020,"2004",1405000,1340000,65000,0,31,31,0,0
 "Liberal Party of Canada",FALSE,"Hochelaga",24021,"2004",217992,0,0,0,29,29,0,0
 "Liberal Party of Canada",FALSE,"Honoré-Mercier",24022,"2004",797500,750000,47500,0,31,31,0,0
@@ -3766,11 +3754,11 @@
 "Liberal Party of Canada",FALSE,"Notre-Dame-de-Grâce—Lachine",24045,"2004",877500,850000,27500,0,7,3,4,0
 "Liberal Party of Canada",FALSE,"Abitibi—Baie-James—Nunavik—Eeyou",24046,"2004",1376047,747798,628249,0,74,16,58,0
 "Liberal Party of Canada",FALSE,"Outremont",24047,"2004",19868040,19147040,527000,194000,407,189,55,163
-"Liberal Party of Canada",FALSE,"Papineau",24048,"2004",1171250,1071250,100000,0,24,16,8,0
+"Liberal Party of Canada",FALSE,"Papineau",24048,"2004",1171250,1071250,1e+05,0,24,16,8,0
 "Liberal Party of Canada",FALSE,"Pierrefonds—Dollard",24049,"2004",1545397,573975,971421,0,99,16,83,0
 "Liberal Party of Canada",FALSE,"Pontiac",24050,"2004",8740000,8720000,20000,0,42,41,1,0
 "Liberal Party of Canada",FALSE,"Portneuf—Jacques-Cartier",24051,"2004",547500,167500,380000,0,26,3,23,0
-"Liberal Party of Canada",FALSE,"Québec",24052,"2004",2e+05,200000,0,0,8,8,0,0
+"Liberal Party of Canada",FALSE,"Québec",24052,"2004",2e+05,2e+05,0,0,8,8,0,0
 "Liberal Party of Canada",FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,"2004",1506200,205800,1300400,0,84,6,78,0
 "Liberal Party of Canada",FALSE,"Rimouski-Neigette—Témiscouata—Les Basques",24056,"2004",939000,390000,549000,0,47,7,40,0
 "Liberal Party of Canada",FALSE,"Rivière-des-Mille-Îles",24057,"2004",960000,850000,110000,960000,0,-13,13,0
@@ -3783,17 +3771,17 @@
 "Liberal Party of Canada",FALSE,"Saint-Laurent—Cartierville",24066,"2004",1922500,1500000,422500,0,342,10,332,0
 "Liberal Party of Canada",FALSE,"Saint-Léonard—Saint-Michel",24067,"2004",1333789,1313789,20000,0,41,40,1,0
 "Liberal Party of Canada",FALSE,"Saint-Maurice—Champlain",24068,"2004",30000,25000,5000,0,2,0,2,0
-"Liberal Party of Canada",FALSE,"Shefford",24069,"2004",2e+05,200000,0,0,1,1,0,0
+"Liberal Party of Canada",FALSE,"Shefford",24069,"2004",2e+05,2e+05,0,0,1,1,0,0
 "Liberal Party of Canada",FALSE,"Sherbrooke",24070,"2004",1700000,1700000,0,0,5,5,0,0
 "Liberal Party of Canada",FALSE,"Terrebonne—Blainville",24071,"2004",5950000,5950000,0,0,33,33,0,0
 "Liberal Party of Canada",FALSE,"Vaudreuil-Soulanges",24073,"2004",2717500,0,0,0,103,103,0,0
-"Liberal Party of Canada",FALSE,"Westmount—Ville-Marie",24075,"2004",753500,700000,53500,0,7,3,4,0
+"Liberal Party of Canada",FALSE,"Westmount—Ville-Marie",24075,"2004",753500,7e+05,53500,0,7,3,4,0
 "Liberal Party of Canada",FALSE,"Ajax—Pickering",35001,"2004",4148617,3856117,292500,0,76,52,24,0
 "Liberal Party of Canada",FALSE,"Algoma—Manitoulin—Kapuskasing",35002,"2004",594500,190000,404500,0,43,8,35,0
 "Liberal Party of Canada",FALSE,"Barrie",35004,"2004",585000,410000,175000,0,29,7,22,0
 "Liberal Party of Canada",FALSE,"Bramalea—Gore—Malton",35006,"2004",5640100,5555100,85000,0,76,68,8,0
 "Liberal Party of Canada",FALSE,"Brant",35009,"2004",318500,0,318500,0,25,0,25,0
-"Liberal Party of Canada",FALSE,"Burlington",35010,"2004",166000,100000,66000,0,8,1,7,0
+"Liberal Party of Canada",FALSE,"Burlington",35010,"2004",166000,1e+05,66000,0,8,1,7,0
 "Liberal Party of Canada",FALSE,"Cambridge",35011,"2004",1545226,1298502,246723,0,41,19,22,0
 "Liberal Party of Canada",FALSE,"Chatham-Kent—Essex",35013,"2004",138458,0,77360,61098,35,0,10,25
 "Liberal Party of Canada",FALSE,"Durham",35014,"2004",3644841,3339479,305362,0,152,118,34,0
@@ -3818,7 +3806,7 @@
 "Liberal Party of Canada",FALSE,"Hamilton Mountain",35033,"2004",436180,124466,311714,0,44,4,40,0
 "Liberal Party of Canada",FALSE,"Huron—Bruce",35034,"2004",465705,279205,186500,0,36,7,29,0
 "Liberal Party of Canada",FALSE,"Kingston and the Islands",35036,"2004",1120500,227000,655500,238000,391,7,145,239
-"Liberal Party of Canada",FALSE,"Kingston and the Islands",35036,"2004",376250,200000,176250,0,27,3,24,0
+"Liberal Party of Canada",FALSE,"Kingston and the Islands",35036,"2004",376250,2e+05,176250,0,27,3,24,0
 "Liberal Party of Canada",FALSE,"Kitchener Centre",35037,"2004",925000,691000,234000,0,34,15,19,0
 "Liberal Party of Canada",FALSE,"Kitchener—Conestoga",35038,"2004",1331895,1100658,231237,0,59,22,37,0
 "Liberal Party of Canada",FALSE,"Kitchener—Waterloo",35039,"2004",983654,880000,64379,39275,211,8,7,196
@@ -3881,10 +3869,10 @@
 "Liberal Party of Canada",FALSE,"Windsor—Tecumseh",35101,"2004",3149834,2462822,687012,0,105,43,62,0
 "Liberal Party of Canada",FALSE,"Windsor West",35102,"2004",3888444,2788772,1099672,0,145,48,97,0
 "Liberal Party of Canada",FALSE,"York Centre",35103,"2004",1808600,1434000,95900,278700,122,13,9,100
-"Liberal Party of Canada",FALSE,"York—Simcoe",35104,"2004",301000,100000,201000,0,23,1,22,0
+"Liberal Party of Canada",FALSE,"York—Simcoe",35104,"2004",301000,1e+05,201000,0,23,1,22,0
 "Liberal Party of Canada",FALSE,"York South—Weston",35105,"2004",834310,417180,417130,0,45,12,33,0
 "Liberal Party of Canada",FALSE,"York West",35106,"2004",820000,750000,70000,0,10,5,5,0
-"Liberal Party of Canada",FALSE,"Charleswood—St. James—Assiniboia",46002,"2004",320000,300000,20000,0,6,3,3,0
+"Liberal Party of Canada",FALSE,"Charleswood—St. James—Assiniboia",46002,"2004",320000,3e+05,20000,0,6,3,3,0
 "Liberal Party of Canada",FALSE,"Churchill",46003,"2004",2129742,1649622,480120,0,69,32,37,0
 "Liberal Party of Canada",FALSE,"Dauphin—Swan River—Marquette",46004,"2004",251000,140000,110000,0,14,3,11,0
 "Liberal Party of Canada",FALSE,"Elmwood—Transcona",46005,"2004",42352,0,42352,0,16,0,16,0
@@ -3896,7 +3884,7 @@
 "Liberal Party of Canada",FALSE,"Winnipeg South",46013,"2004",7980500,7882500,98000,0,66,57,9,0
 "Liberal Party of Canada",FALSE,"Winnipeg South Centre",46014,"2004",1854986,854728,1000258,0,117,28,89,0
 "Liberal Party of Canada",FALSE,"Blackstrap",47002,"2004",256000,250000,6000,0,2,1,1,0
-"Liberal Party of Canada",FALSE,"Prince Albert",47006,"2004",105631,100000,5631,0,2,1,1,0
+"Liberal Party of Canada",FALSE,"Prince Albert",47006,"2004",105631,1e+05,5631,0,2,1,1,0
 "Liberal Party of Canada",FALSE,"Regina—Qu'Appelle",47008,"2004",474000,415000,59000,0,15,9,6,0
 "Liberal Party of Canada",FALSE,"Wascana",47013,"2004",1854500,1532500,322000,0,44,17,27,0
 "Liberal Party of Canada",FALSE,"Calgary East",48002,"2004",1480579,1250902,229677,0,29,7,22,0
@@ -3911,7 +3899,7 @@
 "Liberal Party of Canada",FALSE,"Edmonton—St. Albert",48015,"2004",1017682,850000,85000,82682,89,0,9,80
 "Liberal Party of Canada",FALSE,"Edmonton—Sherwood Park",48016,"2004",565000,330000,235000,0,30,8,22,0
 "Liberal Party of Canada",FALSE,"Edmonton—Spruce Grove",48017,"2004",1386500,1250000,136500,0,15,4,11,0
-"Liberal Party of Canada",FALSE,"Edmonton—Strathcona",48018,"2004",515000,500000,15000,0,11,9,2,0
+"Liberal Party of Canada",FALSE,"Edmonton—Strathcona",48018,"2004",515000,5e+05,15000,0,11,9,2,0
 "Liberal Party of Canada",FALSE,"Macleod",48020,"2004",62500,0,62500,0,1,0,1,0
 "Liberal Party of Canada",FALSE,"Peace River",48022,"2004",3110500,2484500,626000,0,91,37,54,0
 "Liberal Party of Canada",FALSE,"Red Deer",48023,"2004",54300,0,0,54300,20,20,0,0
@@ -3920,9 +3908,9 @@
 "Liberal Party of Canada",FALSE,"Wetaskiwin",48026,"2004",1357500,775000,22500,560000,288,6,2,280
 "Liberal Party of Canada",FALSE,"Wild Rose",48027,"2004",304500,225000,79500,0,9,9,0,0
 "Liberal Party of Canada",FALSE,"Abbotsford",59001,"2004",2399116,1794568,557298,47250,247,21,112,114
-"Liberal Party of Canada",FALSE,"Burnaby—Douglas",59002,"2004",1e+05,100000,0,0,2,2,0,0
+"Liberal Party of Canada",FALSE,"Burnaby—Douglas",59002,"2004",1e+05,1e+05,0,0,2,2,0,0
 "Liberal Party of Canada",FALSE,"Burnaby—New Westminster",59003,"2004",205100,140000,65100,0,9,3,6,0
-"Liberal Party of Canada",FALSE,"Cariboo—Prince George",59004,"2004",1e+05,100000,0,0,2,2,0,0
+"Liberal Party of Canada",FALSE,"Cariboo—Prince George",59004,"2004",1e+05,1e+05,0,0,2,2,0,0
 "Liberal Party of Canada",FALSE,"Chilliwack—Fraser Canyon",59005,"2004",1e+05,68160,31839,0,3,1,2,0
 "Liberal Party of Canada",FALSE,"Delta—Richmond East",59006,"2004",4860077,3734717,1032473,92887,693,78,132,483
 "Liberal Party of Canada",FALSE,"Esquimalt—Juan de Fuca",59008,"2004",3010019,1785500,922419,302100,275,25,91,159
@@ -3935,9 +3923,9 @@
 "Liberal Party of Canada",FALSE,"Newton—North Delta",59016,"2004",36012,31012,5000,0,2,1,1,0
 "Liberal Party of Canada",FALSE,"New Westminster—Coquitlam",59017,"2004",432500,407500,25000,0,8,5,3,0
 "Liberal Party of Canada",FALSE,"Okanagan—Shuswap",59018,"2004",402000,140000,262000,0,24,3,21,0
-"Liberal Party of Canada",FALSE,"North Vancouver",59019,"2004",234105,100000,110105,24000,117,1,40,76
+"Liberal Party of Canada",FALSE,"North Vancouver",59019,"2004",234105,1e+05,110105,24000,117,1,40,76
 "Liberal Party of Canada",FALSE,"Okanagan—Coquihalla",59020,"2004",637100,561500,68600,7000,31,4,6,21
-"Liberal Party of Canada",FALSE,"Port Moody—Westwood—Port Coquitlam",59021,"2004",5e+05,500000,0,0,1,1,0,0
+"Liberal Party of Canada",FALSE,"Port Moody—Westwood—Port Coquitlam",59021,"2004",5e+05,5e+05,0,0,1,1,0,0
 "Liberal Party of Canada",FALSE,"Prince George—Peace River",59022,"2004",350000,350000,0,0,4,4,0,0
 "Liberal Party of Canada",FALSE,"Richmond",59023,"2004",5683159,4628312,1054847,0,223,78,145,0
 "Liberal Party of Canada",FALSE,"Saanich—Gulf Islands",59024,"2004",2634501,2317001,317500,0,62,37,25,0
@@ -3955,9 +3943,9 @@
 "Liberal Party of Canada",FALSE,"Yukon",60001,"2004",731500,424000,307500,0,36,4,32,0
 "Liberal Party of Canada",FALSE,"Northwest Territories",61001,"2004",526500,526500,0,0,2,2,0,0
 "Liberal Party of Canada",FALSE,"Avalon",10001,"2005",270636,0,85000,185636,87,0,12,75
-"Liberal Party of Canada",FALSE,"Bonavista—Gander—Grand Falls—Windsor",10002,"2005",592000,500000,92000,0,16,1,15,0
-"Liberal Party of Canada",FALSE,"Humber—St. Barbe—Baie Verte",10003,"2005",127000,100000,27000,0,9,3,6,0
-"Liberal Party of Canada",FALSE,"Labrador",10004,"2005",4e+05,400000,0,0,4,4,0,0
+"Liberal Party of Canada",FALSE,"Bonavista—Gander—Grand Falls—Windsor",10002,"2005",592000,5e+05,92000,0,16,1,15,0
+"Liberal Party of Canada",FALSE,"Humber—St. Barbe—Baie Verte",10003,"2005",127000,1e+05,27000,0,9,3,6,0
+"Liberal Party of Canada",FALSE,"Labrador",10004,"2005",4e+05,4e+05,0,0,4,4,0,0
 "Liberal Party of Canada",FALSE,"St. John's East",10006,"2005",122500,32500,0,0,0,-17,17,0
 "Liberal Party of Canada",FALSE,"Cardigan",11001,"2005",195000,130000,65000,0,9,3,6,0
 "Liberal Party of Canada",FALSE,"Charlottetown",11002,"2005",1110783,198561,912221,0,133,4,129,0
@@ -4018,17 +4006,17 @@
 "Liberal Party of Canada",FALSE,"Outremont",24047,"2005",21511500,20145500,1133000,233000,902,207,140,555
 "Liberal Party of Canada",FALSE,"Papineau",24048,"2005",10131505,10062744,68761,0,106,102,4,0
 "Liberal Party of Canada",FALSE,"Pierrefonds—Dollard",24049,"2005",2878229,1835632,1042596,0,108,27,81,0
-"Liberal Party of Canada",FALSE,"Pontiac",24050,"2005",2e+05,200000,0,0,4,4,0,0
+"Liberal Party of Canada",FALSE,"Pontiac",24050,"2005",2e+05,2e+05,0,0,4,4,0,0
 "Liberal Party of Canada",FALSE,"Québec",24052,"2005",98500,76500,22000,0,3,1,2,0
 "Liberal Party of Canada",FALSE,"Repentigny",24053,"2005",30000,0,0,0,1,1,0,0
 "Liberal Party of Canada",FALSE,"Rivière-des-Mille-Îles",24057,"2005",10000,0,10000,0,1,0,1,0
 "Liberal Party of Canada",FALSE,"Montmagny—L'Islet—Kamouraska—Rivière-du-Loup",24058,"2005",48400,32500,11500,4400,67,1,33,33
-"Liberal Party of Canada",FALSE,"Rosemont—La Petite-Patrie",24061,"2005",110000,100000,10000,0,2,1,1,0
+"Liberal Party of Canada",FALSE,"Rosemont—La Petite-Patrie",24061,"2005",110000,1e+05,10000,0,2,1,1,0
 "Liberal Party of Canada",FALSE,"Saint-Lambert",24065,"2005",264000,50000,214000,0,32,1,31,0
 "Liberal Party of Canada",FALSE,"Saint-Laurent—Cartierville",24066,"2005",4668168,4605765,62403,0,80,72,8,0
 "Liberal Party of Canada",FALSE,"Saint-Maurice—Champlain",24068,"2005",342626,28895,313731,0,44,1,43,0
-"Liberal Party of Canada",FALSE,"Shefford",24069,"2005",2e+05,200000,0,0,1,1,0,0
-"Liberal Party of Canada",FALSE,"Sherbrooke",24070,"2005",510000,500000,10000,0,5,4,1,0
+"Liberal Party of Canada",FALSE,"Shefford",24069,"2005",2e+05,2e+05,0,0,1,1,0,0
+"Liberal Party of Canada",FALSE,"Sherbrooke",24070,"2005",510000,5e+05,10000,0,5,4,1,0
 "Liberal Party of Canada",FALSE,"Trois-Rivières",24072,"2005",777420,457009,320411,0,30,11,19,0
 "Liberal Party of Canada",FALSE,"Westmount—Ville-Marie",24075,"2005",4029090,3669480,359610,0,164,116,48,0
 "Liberal Party of Canada",FALSE,"Ajax—Pickering",35001,"2005",2851300,2147200,704100,0,88,38,50,0
@@ -4039,7 +4027,7 @@
 "Liberal Party of Canada",FALSE,"Bramalea—Gore—Malton",35006,"2005",3312500,2937500,375000,0,82,52,30,0
 "Liberal Party of Canada",FALSE,"Brampton—Springdale",35007,"2005",4970670,4875570,95100,0,92,53,39,0
 "Liberal Party of Canada",FALSE,"Brampton West",35008,"2005",4208649,3304008,904641,0,103,47,56,0
-"Liberal Party of Canada",FALSE,"Brant",35009,"2005",129500,100000,29500,0,6,6,0,0
+"Liberal Party of Canada",FALSE,"Brant",35009,"2005",129500,1e+05,29500,0,6,6,0,0
 "Liberal Party of Canada",FALSE,"Burlington",35010,"2005",857557,263730,593827,0,163,8,155,0
 "Liberal Party of Canada",FALSE,"Cambridge",35011,"2005",1157200,503500,653700,0,70,9,61,0
 "Liberal Party of Canada",FALSE,"Carleton—Mississippi Mills",35012,"2005",3994800,3509064,485735,0,157,72,85,0
@@ -4150,13 +4138,13 @@
 "Liberal Party of Canada",FALSE,"Saskatoon—Humboldt",47009,"2005",102500,0,102500,0,9,0,9,0
 "Liberal Party of Canada",FALSE,"Saskatoon—Wanuskewin",47011,"2005",45000,0,20000,25000,4,0,3,1
 "Liberal Party of Canada",FALSE,"Wascana",47013,"2005",2389500,1720000,669500,0,86,20,66,0
-"Liberal Party of Canada",FALSE,"Calgary East",48002,"2005",1e+05,100000,0,0,1,1,0,0
+"Liberal Party of Canada",FALSE,"Calgary East",48002,"2005",1e+05,1e+05,0,0,1,1,0,0
 "Liberal Party of Canada",FALSE,"Calgary Centre-North",48003,"2005",125809,0,125809,0,22,0,22,0
 "Liberal Party of Canada",FALSE,"Calgary—Nose Hill",48005,"2005",979398,668811,310587,0,114,21,93,0
 "Liberal Party of Canada",FALSE,"Calgary Centre",48006,"2005",363000,0,363000,0,32,0,32,0
 "Liberal Party of Canada",FALSE,"Calgary Southeast",48007,"2005",604600,90000,5000,509600,213,2,1,210
 "Liberal Party of Canada",FALSE,"Calgary Southwest",48008,"2005",10000,0,10000,0,1,0,1,0
-"Liberal Party of Canada",FALSE,"Calgary West",48009,"2005",1100010,700010,400000,0,48,15,33,0
+"Liberal Party of Canada",FALSE,"Calgary West",48009,"2005",1100010,700010,4e+05,0,48,15,33,0
 "Liberal Party of Canada",FALSE,"Crowfoot",48010,"2005",55000,55000,0,0,2,2,0,0
 "Liberal Party of Canada",FALSE,"Edmonton Centre",48012,"2005",11416929,7555205,3861724,7555205,440,141,299,0
 "Liberal Party of Canada",FALSE,"Edmonton—St. Albert",48015,"2005",245340,73800,171540,0,22,3,19,0
@@ -4169,7 +4157,7 @@
 "Liberal Party of Canada",FALSE,"Burnaby—New Westminster",59003,"2005",76000,40000,30000,6000,90,1,2,87
 "Liberal Party of Canada",FALSE,"Cariboo—Prince George",59004,"2005",34846,25000,9846,0,9,1,8,0
 "Liberal Party of Canada",FALSE,"Chilliwack—Fraser Canyon",59005,"2005",351000,189200,161800,0,17,6,11,0
-"Liberal Party of Canada",FALSE,"Delta—Richmond East",59006,"2005",1e+05,100000,0,0,1,1,0,0
+"Liberal Party of Canada",FALSE,"Delta—Richmond East",59006,"2005",1e+05,1e+05,0,0,1,1,0,0
 "Liberal Party of Canada",FALSE,"Pitt Meadows—Maple Ridge—Mission",59007,"2005",280000,280000,0,0,3,3,0,0
 "Liberal Party of Canada",FALSE,"Esquimalt—Juan de Fuca",59008,"2005",687452,370248,103104,214100,210,9,11,190
 "Liberal Party of Canada",FALSE,"Kamloops—Thompson—Cariboo",59010,"2005",327500,312500,15000,0,4,3,1,0
@@ -4191,29 +4179,29 @@
 "Liberal Party of Canada",FALSE,"Vancouver Island North",59031,"2005",154000,150000,4000,0,3,2,1,0
 "Liberal Party of Canada",FALSE,"Vancouver Kingsway",59032,"2005",5349487,4452345,897142,0,113,43,70,0
 "Liberal Party of Canada",FALSE,"Vancouver Quadra",59033,"2005",3920442,2410843,1509599,0,188,62,126,0
-"Liberal Party of Canada",FALSE,"Vancouver South",59034,"2005",1925000,1725000,200000,0,45,29,16,0
+"Liberal Party of Canada",FALSE,"Vancouver South",59034,"2005",1925000,1725000,2e+05,0,45,29,16,0
 "Liberal Party of Canada",FALSE,"Victoria",59035,"2005",1326546,802521,348025,176000,214,20,46,148
 "Liberal Party of Canada",FALSE,"West Vancouver—Sunshine Coast—Sea to Sky Country",59036,"2005",3287382,2243286,916195,127900,396,41,120,235
 "Liberal Party of Canada",FALSE,"Yukon",60001,"2005",156000,80000,76000,0,9,2,7,0
 "Liberal Party of Canada",FALSE,"Northwest Territories",61001,"2005",1231920,805240,426680,0,43,13,30,0
 "Liberal Party of Canada",FALSE,"Nunavut",62001,"2005",186000,0,186000,0,32,0,32,0
 "Liberal Party of Canada",FALSE,"Avalon",10001,"2006",280400,40000,240400,0,45,1,44,0
-"Liberal Party of Canada",FALSE,"Bonavista—Gander—Grand Falls—Windsor",10002,"2006",230000,200000,30000,0,3,1,2,0
+"Liberal Party of Canada",FALSE,"Bonavista—Gander—Grand Falls—Windsor",10002,"2006",230000,2e+05,30000,0,3,1,2,0
 "Liberal Party of Canada",FALSE,"Humber—St. Barbe—Baie Verte",10003,"2006",280000,270000,10000,0,1,0,1,0
 "Liberal Party of Canada",FALSE,"Labrador",10004,"2006",150000,130000,20000,0,5,2,3,0
 "Liberal Party of Canada",FALSE,"St. John's East",10006,"2006",7023824,5806324,1217500,0,180,54,126,0
-"Liberal Party of Canada",FALSE,"Cardigan",11001,"2006",192500,100000,92500,0,7,1,6,0
+"Liberal Party of Canada",FALSE,"Cardigan",11001,"2006",192500,1e+05,92500,0,7,1,6,0
 "Liberal Party of Canada",FALSE,"Charlottetown",11002,"2006",1210040,318840,891200,0,143,7,136,0
 "Liberal Party of Canada",FALSE,"Egmont",11003,"2006",590796,29532,561264,0,80,1,79,0
 "Liberal Party of Canada",FALSE,"Malpeque",11004,"2006",1317635,270261,1047374,0,149,10,139,0
 "Liberal Party of Canada",FALSE,"Cape Breton—Canso",12001,"2006",402500,350000,52500,0,15,8,7,0
-"Liberal Party of Canada",FALSE,"Dartmouth—Cole Harbour",12003,"2006",531500,100000,431500,0,47,1,46,0
+"Liberal Party of Canada",FALSE,"Dartmouth—Cole Harbour",12003,"2006",531500,1e+05,431500,0,47,1,46,0
 "Liberal Party of Canada",FALSE,"Halifax",12004,"2006",36000,0,36000,0,3,0,3,0
 "Liberal Party of Canada",FALSE,"Halifax West",12005,"2006",993296,825000,168297,0,27,11,16,0
 "Liberal Party of Canada",FALSE,"Kings—Hants",12006,"2006",76200,0,0,76200,270,0,0,270
 "Liberal Party of Canada",FALSE,"Cumberland—Colchester—Musquodoboit Valley",12007,"2006",485052,333290,149056,2706,43,8,25,10
 "Liberal Party of Canada",FALSE,"South Shore—St. Margaret's",12009,"2006",671725,0,671725,0,79,0,79,0
-"Liberal Party of Canada",FALSE,"Sydney—Victoria",12010,"2006",1e+05,100000,0,0,2,2,0,0
+"Liberal Party of Canada",FALSE,"Sydney—Victoria",12010,"2006",1e+05,1e+05,0,0,2,2,0,0
 "Liberal Party of Canada",FALSE,"West Nova",12011,"2006",352619,275054,77565,0,16,4,12,0
 "Liberal Party of Canada",FALSE,"Acadie—Bathurst",13001,"2006",3839500,1175000,2654500,10000,188,188,0,0
 "Liberal Party of Canada",FALSE,"Beauséjour",13002,"2006",3611183,1857975,1753207,0,163,26,137,0
@@ -4222,12 +4210,12 @@
 "Liberal Party of Canada",FALSE,"Madawaska—Restigouche",13005,"2006",12000,0,12000,0,2,0,2,0
 "Liberal Party of Canada",FALSE,"Miramichi",13006,"2006",607100,155000,452100,0,41,4,37,0
 "Liberal Party of Canada",FALSE,"Moncton—Riverview—Dieppe",13007,"2006",1495000,1225000,270000,0,62,29,33,0
-"Liberal Party of Canada",FALSE,"New Brunswick Southwest",13008,"2006",287500,200000,87500,0,10,2,8,0
+"Liberal Party of Canada",FALSE,"New Brunswick Southwest",13008,"2006",287500,2e+05,87500,0,10,2,8,0
 "Liberal Party of Canada",FALSE,"Saint John",13009,"2006",1159829,548833,610996,0,62,13,49,0
 "Liberal Party of Canada",FALSE,"Tobique—Mactaquac",13010,"2006",1210000,725000,485000,0,51,14,37,0
 "Liberal Party of Canada",FALSE,"Abitibi—Témiscamingue",24001,"2006",640900,505900,135000,0,14,6,8,0
 "Liberal Party of Canada",FALSE,"Ahuntsic",24002,"2006",195000,190000,5000,0,5,4,1,0
-"Liberal Party of Canada",FALSE,"Alfred-Pellan",24003,"2006",610000,600000,10000,0,3,2,1,0
+"Liberal Party of Canada",FALSE,"Alfred-Pellan",24003,"2006",610000,6e+05,10000,0,3,2,1,0
 "Liberal Party of Canada",FALSE,"Beauce",24005,"2006",123377,102377,21000,0,22,1,21,0
 "Liberal Party of Canada",FALSE,"Beauport—Limoilou",24007,"2006",637500,497500,140000,0,14,7,7,0
 "Liberal Party of Canada",FALSE,"Berthier—Maskinongé",24008,"2006",165000,0,165000,0,30,0,30,0
@@ -4256,18 +4244,18 @@
 "Liberal Party of Canada",FALSE,"Louis-Saint-Laurent",24038,"2006",316614,316614,0,0,7,7,0,0
 "Liberal Party of Canada",FALSE,"Manicouagan",24039,"2006",30000,30000,0,0,1,1,0,0
 "Liberal Party of Canada",FALSE,"Mégantic—L'Érable",24042,"2006",33000,33000,0,0,1,1,0,0
-"Liberal Party of Canada",FALSE,"Mount Royal",24044,"2006",6e+05,600000,0,0,3,3,0,0
+"Liberal Party of Canada",FALSE,"Mount Royal",24044,"2006",6e+05,6e+05,0,0,3,3,0,0
 "Liberal Party of Canada",FALSE,"Outremont",24047,"2006",6385900,5671900,714000,0,154,55,99,0
 "Liberal Party of Canada",FALSE,"Pierrefonds—Dollard",24049,"2006",544832,399832,145000,0,19,9,10,0
 "Liberal Party of Canada",FALSE,"Richmond—Arthabaska",24055,"2006",30000,0,30000,0,3,0,3,0
 "Liberal Party of Canada",FALSE,"Montmagny—L'Islet—Kamouraska—Rivière-du-Loup",24058,"2006",652968,617818,35150,0,9,6,3,0
 "Liberal Party of Canada",FALSE,"Rosemont—La Petite-Patrie",24061,"2006",2500,0,2500,0,1,0,1,0
-"Liberal Party of Canada",FALSE,"Saint-Jean",24064,"2006",1e+05,100000,100000,0,5,0,5,0
+"Liberal Party of Canada",FALSE,"Saint-Jean",24064,"2006",1e+05,1e+05,1e+05,0,5,0,5,0
 "Liberal Party of Canada",FALSE,"Saint-Lambert",24065,"2006",65000,50000,15000,0,2,1,1,0
 "Liberal Party of Canada",FALSE,"Saint-Laurent—Cartierville",24066,"2006",2081811,962161,1119650,0,84,18,66,0
 "Liberal Party of Canada",FALSE,"Saint-Léonard—Saint-Michel",24067,"2006",1034500,1034500,0,0,19,19,0,0
 "Liberal Party of Canada",FALSE,"Saint-Maurice—Champlain",24068,"2006",53000,33000,20000,0,2,1,1,0
-"Liberal Party of Canada",FALSE,"Sherbrooke",24070,"2006",4e+05,100000,300000,0,30,3,27,0
+"Liberal Party of Canada",FALSE,"Sherbrooke",24070,"2006",4e+05,1e+05,3e+05,0,30,3,27,0
 "Liberal Party of Canada",FALSE,"Trois-Rivières",24072,"2006",11878416,10613362,1265054,0,208,98,110,0
 "Liberal Party of Canada",FALSE,"Westmount—Ville-Marie",24075,"2006",2495603,2079220,416383,0,89,31,58,0
 "Liberal Party of Canada",FALSE,"Ajax—Pickering",35001,"2006",2306482,2156482,150000,0,39,28,11,0
@@ -4300,7 +4288,7 @@
 "Liberal Party of Canada",FALSE,"Hamilton East—Stoney Creek",35032,"2006",30000,0,30000,0,3,0,3,0
 "Liberal Party of Canada",FALSE,"Hamilton Mountain",35033,"2006",745000,725000,20000,0,8,7,1,0
 "Liberal Party of Canada",FALSE,"Huron—Bruce",35034,"2006",335994,167393,168601,0,18,3,15,0
-"Liberal Party of Canada",FALSE,"Kenora",35035,"2006",302000,200000,102000,0,26,3,23,0
+"Liberal Party of Canada",FALSE,"Kenora",35035,"2006",302000,2e+05,102000,0,26,3,23,0
 "Liberal Party of Canada",FALSE,"Kingston and the Islands",35036,"2006",1457000,710000,747000,0,84,15,69,0
 "Liberal Party of Canada",FALSE,"Kitchener Centre",35037,"2006",1433000,1047000,386000,0,46,15,31,0
 "Liberal Party of Canada",FALSE,"Kitchener—Conestoga",35038,"2006",269000,148000,121000,0,26,4,22,0
@@ -4317,7 +4305,7 @@
 "Liberal Party of Canada",FALSE,"Mississauga—Erindale",35049,"2006",2025364,520000,1492864,12500,114,0,101,13
 "Liberal Party of Canada",FALSE,"Mississauga South",35050,"2006",1e+05,50000,50000,0,5,1,4,0
 "Liberal Party of Canada",FALSE,"Nepean—Carleton",35052,"2006",1909000,677000,546000,686000,487,0,144,343
-"Liberal Party of Canada",FALSE,"Newmarket—Aurora",35053,"2006",2700000,2600000,100000,0,30,10,20,0
+"Liberal Party of Canada",FALSE,"Newmarket—Aurora",35053,"2006",2700000,2600000,1e+05,0,30,10,20,0
 "Liberal Party of Canada",FALSE,"Niagara Falls",35054,"2006",30500,0,30500,0,25,0,25,0
 "Liberal Party of Canada",FALSE,"Niagara West—Glanbrook",35055,"2006",236448,155000,81448,0,17,4,13,0
 "Liberal Party of Canada",FALSE,"Nickel Belt",35056,"2006",1191023,1003023,188000,0,28,10,18,0
@@ -4339,7 +4327,7 @@
 "Liberal Party of Canada",FALSE,"Pickering—Scarborough East",35072,"2006",1990465,1960118,30345,0,13,10,3,0
 "Liberal Party of Canada",FALSE,"Prince Edward—Hastings",35073,"2006",196000,75500,120500,0,0,-17,17,0
 "Liberal Party of Canada",FALSE,"Renfrew—Nipissing—Pembroke",35074,"2006",1046806,685026,361780,0,83,5,78,0
-"Liberal Party of Canada",FALSE,"Richmond Hill",35075,"2006",1180000,1080000,100000,0,13,4,9,0
+"Liberal Party of Canada",FALSE,"Richmond Hill",35075,"2006",1180000,1080000,1e+05,0,13,4,9,0
 "Liberal Party of Canada",FALSE,"St. Catharines",35076,"2006",1887680,687768,1145448,54464,179,23,101,55
 "Liberal Party of Canada",FALSE,"St. Paul's",35077,"2006",2973350,2568670,404680,0,59,23,36,0
 "Liberal Party of Canada",FALSE,"Sarnia—Lambton",35078,"2006",108000,0,88000,20000,6,0,6,0
@@ -4347,7 +4335,7 @@
 "Liberal Party of Canada",FALSE,"Scarborough—Agincourt",35080,"2006",3127500,3080000,47500,0,13,9,4,0
 "Liberal Party of Canada",FALSE,"Scarborough Centre",35081,"2006",823000,750000,73000,0,14,8,6,0
 "Liberal Party of Canada",FALSE,"Scarborough—Guildwood",35082,"2006",961976,774476,187500,0,32,17,15,0
-"Liberal Party of Canada",FALSE,"Scarborough—Rouge River",35083,"2006",735500,600000,135500,0,24,8,16,0
+"Liberal Party of Canada",FALSE,"Scarborough—Rouge River",35083,"2006",735500,6e+05,135500,0,24,8,16,0
 "Liberal Party of Canada",FALSE,"Scarborough Southwest",35084,"2006",267000,50000,217000,0,34,2,32,0
 "Liberal Party of Canada",FALSE,"Simcoe—Grey",35085,"2006",108000,22500,67500,18000,20,0,9,11
 "Liberal Party of Canada",FALSE,"Simcoe North",35086,"2006",734670,282068,452602,0,45,6,39,0
@@ -4365,10 +4353,10 @@
 "Liberal Party of Canada",FALSE,"Windsor—Tecumseh",35101,"2006",1285360,693025,592335,0,46,13,33,0
 "Liberal Party of Canada",FALSE,"Windsor West",35102,"2006",59711,40000,19711,0,3,1,2,0
 "Liberal Party of Canada",FALSE,"York Centre",35103,"2006",750255,726255,0,24000,48,27,0,21
-"Liberal Party of Canada",FALSE,"York—Simcoe",35104,"2006",2e+05,200000,0,0,2,2,0,0
+"Liberal Party of Canada",FALSE,"York—Simcoe",35104,"2006",2e+05,2e+05,0,0,2,2,0,0
 "Liberal Party of Canada",FALSE,"York South—Weston",35105,"2006",768458,750309,18149,0,9,8,1,0
 "Liberal Party of Canada",FALSE,"York West",35106,"2006",1307500,1275000,32500,0,13,8,5,0
-"Liberal Party of Canada",FALSE,"Charleswood—St. James—Assiniboia",46002,"2006",2e+05,200000,0,0,2,2,0,0
+"Liberal Party of Canada",FALSE,"Charleswood—St. James—Assiniboia",46002,"2006",2e+05,2e+05,0,0,2,2,0,0
 "Liberal Party of Canada",FALSE,"Dauphin—Swan River—Marquette",46004,"2006",108000,98000,10000,0,2,1,1,0
 "Liberal Party of Canada",FALSE,"Elmwood—Transcona",46005,"2006",690000,690000,0,0,5,5,0,0
 "Liberal Party of Canada",FALSE,"Kildonan—St. Paul",46006,"2006",4642500,4532500,110000,0,35,25,10,0
@@ -4382,12 +4370,12 @@
 "Liberal Party of Canada",FALSE,"Regina—Qu'Appelle",47008,"2006",190000,150000,40000,0,6,4,2,0
 "Liberal Party of Canada",FALSE,"Wascana",47013,"2006",1893000,1615000,278000,0,41,13,28,0
 "Liberal Party of Canada",FALSE,"Calgary Centre-North",48003,"2006",15000,0,15000,0,2,0,2,0
-"Liberal Party of Canada",FALSE,"Calgary—Nose Hill",48005,"2006",419943,100000,319944,0,128,1,127,0
+"Liberal Party of Canada",FALSE,"Calgary—Nose Hill",48005,"2006",419943,1e+05,319944,0,128,1,127,0
 "Liberal Party of Canada",FALSE,"Calgary Southeast",48007,"2006",318084,190000,128083,0,59,4,55,0
-"Liberal Party of Canada",FALSE,"Calgary West",48009,"2006",295000,200000,95000,0,12,5,7,0
+"Liberal Party of Canada",FALSE,"Calgary West",48009,"2006",295000,2e+05,95000,0,12,5,7,0
 "Liberal Party of Canada",FALSE,"Edmonton—Mill Woods—Beaumont",48011,"2006",450000,430000,20000,0,7,6,1,0
 "Liberal Party of Canada",FALSE,"Edmonton Centre",48012,"2006",236300,147000,89300,0,12,4,8,0
-"Liberal Party of Canada",FALSE,"Edmonton—St. Albert",48015,"2006",1e+05,100000,0,0,1,1,0,0
+"Liberal Party of Canada",FALSE,"Edmonton—St. Albert",48015,"2006",1e+05,1e+05,0,0,1,1,0,0
 "Liberal Party of Canada",FALSE,"Lethbridge",48019,"2006",128500,30000,98500,0,11,1,10,0
 "Liberal Party of Canada",FALSE,"Peace River",48022,"2006",55000,50000,5000,0,2,1,1,0
 "Liberal Party of Canada",FALSE,"Red Deer",48023,"2006",459604,252500,207104,0,22,5,17,0
@@ -4430,7 +4418,7 @@
 "Liberal Party of Canada",FALSE,"Northwest Territories",61001,"2006",240800,197800,43000,0,5,2,3,0
 "Liberal Party of Canada",FALSE,"Bonavista—Gander—Grand Falls—Windsor",10002,"2007",217977,57896,160081,0,22,2,20,0
 "Liberal Party of Canada",FALSE,"Humber—St. Barbe—Baie Verte",10003,"2007",1988591,1580000,75000,333591,714,28,9,677
-"Liberal Party of Canada",FALSE,"Random—Burin—St. George's",10005,"2007",1e+05,100000,0,0,3,3,0,0
+"Liberal Party of Canada",FALSE,"Random—Burin—St. George's",10005,"2007",1e+05,1e+05,0,0,3,3,0,0
 "Liberal Party of Canada",FALSE,"St. John's South—Mount Pearl",10007,"2007",261298,251298,10000,0,4,3,1,0
 "Liberal Party of Canada",FALSE,"Cardigan",11001,"2007",375000,290000,85000,0,15,8,7,0
 "Liberal Party of Canada",FALSE,"Charlottetown",11002,"2007",2651440,989825,1661615,0,233,31,202,0
@@ -4438,11 +4426,11 @@
 "Liberal Party of Canada",FALSE,"Central Nova",12002,"2007",486033,147719,338314,0,45,3,42,0
 "Liberal Party of Canada",FALSE,"Dartmouth—Cole Harbour",12003,"2007",1479969,568254,911715,0,124,16,108,0
 "Liberal Party of Canada",FALSE,"Halifax",12004,"2007",256560,47040,209519,0,28,2,26,0
-"Liberal Party of Canada",FALSE,"Halifax West",12005,"2007",1086500,600000,486500,0,57,12,45,0
+"Liberal Party of Canada",FALSE,"Halifax West",12005,"2007",1086500,6e+05,486500,0,57,12,45,0
 "Liberal Party of Canada",FALSE,"Kings—Hants",12006,"2007",2681082,1915700,597738,167643,819,62,95,662
 "Liberal Party of Canada",FALSE,"Sackville—Eastern Shore",12008,"2007",1280280,1094380,185900,0,49,16,33,0
 "Liberal Party of Canada",FALSE,"South Shore—St. Margaret's",12009,"2007",1480400,482600,997800,0,114,14,100,0
-"Liberal Party of Canada",FALSE,"Sydney—Victoria",12010,"2007",985000,385000,600000,0,55,9,46,0
+"Liberal Party of Canada",FALSE,"Sydney—Victoria",12010,"2007",985000,385000,6e+05,0,55,9,46,0
 "Liberal Party of Canada",FALSE,"West Nova",12011,"2007",492396,204516,287880,0,34,7,27,0
 "Liberal Party of Canada",FALSE,"Beauséjour",13002,"2007",2396444,540188,1856256,0,160,12,148,0
 "Liberal Party of Canada",FALSE,"Fredericton",13003,"2007",265000,140000,125000,0,13,4,9,0
@@ -4455,7 +4443,7 @@
 "Liberal Party of Canada",FALSE,"Ahuntsic",24002,"2007",764851,719851,45000,0,19,15,4,0
 "Liberal Party of Canada",FALSE,"Beauce",24005,"2007",162173,154173,8000,0,10,10,0,0
 "Liberal Party of Canada",FALSE,"Beauport—Limoilou",24007,"2007",50000,50000,0,0,1,1,0,0
-"Liberal Party of Canada",FALSE,"Berthier—Maskinongé",24008,"2007",1e+05,100000,0,0,0,-1,1,0
+"Liberal Party of Canada",FALSE,"Berthier—Maskinongé",24008,"2007",1e+05,1e+05,0,0,0,-1,1,0
 "Liberal Party of Canada",FALSE,"Bourassa",24009,"2007",6072750,5806500,266250,0,123,103,20,0
 "Liberal Party of Canada",FALSE,"Brome—Missisquoi",24010,"2007",3085441,3012941,72500,0,88,79,9,0
 "Liberal Party of Canada",FALSE,"Brossard—La Prairie",24011,"2007",610000,610000,0,0,6,6,0,0
@@ -4470,7 +4458,7 @@
 "Liberal Party of Canada",FALSE,"La Pointe-de-l'Île",24028,"2007",266500,116500,0,150000,104,4,0,100
 "Liberal Party of Canada",FALSE,"Laurentides—Labelle",24030,"2007",3318000,1968000,1349000,1000,151,56,94,1
 "Liberal Party of Canada",FALSE,"Laurier—Sainte-Marie",24031,"2007",927500,250000,677500,0,50,5,45,0
-"Liberal Party of Canada",FALSE,"Laval",24032,"2007",3e+05,300000,0,0,6,6,0,0
+"Liberal Party of Canada",FALSE,"Laval",24032,"2007",3e+05,3e+05,0,0,6,6,0,0
 "Liberal Party of Canada",FALSE,"Laval—Les Îles",24033,"2007",360000,220000,140000,0,19,3,16,0
 "Liberal Party of Canada",FALSE,"Lévis—Bellechasse",24034,"2007",862181,815337,46844,0,20,16,4,0
 "Liberal Party of Canada",FALSE,"Lotbinière—Chutes-de-la-Chaudière",24036,"2007",170000,150000,20000,0,5,4,1,0
@@ -4488,11 +4476,11 @@
 "Liberal Party of Canada",FALSE,"Bas-Richelieu—Nicolet—Bécancour",24054,"2007",50000,0,0,0,0,0,0,0
 "Liberal Party of Canada",FALSE,"Richmond—Arthabaska",24055,"2007",30000,0,30000,0,2,0,2,0
 "Liberal Party of Canada",FALSE,"Rimouski-Neigette—Témiscouata—Les Basques",24056,"2007",644500,50000,99500,0,21,12,9,0
-"Liberal Party of Canada",FALSE,"Rivière-des-Mille-Îles",24057,"2007",1281900,1000000,0,281900,287,25,0,262
+"Liberal Party of Canada",FALSE,"Rivière-des-Mille-Îles",24057,"2007",1281900,1e+06,0,281900,287,25,0,262
 "Liberal Party of Canada",FALSE,"Montmagny—L'Islet—Kamouraska—Rivière-du-Loup",24058,"2007",2420473,2355473,65000,0,50,45,5,0
 "Liberal Party of Canada",FALSE,"Rosemont—La Petite-Patrie",24061,"2007",923660,487680,302980,133000,111,16,26,69
 "Liberal Party of Canada",FALSE,"Saint-Bruno—Saint-Hubert",24062,"2007",25000,25000,0,0,1,1,0,0
-"Liberal Party of Canada",FALSE,"Saint-Lambert",24065,"2007",1357500,957500,400000,0,62,16,46,0
+"Liberal Party of Canada",FALSE,"Saint-Lambert",24065,"2007",1357500,957500,4e+05,0,62,16,46,0
 "Liberal Party of Canada",FALSE,"Saint-Laurent—Cartierville",24066,"2007",4859830,4707440,152390,0,154,134,20,0
 "Liberal Party of Canada",FALSE,"Saint-Léonard—Saint-Michel",24067,"2007",6580780,6140780,440000,0,157,133,24,0
 "Liberal Party of Canada",FALSE,"Sherbrooke",24070,"2007",699000,286000,413000,0,48,9,39,0
@@ -4579,7 +4567,7 @@
 "Liberal Party of Canada",FALSE,"Stormont—Dundas—South Glengarry",35087,"2007",933744,324042,609702,0,94,9,85,0
 "Liberal Party of Canada",FALSE,"Sudbury",35088,"2007",753700,428600,232000,93100,0,-15,15,0
 "Liberal Party of Canada",FALSE,"Thornhill",35089,"2007",2577230,1317533,1259697,0,137,23,114,0
-"Liberal Party of Canada",FALSE,"Thunder Bay—Rainy River",35090,"2007",145000,100000,45000,0,4,1,3,0
+"Liberal Party of Canada",FALSE,"Thunder Bay—Rainy River",35090,"2007",145000,1e+05,45000,0,4,1,3,0
 "Liberal Party of Canada",FALSE,"Thunder Bay—Superior North",35091,"2007",1642500,1485000,157500,0,41,23,18,0
 "Liberal Party of Canada",FALSE,"Toronto Centre",35093,"2007",4397120,4075668,321452,0,88,67,21,0
 "Liberal Party of Canada",FALSE,"Toronto—Danforth",35094,"2007",421741,192724,229017,0,27,4,23,0
@@ -4620,7 +4608,7 @@
 "Liberal Party of Canada",FALSE,"Edmonton—Strathcona",48018,"2007",4541603,3478987,1062115,500,315,59,255,1
 "Liberal Party of Canada",FALSE,"Lethbridge",48019,"2007",484897,64623,37460,382815,337,2,16,319
 "Liberal Party of Canada",FALSE,"Macleod",48020,"2007",472254,468754,0,3500,0,0,0,0
-"Liberal Party of Canada",FALSE,"Medicine Hat",48021,"2007",414039,300000,114040,0,29,3,26,0
+"Liberal Party of Canada",FALSE,"Medicine Hat",48021,"2007",414039,3e+05,114040,0,29,3,26,0
 "Liberal Party of Canada",FALSE,"Westlock—St. Paul",48025,"2007",286300,162950,113350,10000,34,3,18,13
 "Liberal Party of Canada",FALSE,"Wetaskiwin",48026,"2007",576039,566000,0,10039,22,12,0,10
 "Liberal Party of Canada",FALSE,"Wild Rose",48027,"2007",63000,40000,14000,9000,9,1,2,6
@@ -4664,7 +4652,7 @@
 "Liberal Party of Canada",FALSE,"Egmont",11003,"2008",1471715,764397,707318,0,107,14,93,0
 "Liberal Party of Canada",FALSE,"Malpeque",11004,"2008",1972855,547609,1425246,0,211,19,192,0
 "Liberal Party of Canada",FALSE,"Cape Breton—Canso",12001,"2008",2399148,1776408,622740,0,100,40,60,0
-"Liberal Party of Canada",FALSE,"Central Nova",12002,"2008",1e+05,100000,0,0,1,1,0,0
+"Liberal Party of Canada",FALSE,"Central Nova",12002,"2008",1e+05,1e+05,0,0,1,1,0,0
 "Liberal Party of Canada",FALSE,"Dartmouth—Cole Harbour",12003,"2008",6436962,4133601,2303361,0,352,100,252,0
 "Liberal Party of Canada",FALSE,"Halifax",12004,"2008",829100,440800,388300,0,70,13,57,0
 "Liberal Party of Canada",FALSE,"Halifax West",12005,"2008",907768,340000,567768,0,74,7,67,0
@@ -4855,7 +4843,7 @@
 "Liberal Party of Canada",FALSE,"Saskatoon—Rosetown—Biggar",47010,"2008",210000,190000,20000,0,0,-3,3,0
 "Liberal Party of Canada",FALSE,"Saskatoon—Wanuskewin",47011,"2008",1538712,814820,708892,15000,120,11,101,8
 "Liberal Party of Canada",FALSE,"Wascana",47013,"2008",5114076,3436132,1677943,0,274,67,207,0
-"Liberal Party of Canada",FALSE,"Yorkton—Melville",47014,"2008",176000,100000,76000,0,6,2,4,0
+"Liberal Party of Canada",FALSE,"Yorkton—Melville",47014,"2008",176000,1e+05,76000,0,6,2,4,0
 "Liberal Party of Canada",FALSE,"Calgary East",48002,"2008",170000,160000,10000,0,3,2,1,0
 "Liberal Party of Canada",FALSE,"Calgary Centre-North",48003,"2008",383473,175407,208066,0,59,4,55,0
 "Liberal Party of Canada",FALSE,"Calgary Northeast",48004,"2008",11250,11250,0,0,1,1,0,0
@@ -4878,7 +4866,7 @@
 "Liberal Party of Canada",FALSE,"Burnaby—Douglas",59002,"2008",1821500,1040000,714000,67500,130,21,62,47
 "Liberal Party of Canada",FALSE,"Burnaby—New Westminster",59003,"2008",288000,180000,108000,0,13,4,9,0
 "Liberal Party of Canada",FALSE,"Chilliwack—Fraser Canyon",59005,"2008",1079573,874573,205000,0,32,17,15,0
-"Liberal Party of Canada",FALSE,"Delta—Richmond East",59006,"2008",298500,100000,51500,147000,109,2,10,97
+"Liberal Party of Canada",FALSE,"Delta—Richmond East",59006,"2008",298500,1e+05,51500,147000,109,2,10,97
 "Liberal Party of Canada",FALSE,"Esquimalt—Juan de Fuca",59008,"2008",3553891,2491000,1062891,0,152,53,99,0
 "Liberal Party of Canada",FALSE,"Fleetwood—Port Kells",59009,"2008",832700,590000,111000,131700,190,13,13,164
 "Liberal Party of Canada",FALSE,"Kamloops—Thompson—Cariboo",59010,"2008",1193900,1137000,41000,15900,40,20,5,15
@@ -4947,7 +4935,7 @@
 "Liberal Party of Canada",FALSE,"Brome—Missisquoi",24010,"2009",1563481,463505,1099976,0,103,9,94,0
 "Liberal Party of Canada",FALSE,"Brossard—La Prairie",24011,"2009",2915500,2125000,598000,192500,212,49,63,100
 "Liberal Party of Canada",FALSE,"Chambly—Borduas",24012,"2009",47075541,46865541,187000,23000,853,807,23,23
-"Liberal Party of Canada",FALSE,"Compton—Stanstead",24017,"2009",205500,100000,105500,0,12,2,10,0
+"Liberal Party of Canada",FALSE,"Compton—Stanstead",24017,"2009",205500,1e+05,105500,0,12,2,10,0
 "Liberal Party of Canada",FALSE,"Drummond",24018,"2009",2236222,2101222,135000,0,77,68,9,0
 "Liberal Party of Canada",FALSE,"Gatineau",24020,"2009",2133153,1319679,554974,258500,203,35,34,134
 "Liberal Party of Canada",FALSE,"Honoré-Mercier",24022,"2009",1399726,1337726,62000,0,26,15,11,0
@@ -4957,7 +4945,7 @@
 "Liberal Party of Canada",FALSE,"LaSalle—Émard",24029,"2009",1200000,920000,280000,0,25,11,14,0
 "Liberal Party of Canada",FALSE,"Laurentides—Labelle",24030,"2009",3533244,2556071,977174,0,129,53,76,0
 "Liberal Party of Canada",FALSE,"Laurier—Sainte-Marie",24031,"2009",432425,213894,218531,0,38,3,35,0
-"Liberal Party of Canada",FALSE,"Laval",24032,"2009",3e+05,300000,0,0,4,4,0,0
+"Liberal Party of Canada",FALSE,"Laval",24032,"2009",3e+05,3e+05,0,0,4,4,0,0
 "Liberal Party of Canada",FALSE,"Laval—Les Îles",24033,"2009",744000,563500,165500,15000,42,17,25,0
 "Liberal Party of Canada",FALSE,"Longueuil—Pierre-Boucher",24035,"2009",678620,147678,530942,0,40,4,36,0
 "Liberal Party of Canada",FALSE,"Louis-Hébert",24037,"2009",52000,0,31500,20500,10,10,0,0
@@ -5061,7 +5049,7 @@
 "Liberal Party of Canada",FALSE,"St. Catharines",35076,"2009",1632760,724924,907836,0,137,25,112,0
 "Liberal Party of Canada",FALSE,"St. Paul's",35077,"2009",2405400,1371710,1033690,0,165,30,135,0
 "Liberal Party of Canada",FALSE,"Sarnia—Lambton",35078,"2009",719000,489000,230000,0,30,12,18,0
-"Liberal Party of Canada",FALSE,"Sault Ste. Marie",35079,"2009",133500,100000,33500,0,10,2,8,0
+"Liberal Party of Canada",FALSE,"Sault Ste. Marie",35079,"2009",133500,1e+05,33500,0,10,2,8,0
 "Liberal Party of Canada",FALSE,"Scarborough—Agincourt",35080,"2009",11341787,10195000,1146787,0,329,245,84,0
 "Liberal Party of Canada",FALSE,"Scarborough Centre",35081,"2009",5029822,3397506,1632316,0,183,50,133,0
 "Liberal Party of Canada",FALSE,"Scarborough—Guildwood",35082,"2009",1056382,659730,392652,4000,71,15,52,4
@@ -5081,7 +5069,7 @@
 "Liberal Party of Canada",FALSE,"Vaughan",35096,"2009",1025500,1020000,5500,0,11,10,1,0
 "Liberal Party of Canada",FALSE,"Welland",35097,"2009",1270369,418464,851904,0,191,13,178,0
 "Liberal Party of Canada",FALSE,"Wellington—Halton Hills",35098,"2009",834620,361706,451414,21500,105,6,75,24
-"Liberal Party of Canada",FALSE,"Whitby—Oshawa",35099,"2009",302000,202000,100000,0,25,5,20,0
+"Liberal Party of Canada",FALSE,"Whitby—Oshawa",35099,"2009",302000,202000,1e+05,0,25,5,20,0
 "Liberal Party of Canada",FALSE,"Willowdale",35100,"2009",1743754,1063632,638122,42000,199,17,96,86
 "Liberal Party of Canada",FALSE,"Windsor—Tecumseh",35101,"2009",1510500,830000,679500,1000,64,16,47,1
 "Liberal Party of Canada",FALSE,"York Centre",35103,"2009",3183116,2879182,303934,0,124,83,41,0
@@ -5175,7 +5163,7 @@
 "Liberal Party of Canada",FALSE,"Madawaska—Restigouche",13005,"2010",712000,383000,329000,0,41,7,34,0
 "Liberal Party of Canada",FALSE,"Miramichi",13006,"2010",1455370,486888,949182,19300,232,12,93,127
 "Liberal Party of Canada",FALSE,"Moncton—Riverview—Dieppe",13007,"2010",481980,272540,209440,0,32,6,26,0
-"Liberal Party of Canada",FALSE,"New Brunswick Southwest",13008,"2010",414500,100000,314500,0,34,1,33,0
+"Liberal Party of Canada",FALSE,"New Brunswick Southwest",13008,"2010",414500,1e+05,314500,0,34,1,33,0
 "Liberal Party of Canada",FALSE,"Saint John",13009,"2010",400350,325500,74850,0,24,9,15,0
 "Liberal Party of Canada",FALSE,"Tobique—Mactaquac",13010,"2010",242500,225000,17500,0,12,0,12,0
 "Liberal Party of Canada",FALSE,"Ahuntsic",24002,"2010",3275482,3195482,80000,0,62,57,5,0
@@ -5188,7 +5176,7 @@
 "Liberal Party of Canada",FALSE,"Brome—Missisquoi",24010,"2010",1609192,656136,762056,191000,184,18,70,96
 "Liberal Party of Canada",FALSE,"Brossard—La Prairie",24011,"2010",2916000,1956000,960000,0,147,57,90,0
 "Liberal Party of Canada",FALSE,"Chambly—Borduas",24012,"2010",29885224,29720224,165000,0,587,572,15,0
-"Liberal Party of Canada",FALSE,"Charlesbourg—Haute-Saint-Charles",24013,"2010",2e+05,200000,0,0,4,4,0,0
+"Liberal Party of Canada",FALSE,"Charlesbourg—Haute-Saint-Charles",24013,"2010",2e+05,2e+05,0,0,4,4,0,0
 "Liberal Party of Canada",FALSE,"Châteauguay—Saint-Constant",24015,"2010",101000,0,101000,0,15,0,15,0
 "Liberal Party of Canada",FALSE,"Drummond",24018,"2010",2010800,1921800,89000,0,71,62,9,0
 "Liberal Party of Canada",FALSE,"Gaspésie—Îles-de-la-Madeleine",24019,"2010",310000,90000,220000,0,18,2,16,0
@@ -5233,7 +5221,7 @@
 "Liberal Party of Canada",FALSE,"Algoma—Manitoulin—Kapuskasing",35002,"2010",3397968,2350382,1047586,0,200,43,157,0
 "Liberal Party of Canada",FALSE,"Ancaster—Dundas—Flamborough—Westdale",35003,"2010",1798341,1361092,409750,27500,115,42,51,22
 "Liberal Party of Canada",FALSE,"Barrie",35004,"2010",1429854,575291,840562,14000,157,20,109,28
-"Liberal Party of Canada",FALSE,"Bramalea—Gore—Malton",35006,"2010",1e+05,100000,0,0,1,1,0,0
+"Liberal Party of Canada",FALSE,"Bramalea—Gore—Malton",35006,"2010",1e+05,1e+05,0,0,1,1,0,0
 "Liberal Party of Canada",FALSE,"Brampton—Springdale",35007,"2010",211180,25250,185930,0,24,1,23,0
 "Liberal Party of Canada",FALSE,"Brampton West",35008,"2010",4348335,3760418,587917,0,129,76,53,0
 "Liberal Party of Canada",FALSE,"Burlington",35010,"2010",1353695,908906,431426,13363,170,15,68,87
@@ -5356,7 +5344,7 @@
 "Liberal Party of Canada",FALSE,"Edmonton East",48013,"2010",40000,25000,15000,0,3,1,2,0
 "Liberal Party of Canada",FALSE,"Edmonton—Leduc",48014,"2010",495200,301500,184600,9100,55,6,30,19
 "Liberal Party of Canada",FALSE,"Edmonton—St. Albert",48015,"2010",30000,30000,0,0,1,1,0,0
-"Liberal Party of Canada",FALSE,"Edmonton—Sherwood Park",48016,"2010",244000,100000,144000,0,22,1,21,0
+"Liberal Party of Canada",FALSE,"Edmonton—Sherwood Park",48016,"2010",244000,1e+05,144000,0,22,1,21,0
 "Liberal Party of Canada",FALSE,"Edmonton—Spruce Grove",48017,"2010",57500,50000,7500,0,3,1,2,0
 "Liberal Party of Canada",FALSE,"Edmonton—Strathcona",48018,"2010",414929,256796,151633,6500,55,7,28,20
 "Liberal Party of Canada",FALSE,"Lethbridge",48019,"2010",379446,24000,214050,141396,355,1,28,326
@@ -5413,7 +5401,7 @@
 "Liberal Party of Canada",FALSE,"South Shore—St. Margaret's",12009,"2011",4273000,2586500,1686500,0,236,57,179,0
 "Liberal Party of Canada",FALSE,"Sydney—Victoria",12010,"2011",3470680,1986890,1483790,0,175,37,138,0
 "Liberal Party of Canada",FALSE,"West Nova",12011,"2011",470000,295000,175000,0,36,5,31,0
-"Liberal Party of Canada",FALSE,"Acadie—Bathurst",13001,"2011",283000,200000,83000,0,13,3,10,0
+"Liberal Party of Canada",FALSE,"Acadie—Bathurst",13001,"2011",283000,2e+05,83000,0,13,3,10,0
 "Liberal Party of Canada",FALSE,"Beauséjour",13002,"2011",8030897,6903997,1126900,0,218,122,96,0
 "Liberal Party of Canada",FALSE,"Fredericton",13003,"2011",3417500,2541500,876000,0,134,52,82,0
 "Liberal Party of Canada",FALSE,"Fundy Royal",13004,"2011",386618,210000,171300,5318,38,6,20,12
@@ -5435,7 +5423,7 @@
 "Liberal Party of Canada",FALSE,"Drummond",24018,"2011",3985012,3705512,279500,0,113,89,24,0
 "Liberal Party of Canada",FALSE,"Gaspésie—Îles-de-la-Madeleine",24019,"2011",1100000,1020000,80000,0,39,30,9,0
 "Liberal Party of Canada",FALSE,"Gatineau",24020,"2011",816200,507700,308500,0,53,14,39,0
-"Liberal Party of Canada",FALSE,"Honoré-Mercier",24022,"2011",395500,300000,95500,0,18,6,12,0
+"Liberal Party of Canada",FALSE,"Honoré-Mercier",24022,"2011",395500,3e+05,95500,0,18,6,12,0
 "Liberal Party of Canada",FALSE,"Hull—Aylmer",24023,"2011",907500,527500,380000,0,66,9,57,0
 "Liberal Party of Canada",FALSE,"Jeanne-Le Ber",24024,"2011",4024654,3316530,278124,430000,584,118,36,430
 "Liberal Party of Canada",FALSE,"Lac-Saint-Louis",24027,"2011",3040442,1894200,1146242,0,148,41,107,0
@@ -5447,7 +5435,7 @@
 "Liberal Party of Canada",FALSE,"Lévis—Bellechasse",24034,"2011",550000,405000,145000,0,24,9,15,0
 "Liberal Party of Canada",FALSE,"Longueuil—Pierre-Boucher",24035,"2011",50000,50000,0,0,1,1,0,0
 "Liberal Party of Canada",FALSE,"Louis-Hébert",24037,"2011",2234790,1830000,73500,331290,234,40,6,188
-"Liberal Party of Canada",FALSE,"Louis-Saint-Laurent",24038,"2011",530000,230000,300000,0,19,4,15,0
+"Liberal Party of Canada",FALSE,"Louis-Saint-Laurent",24038,"2011",530000,230000,3e+05,0,19,4,15,0
 "Liberal Party of Canada",FALSE,"Manicouagan",24039,"2011",225900,152900,73000,0,12,4,8,0
 "Liberal Party of Canada",FALSE,"Haute-Gaspésie—La Mitis—Matane—Matapédia",24041,"2011",2428300,2151300,277000,0,70,46,24,0
 "Liberal Party of Canada",FALSE,"Mégantic—L'Érable",24042,"2011",62600,52600,0,10000,6,1,0,5
@@ -5565,7 +5553,7 @@
 "Liberal Party of Canada",FALSE,"Toronto Centre",35093,"2011",9343394,7471689,1871704,0,383,110,273,0
 "Liberal Party of Canada",FALSE,"Toronto—Danforth",35094,"2011",3963899,3304993,658906,0,155,69,86,0
 "Liberal Party of Canada",FALSE,"Trinity—Spadina",35095,"2011",5335809,3743835,1591974,0,286,111,175,0
-"Liberal Party of Canada",FALSE,"Vaughan",35096,"2011",2411000,2211000,200000,0,59,32,27,0
+"Liberal Party of Canada",FALSE,"Vaughan",35096,"2011",2411000,2211000,2e+05,0,59,32,27,0
 "Liberal Party of Canada",FALSE,"Welland",35097,"2011",583414,148596,434818,0,93,4,89,0
 "Liberal Party of Canada",FALSE,"Wellington—Halton Hills",35098,"2011",2613305,1495719,1070586,47000,192,36,122,34
 "Liberal Party of Canada",FALSE,"Whitby—Oshawa",35099,"2011",392850,204000,188850,0,32,5,27,0
@@ -5579,7 +5567,7 @@
 "Liberal Party of Canada",FALSE,"Brandon—Souris",46001,"2011",132850,23500,109350,0,13,0,13,0
 "Liberal Party of Canada",FALSE,"Charleswood—St. James—Assiniboia",46002,"2011",1217100,444000,757100,16000,105,14,83,8
 "Liberal Party of Canada",FALSE,"Churchill",46003,"2011",829654,652328,156787,20540,40,10,17,13
-"Liberal Party of Canada",FALSE,"Elmwood—Transcona",46005,"2011",510147,200000,310148,0,40,3,37,0
+"Liberal Party of Canada",FALSE,"Elmwood—Transcona",46005,"2011",510147,2e+05,310148,0,40,3,37,0
 "Liberal Party of Canada",FALSE,"Kildonan—St. Paul",46006,"2011",1094382,688882,395500,10000,72,15,45,12
 "Liberal Party of Canada",FALSE,"Provencher",46008,"2011",1133810,820000,313810,0,47,17,30,0
 "Liberal Party of Canada",FALSE,"Saint Boniface",46009,"2011",2237000,1423000,787000,27000,132,37,74,21
@@ -5688,7 +5676,7 @@
 "Liberal Party of Canada",FALSE,"Laval—Les Îles",24033,"2012",96500,51000,45500,0,6,1,5,0
 "Liberal Party of Canada",FALSE,"Lévis—Bellechasse",24034,"2012",331675,49530,282145,0,36,2,34,0
 "Liberal Party of Canada",FALSE,"Louis-Hébert",24037,"2012",238500,137500,101000,0,25,3,22,0
-"Liberal Party of Canada",FALSE,"Louis-Saint-Laurent",24038,"2012",1e+05,100000,0,0,1,1,0,0
+"Liberal Party of Canada",FALSE,"Louis-Saint-Laurent",24038,"2012",1e+05,1e+05,0,0,1,1,0,0
 "Liberal Party of Canada",FALSE,"Haute-Gaspésie—La Mitis—Matane—Matapédia",24041,"2012",1350000,320000,1030000,0,94,5,89,0
 "Liberal Party of Canada",FALSE,"Mount Royal",24044,"2012",425600,120000,305600,0,46,1,45,0
 "Liberal Party of Canada",FALSE,"Notre-Dame-de-Grâce—Lachine",24045,"2012",657389,172448,482900,2041,99,5,92,2
@@ -5783,7 +5771,7 @@
 "Liberal Party of Canada",FALSE,"Sault Ste. Marie",35079,"2012",209000,40000,169000,0,25,1,24,0
 "Liberal Party of Canada",FALSE,"Scarborough—Agincourt",35080,"2012",24123800,20796800,3327000,0,763,499,264,0
 "Liberal Party of Canada",FALSE,"Scarborough—Guildwood",35082,"2012",813970,281510,480174,52286,135,8,66,61
-"Liberal Party of Canada",FALSE,"Scarborough—Rouge River",35083,"2012",301290,200000,35000,66290,56,4,3,49
+"Liberal Party of Canada",FALSE,"Scarborough—Rouge River",35083,"2012",301290,2e+05,35000,66290,56,4,3,49
 "Liberal Party of Canada",FALSE,"Scarborough Southwest",35084,"2012",888442,609492,278950,0,44,7,37,0
 "Liberal Party of Canada",FALSE,"Simcoe—Grey",35085,"2012",983750,362000,621750,0,77,9,68,0
 "Liberal Party of Canada",FALSE,"Simcoe North",35086,"2012",438300,126000,312300,0,51,4,47,0
@@ -5806,9 +5794,9 @@
 "Liberal Party of Canada",FALSE,"York—Simcoe",35104,"2012",358200,40000,284000,34200,97,1,35,61
 "Liberal Party of Canada",FALSE,"York South—Weston",35105,"2012",263500,193000,70500,0,18,6,12,0
 "Liberal Party of Canada",FALSE,"York West",35106,"2012",3099400,2927000,172400,0,77,50,27,0
-"Liberal Party of Canada",FALSE,"Charleswood—St. James—Assiniboia",46002,"2012",561850,100000,461850,0,59,4,55,0
+"Liberal Party of Canada",FALSE,"Charleswood—St. James—Assiniboia",46002,"2012",561850,1e+05,461850,0,59,4,55,0
 "Liberal Party of Canada",FALSE,"Churchill",46003,"2012",119500,74000,45500,0,11,2,9,0
-"Liberal Party of Canada",FALSE,"Elmwood—Transcona",46005,"2012",150000,50000,100000,0,11,1,10,0
+"Liberal Party of Canada",FALSE,"Elmwood—Transcona",46005,"2012",150000,50000,1e+05,0,11,1,10,0
 "Liberal Party of Canada",FALSE,"Kildonan—St. Paul",46006,"2012",102000,30000,72000,0,15,1,14,0
 "Liberal Party of Canada",FALSE,"Portage—Lisgar",46007,"2012",154500,87000,0,0,1545,1545,0,0
 "Liberal Party of Canada",FALSE,"Provencher",46008,"2012",396500,244500,152000,0,21,3,18,0
@@ -6009,7 +5997,7 @@
 "Liberal Party of Canada",FALSE,"Sault Ste. Marie",35079,"2013",468047,63060,404988,0,61,2,59,0
 "Liberal Party of Canada",FALSE,"Scarborough—Agincourt",35080,"2013",20681450,17869800,2811650,0,670,441,229,0
 "Liberal Party of Canada",FALSE,"Scarborough—Guildwood",35082,"2013",1609101,869095,685505,54500,197,23,118,56
-"Liberal Party of Canada",FALSE,"Scarborough—Rouge River",35083,"2013",569500,400000,169500,0,38,4,34,0
+"Liberal Party of Canada",FALSE,"Scarborough—Rouge River",35083,"2013",569500,4e+05,169500,0,38,4,34,0
 "Liberal Party of Canada",FALSE,"Scarborough Southwest",35084,"2013",1157792,881992,275800,0,54,13,41,0
 "Liberal Party of Canada",FALSE,"Simcoe—Grey",35085,"2013",1090959,545540,528419,17000,108,14,84,10
 "Liberal Party of Canada",FALSE,"Simcoe North",35086,"2013",773200,217500,555700,0,77,8,69,0
@@ -6111,26 +6099,23 @@
 "New Democratic Party",TRUE,NA,NA,"2011",742706063,506702773,235895724,107566,37778,10897,26587,294
 "New Democratic Party",TRUE,NA,NA,"2012",767074871,507163968,259656027,254875,43537,10850,32040,647
 "New Democratic Party",TRUE,NA,NA,"2013",816230902,579380066,236234104,616731,39218,11592,27052,574
-"New Democratic Party",TRUE,NA,NA,"2014",151933806,37959234,113972572,2000,21013,1024,19988,1
-"New Democratic Party",TRUE,NA,NA,"2014",377666068,193736928,183927140,2000,31504,4320,27182,2
-"New Democratic Party",TRUE,NA,NA,"2014",251964742,139427582,112521980,15180,21748,947,20719,82
-"New Democratic Party",TRUE,NA,NA,"2014",172074440,46180861,125880079,13500,24529,1142,23363,24
+"New Democratic Party",TRUE,NA,NA,"2014",953639056,417304605,536301771,32680,98794,7433,91252,109
 "New Democratic Party",TRUE,NA,NA,"2015",226672810,84804935,141867375,500,28060,1974,26085,1
 "New Democratic Party",FALSE,"St. John's East",10006,"2004",315000,55000,246500,13500,85,2,23,60
 "New Democratic Party",FALSE,"St. John's South—Mount Pearl",10007,"2004",10352,0,0,10352,11,0,0,11
 "New Democratic Party",FALSE,"Cardigan",11001,"2004",480000,480000,480000,0,2,0,2,0
 "New Democratic Party",FALSE,"Malpeque",11004,"2004",125150,62950,44900,17300,41,2,7,32
-"New Democratic Party",FALSE,"Cape Breton—Canso",12001,"2004",154000,100000,54000,0,9,3,6,0
+"New Democratic Party",FALSE,"Cape Breton—Canso",12001,"2004",154000,1e+05,54000,0,9,3,6,0
 "New Democratic Party",FALSE,"Central Nova",12002,"2004",1196874,747496,404498,44880,112,12,45,55
 "New Democratic Party",FALSE,"Dartmouth—Cole Harbour",12003,"2004",2013495,669500,1324800,19195,169,15,134,20
 "New Democratic Party",FALSE,"Halifax",12004,"2004",2138900,922100,1200800,16000,202,26,146,30
-"New Democratic Party",FALSE,"Halifax West",12005,"2004",733000,276000,200000,257000,155,7,23,125
+"New Democratic Party",FALSE,"Halifax West",12005,"2004",733000,276000,2e+05,257000,155,7,23,125
 "New Democratic Party",FALSE,"Cumberland—Colchester—Musquodoboit Valley",12007,"2004",575500,285000,290500,0,34,6,28,0
 "New Democratic Party",FALSE,"Sackville—Eastern Shore",12008,"2004",1310805,350595,677652,273555,215,8,87,120
 "New Democratic Party",FALSE,"South Shore—St. Margaret's",12009,"2004",998840,690400,264500,43940,159,12,25,122
 "New Democratic Party",FALSE,"Sydney—Victoria",12010,"2004",194380,122980,71400,0,11,3,8,0
 "New Democratic Party",FALSE,"West Nova",12011,"2004",1573787,867500,568100,138187,864,17,60,787
-"New Democratic Party",FALSE,"Beauséjour",13002,"2004",155000,100000,55000,0,7,1,6,0
+"New Democratic Party",FALSE,"Beauséjour",13002,"2004",155000,1e+05,55000,0,7,1,6,0
 "New Democratic Party",FALSE,"Fredericton",13003,"2004",20000,0,20000,0,2,2,0,0
 "New Democratic Party",FALSE,"Saint John",13009,"2004",390161,250000,121900,18261,73,5,9,59
 "New Democratic Party",FALSE,"Tobique—Mactaquac",13010,"2004",10000,0,3800,6200,9,0,1,8
@@ -6193,7 +6178,7 @@
 "New Democratic Party",FALSE,"Huron—Bruce",35034,"2004",195000,130000,65000,0,8,2,6,0
 "New Democratic Party",FALSE,"Kenora",35035,"2004",662124,30000,632124,0,113,1,112,0
 "New Democratic Party",FALSE,"Kitchener Centre",35037,"2004",856375,733500,122875,0,21,8,13,0
-"New Democratic Party",FALSE,"Kitchener—Conestoga",35038,"2004",310000,200000,110000,0,16,3,13,0
+"New Democratic Party",FALSE,"Kitchener—Conestoga",35038,"2004",310000,2e+05,110000,0,16,3,13,0
 "New Democratic Party",FALSE,"Kitchener—Waterloo",35039,"2004",1657500,934500,723000,0,101,25,76,0
 "New Democratic Party",FALSE,"Lanark—Frontenac—Lennox and Addington",35040,"2004",770014,597600,172414,0,21,8,13,0
 "New Democratic Party",FALSE,"Leeds—Grenville",35041,"2004",32500,0,32500,0,4,0,4,0
@@ -6258,7 +6243,7 @@
 "New Democratic Party",FALSE,"Dauphin—Swan River—Marquette",46004,"2004",917500,485000,432500,0,52,10,42,0
 "New Democratic Party",FALSE,"Elmwood—Transcona",46005,"2004",2105100,852200,1252900,0,163,18,145,0
 "New Democratic Party",FALSE,"Kildonan—St. Paul",46006,"2004",1584600,872500,712100,0,111,18,93,0
-"New Democratic Party",FALSE,"Portage—Lisgar",46007,"2004",549500,200000,349500,0,47,2,45,0
+"New Democratic Party",FALSE,"Portage—Lisgar",46007,"2004",549500,2e+05,349500,0,47,2,45,0
 "New Democratic Party",FALSE,"Provencher",46008,"2004",111500,40000,71500,0,10,1,9,0
 "New Democratic Party",FALSE,"Saint Boniface",46009,"2004",647500,427000,220500,0,35,8,27,0
 "New Democratic Party",FALSE,"Selkirk—Interlake",46010,"2004",943700,385000,558700,0,84,9,75,0
@@ -6286,7 +6271,7 @@
 "New Democratic Party",FALSE,"Calgary Southeast",48007,"2004",20000,0,20000,0,1,0,1,0
 "New Democratic Party",FALSE,"Calgary West",48009,"2004",5000,0,5000,0,1,0,1,0
 "New Democratic Party",FALSE,"Crowfoot",48010,"2004",110000,0,110000,0,9,0,9,0
-"New Democratic Party",FALSE,"Edmonton Centre",48012,"2004",827884,600000,189000,38884,164,5,29,130
+"New Democratic Party",FALSE,"Edmonton Centre",48012,"2004",827884,6e+05,189000,38884,164,5,29,130
 "New Democratic Party",FALSE,"Edmonton—Leduc",48014,"2004",1565,0,0,0,20,20,0,0
 "New Democratic Party",FALSE,"Edmonton—Strathcona",48018,"2004",1144647,427500,710000,7147,120,9,86,25
 "New Democratic Party",FALSE,"Lethbridge",48019,"2004",519585,374921,117000,27664,106,7,10,89
@@ -6350,7 +6335,7 @@
 "New Democratic Party",FALSE,"Fredericton",13003,"2005",90038,46358,0,0,0,0,0,0
 "New Democratic Party",FALSE,"Fundy Royal",13004,"2005",172500,25000,147500,0,15,1,14,0
 "New Democratic Party",FALSE,"Madawaska—Restigouche",13005,"2005",574600,305000,269600,0,30,5,25,0
-"New Democratic Party",FALSE,"Moncton—Riverview—Dieppe",13007,"2005",321000,216000,100000,5000,15,-4,4,15
+"New Democratic Party",FALSE,"Moncton—Riverview—Dieppe",13007,"2005",321000,216000,1e+05,5000,15,-4,4,15
 "New Democratic Party",FALSE,"Saint John",13009,"2005",965700,621000,344700,0,64,15,49,0
 "New Democratic Party",FALSE,"Tobique—Mactaquac",13010,"2005",392550,0,0,0,46,46,0,0
 "New Democratic Party",FALSE,"Ahuntsic",24002,"2005",11000,0,11000,0,7,0,7,0
@@ -6406,7 +6391,7 @@
 "New Democratic Party",FALSE,"Ancaster—Dundas—Flamborough—Westdale",35003,"2005",884210,592752,291458,0,64,13,51,0
 "New Democratic Party",FALSE,"Beaches—East York",35005,"2005",5615500,3444500,2171000,0,303,73,230,0
 "New Democratic Party",FALSE,"Brampton—Springdale",35007,"2005",349000,280000,69000,0,13,5,8,0
-"New Democratic Party",FALSE,"Brampton West",35008,"2005",165000,100000,65000,0,9,3,6,0
+"New Democratic Party",FALSE,"Brampton West",35008,"2005",165000,1e+05,65000,0,9,3,6,0
 "New Democratic Party",FALSE,"Brant",35009,"2005",735510,597000,138510,0,30,14,16,0
 "New Democratic Party",FALSE,"Burlington",35010,"2005",33000,0,33000,0,4,0,4,0
 "New Democratic Party",FALSE,"Cambridge",35011,"2005",980500,355000,625500,0,68,9,59,0
@@ -6433,7 +6418,7 @@
 "New Democratic Party",FALSE,"London North Centre",35043,"2005",709038,287008,387155,34875,187,8,31,148
 "New Democratic Party",FALSE,"London West",35044,"2005",470100,148600,321500,0,37,3,34,0
 "New Democratic Party",FALSE,"Lambton—Kent—Middlesex",35046,"2005",115000,80000,35000,0,4,2,2,0
-"New Democratic Party",FALSE,"Mississauga—Brampton South",35047,"2005",1e+05,100000,0,0,2,2,0,0
+"New Democratic Party",FALSE,"Mississauga—Brampton South",35047,"2005",1e+05,1e+05,0,0,2,2,0,0
 "New Democratic Party",FALSE,"Mississauga—Erindale",35049,"2005",109500,0,105000,4500,43,0,8,35
 "New Democratic Party",FALSE,"Mississauga South",35050,"2005",26100,0,26100,0,2,0,2,0
 "New Democratic Party",FALSE,"Mississauga—Streetsville",35051,"2005",30000,0,30000,0,2,0,2,0
@@ -6456,7 +6441,7 @@
 "New Democratic Party",FALSE,"Peterborough",35071,"2005",1172000,1010000,162000,0,32,19,13,0
 "New Democratic Party",FALSE,"Pickering—Scarborough East",35072,"2005",578600,390100,188500,0,28,8,20,0
 "New Democratic Party",FALSE,"Prince Edward—Hastings",35073,"2005",114500,50000,64500,0,12,2,10,0
-"New Democratic Party",FALSE,"Renfrew—Nipissing—Pembroke",35074,"2005",1013500,800000,212500,1000,33,12,20,1
+"New Democratic Party",FALSE,"Renfrew—Nipissing—Pembroke",35074,"2005",1013500,8e+05,212500,1000,33,12,20,1
 "New Democratic Party",FALSE,"Richmond Hill",35075,"2005",680000,450000,230000,0,30,8,22,0
 "New Democratic Party",FALSE,"St. Catharines",35076,"2005",80700,60000,20700,0,5,1,4,0
 "New Democratic Party",FALSE,"St. Paul's",35077,"2005",1866500,1430000,436500,0,71,22,49,0
@@ -6481,7 +6466,7 @@
 "New Democratic Party",FALSE,"Willowdale",35100,"2005",220000,170000,50000,0,8,5,3,0
 "New Democratic Party",FALSE,"Windsor—Tecumseh",35101,"2005",882300,301000,581300,0,70,8,62,0
 "New Democratic Party",FALSE,"Windsor West",35102,"2005",1634800,912500,722300,0,114,20,94,0
-"New Democratic Party",FALSE,"York Centre",35103,"2005",585000,300000,285000,0,29,7,22,0
+"New Democratic Party",FALSE,"York Centre",35103,"2005",585000,3e+05,285000,0,29,7,22,0
 "New Democratic Party",FALSE,"York—Simcoe",35104,"2005",191000,25000,166000,0,16,1,15,0
 "New Democratic Party",FALSE,"York South—Weston",35105,"2005",942608,685108,257500,0,44,16,28,0
 "New Democratic Party",FALSE,"York West",35106,"2005",685500,214000,471500,0,55,6,49,0
@@ -6510,7 +6495,7 @@
 "New Democratic Party",FALSE,"Souris—Moose Mountain",47012,"2005",789800,367200,422600,0,47,10,37,0
 "New Democratic Party",FALSE,"Wascana",47013,"2005",1041000,485000,53000,13000,0,0,0,0
 "New Democratic Party",FALSE,"Fort McMurray—Athabasca",48001,"2005",151500,65000,86500,0,8,1,7,0
-"New Democratic Party",FALSE,"Calgary East",48002,"2005",207500,200000,7500,0,2,1,1,0
+"New Democratic Party",FALSE,"Calgary East",48002,"2005",207500,2e+05,7500,0,2,1,1,0
 "New Democratic Party",FALSE,"Calgary Centre-North",48003,"2005",1374528,920000,437528,17000,132,21,46,65
 "New Democratic Party",FALSE,"Calgary Northeast",48004,"2005",276000,186000,86000,4000,17,4,10,3
 "New Democratic Party",FALSE,"Calgary—Nose Hill",48005,"2005",650000,470000,180000,0,29,8,21,0
@@ -6532,7 +6517,7 @@
 "New Democratic Party",FALSE,"Vegreville—Wainwright",48024,"2005",120500,80000,40500,0,8,2,6,0
 "New Democratic Party",FALSE,"Wetaskiwin",48026,"2005",40000,40000,0,40000,0,-13,0,13
 "New Democratic Party",FALSE,"Wild Rose",48027,"2005",117825,50000,10000,57825,0,-44,4,40
-"New Democratic Party",FALSE,"Abbotsford",59001,"2005",318935,200000,113500,5435,20,3,10,7
+"New Democratic Party",FALSE,"Abbotsford",59001,"2005",318935,2e+05,113500,5435,20,3,10,7
 "New Democratic Party",FALSE,"Burnaby—Douglas",59002,"2005",1110502,415000,695502,0,75,10,65,0
 "New Democratic Party",FALSE,"Burnaby—New Westminster",59003,"2005",1463880,469000,882500,112380,427,8,94,325
 "New Democratic Party",FALSE,"Cariboo—Prince George",59004,"2005",474050,250000,224050,0,29,8,21,0
@@ -6554,7 +6539,7 @@
 "New Democratic Party",FALSE,"British Columbia Southern Interior",59026,"2005",3485504,2222500,1155014,107990,356,0,116,240
 "New Democratic Party",FALSE,"South Surrey—White Rock—Cloverdale",59027,"2005",681505,375000,299000,7505,49,11,34,4
 "New Democratic Party",FALSE,"Surrey North",59028,"2005",354500,175000,179500,0,20,3,17,0
-"New Democratic Party",FALSE,"Vancouver Centre",59029,"2005",692467,300000,321192,71275,119,10,34,75
+"New Democratic Party",FALSE,"Vancouver Centre",59029,"2005",692467,3e+05,321192,71275,119,10,34,75
 "New Democratic Party",FALSE,"Vancouver East",59030,"2005",966825,145000,809000,12825,267,4,163,100
 "New Democratic Party",FALSE,"Vancouver Kingsway",59032,"2005",1487450,780000,707450,0,91,14,77,0
 "New Democratic Party",FALSE,"Vancouver Quadra",59033,"2005",2182500,1234500,948000,0,127,23,104,0
@@ -6633,10 +6618,10 @@
 "New Democratic Party",FALSE,"Trois-Rivières",24072,"2006",10500,0,10500,0,2,0,2,0
 "New Democratic Party",FALSE,"Vaudreuil-Soulanges",24073,"2006",25000,23000,2000,0,2,1,1,0
 "New Democratic Party",FALSE,"Verchères—Les Patriotes",24074,"2006",6000,0,6000,0,2,0,2,0
-"New Democratic Party",FALSE,"Westmount—Ville-Marie",24075,"2006",215900,100000,115900,0,18,2,16,0
+"New Democratic Party",FALSE,"Westmount—Ville-Marie",24075,"2006",215900,1e+05,115900,0,18,2,16,0
 "New Democratic Party",FALSE,"Ajax—Pickering",35001,"2006",7500,0,7500,0,1,0,1,0
 "New Democratic Party",FALSE,"Algoma—Manitoulin—Kapuskasing",35002,"2006",956500,485000,471500,0,53,10,43,0
-"New Democratic Party",FALSE,"Ancaster—Dundas—Flamborough—Westdale",35003,"2006",120000,100000,20000,0,3,1,2,0
+"New Democratic Party",FALSE,"Ancaster—Dundas—Flamborough—Westdale",35003,"2006",120000,1e+05,20000,0,3,1,2,0
 "New Democratic Party",FALSE,"Beaches—East York",35005,"2006",1072500,620000,452500,0,38,4,34,0
 "New Democratic Party",FALSE,"Brampton—Springdale",35007,"2006",10000,0,10000,0,1,0,1,0
 "New Democratic Party",FALSE,"Brampton West",35008,"2006",123000,0,0,123000,90,0,0,90
@@ -6649,7 +6634,7 @@
 "New Democratic Party",FALSE,"Don Valley East",35016,"2006",107500,50000,57500,0,7,1,6,0
 "New Democratic Party",FALSE,"Essex",35021,"2006",1919850,1243350,676500,0,95,17,78,0
 "New Democratic Party",FALSE,"Etobicoke—Lakeshore",35023,"2006",774700,455000,307500,12200,50,13,29,8
-"New Democratic Party",FALSE,"Haldimand—Norfolk",35028,"2006",1e+05,100000,0,0,2,2,0,0
+"New Democratic Party",FALSE,"Haldimand—Norfolk",35028,"2006",1e+05,1e+05,0,0,2,2,0,0
 "New Democratic Party",FALSE,"Haliburton—Kawartha Lakes—Brock",35029,"2006",1039000,745000,294000,0,45,11,34,0
 "New Democratic Party",FALSE,"Hamilton Centre",35031,"2006",2014500,789700,1224800,0,143,17,126,0
 "New Democratic Party",FALSE,"Hamilton East—Stoney Creek",35032,"2006",399200,147500,234000,17700,64,4,22,38
@@ -6659,7 +6644,7 @@
 "New Democratic Party",FALSE,"Kitchener Centre",35037,"2006",522900,326500,196400,0,26,9,17,0
 "New Democratic Party",FALSE,"Kitchener—Conestoga",35038,"2006",132000,74000,58000,0,6,2,4,0
 "New Democratic Party",FALSE,"Kitchener—Waterloo",35039,"2006",308500,168500,140000,0,18,5,13,0
-"New Democratic Party",FALSE,"Lanark—Frontenac—Lennox and Addington",35040,"2006",170380,100000,70380,0,10,3,7,0
+"New Democratic Party",FALSE,"Lanark—Frontenac—Lennox and Addington",35040,"2006",170380,1e+05,70380,0,10,3,7,0
 "New Democratic Party",FALSE,"London—Fanshawe",35042,"2006",992026,308148,683878,0,111,7,104,0
 "New Democratic Party",FALSE,"London North Centre",35043,"2006",499500,110000,389500,0,44,3,41,0
 "New Democratic Party",FALSE,"London West",35044,"2006",15000,0,15000,0,3,0,3,0
@@ -6669,12 +6654,12 @@
 "New Democratic Party",FALSE,"Mississauga—Erindale",35049,"2006",12500,0,12500,0,2,0,2,0
 "New Democratic Party",FALSE,"Mississauga—Streetsville",35051,"2006",54050,29050,25000,0,4,1,3,0
 "New Democratic Party",FALSE,"Newmarket—Aurora",35053,"2006",32000,0,32000,0,6,0,6,0
-"New Democratic Party",FALSE,"Niagara Falls",35054,"2006",395500,300000,95500,0,14,6,8,0
+"New Democratic Party",FALSE,"Niagara Falls",35054,"2006",395500,3e+05,95500,0,14,6,8,0
 "New Democratic Party",FALSE,"Niagara West—Glanbrook",35055,"2006",105000,80000,25000,0,5,2,3,0
 "New Democratic Party",FALSE,"Nickel Belt",35056,"2006",1884670,1290715,304700,289255,202,18,34,150
 "New Democratic Party",FALSE,"Nipissing—Timiskaming",35057,"2006",72500,55000,17500,0,2,1,1,0
 "New Democratic Party",FALSE,"Northumberland—Quinte West",35058,"2006",239500,65000,174500,0,17,2,15,0
-"New Democratic Party",FALSE,"Oak Ridges—Markham",35059,"2006",132645,100000,32645,0,5,3,2,0
+"New Democratic Party",FALSE,"Oak Ridges—Markham",35059,"2006",132645,1e+05,32645,0,5,3,2,0
 "New Democratic Party",FALSE,"Oakville",35060,"2006",227500,180000,47500,0,9,3,6,0
 "New Democratic Party",FALSE,"Oshawa",35061,"2006",1417680,717500,700180,0,84,15,69,0
 "New Democratic Party",FALSE,"Ottawa Centre",35062,"2006",1764300,770000,994300,0,117,20,97,0
@@ -6755,18 +6740,18 @@
 "New Democratic Party",FALSE,"Edmonton—Leduc",48014,"2006",43300,0,43000,300,42,0,4,38
 "New Democratic Party",FALSE,"Edmonton—St. Albert",48015,"2006",125000,80000,15000,30000,18,2,1,15
 "New Democratic Party",FALSE,"Edmonton—Spruce Grove",48017,"2006",271500,271500,0,0,11,11,0,0
-"New Democratic Party",FALSE,"Edmonton—Strathcona",48018,"2006",769000,400000,355500,13500,251,11,40,200
+"New Democratic Party",FALSE,"Edmonton—Strathcona",48018,"2006",769000,4e+05,355500,13500,251,11,40,200
 "New Democratic Party",FALSE,"Lethbridge",48019,"2006",101000,50000,51000,0,7,1,6,0
 "New Democratic Party",FALSE,"Peace River",48022,"2006",271000,236000,35000,0,7,4,3,0
 "New Democratic Party",FALSE,"Abbotsford",59001,"2006",310570,21400,273484,15686,96,1,28,67
 "New Democratic Party",FALSE,"Burnaby—Douglas",59002,"2006",1278100,771000,507100,0,76,17,59,0
-"New Democratic Party",FALSE,"Burnaby—New Westminster",59003,"2006",1696300,771200,900000,25100,177,18,107,52
+"New Democratic Party",FALSE,"Burnaby—New Westminster",59003,"2006",1696300,771200,9e+05,25100,177,18,107,52
 "New Democratic Party",FALSE,"Cariboo—Prince George",59004,"2006",364500,140000,224500,0,30,4,26,0
 "New Democratic Party",FALSE,"Chilliwack—Fraser Canyon",59005,"2006",458910,0,0,0,0,0,0,0
 "New Democratic Party",FALSE,"Pitt Meadows—Maple Ridge—Mission",59007,"2006",560263,259250,260000,41013,121,8,38,75
 "New Democratic Party",FALSE,"Fleetwood—Port Kells",59009,"2006",236900,109900,105500,21500,38,3,11,24
 "New Democratic Party",FALSE,"Kamloops—Thompson—Cariboo",59010,"2006",781574,437847,343727,0,65,8,57,0
-"New Democratic Party",FALSE,"Kelowna—Lake Country",59011,"2006",368000,200000,168000,0,18,3,15,0
+"New Democratic Party",FALSE,"Kelowna—Lake Country",59011,"2006",368000,2e+05,168000,0,18,3,15,0
 "New Democratic Party",FALSE,"Kootenay—Columbia",59012,"2006",5265,0,0,5265,380,0,0,380
 "New Democratic Party",FALSE,"Langley",59013,"2006",403000,95000,308000,0,42,3,39,0
 "New Democratic Party",FALSE,"Nanaimo—Alberni",59014,"2006",1401515,940015,461500,0,71,17,54,0
@@ -6789,7 +6774,7 @@
 "New Democratic Party",FALSE,"Vancouver Kingsway",59032,"2006",1929924,929998,999926,0,132,19,113,0
 "New Democratic Party",FALSE,"Vancouver Quadra",59033,"2006",1892709,991710,899000,2000,119,16,101,2
 "New Democratic Party",FALSE,"Vancouver South",59034,"2006",914800,380500,457200,77100,142,7,71,64
-"New Democratic Party",FALSE,"Victoria",59035,"2006",997200,300000,447200,0,58,11,47,0
+"New Democratic Party",FALSE,"Victoria",59035,"2006",997200,3e+05,447200,0,58,11,47,0
 "New Democratic Party",FALSE,"West Vancouver—Sunshine Coast—Sea to Sky Country",59036,"2006",2081250,1034500,1043000,3750,177,23,102,52
 "New Democratic Party",FALSE,"Yukon",60001,"2006",1097714,740407,280007,77300,228,15,63,150
 "New Democratic Party",FALSE,"Charlottetown",11002,"2007",370000,235000,135000,0,16,5,11,0
@@ -6805,7 +6790,7 @@
 "New Democratic Party",FALSE,"Sydney—Victoria",12010,"2007",40000,40000,0,0,1,1,0,0
 "New Democratic Party",FALSE,"West Nova",12011,"2007",398398,297398,101000,0,18,8,10,0
 "New Democratic Party",FALSE,"Acadie—Bathurst",13001,"2007",622500,205000,414500,3000,48,4,42,2
-"New Democratic Party",FALSE,"Beauséjour",13002,"2007",327000,200000,127000,0,16,5,11,0
+"New Democratic Party",FALSE,"Beauséjour",13002,"2007",327000,2e+05,127000,0,16,5,11,0
 "New Democratic Party",FALSE,"Fredericton",13003,"2007",28185,21985,0,6200,18,3,0,15
 "New Democratic Party",FALSE,"Fundy Royal",13004,"2007",180000,115000,65000,0,7,2,5,0
 "New Democratic Party",FALSE,"Miramichi",13006,"2007",80000,40000,40000,0,3,1,2,0
@@ -6837,7 +6822,7 @@
 "New Democratic Party",FALSE,"Sherbrooke",24070,"2007",65000,50000,15000,0,5,1,4,0
 "New Democratic Party",FALSE,"Terrebonne—Blainville",24071,"2007",54500,29000,25500,0,4,1,3,0
 "New Democratic Party",FALSE,"Vaudreuil-Soulanges",24073,"2007",23000,23000,0,0,1,1,0,0
-"New Democratic Party",FALSE,"Westmount—Ville-Marie",24075,"2007",203425,100000,98425,5000,37,2,15,20
+"New Democratic Party",FALSE,"Westmount—Ville-Marie",24075,"2007",203425,1e+05,98425,5000,37,2,15,20
 "New Democratic Party",FALSE,"Algoma—Manitoulin—Kapuskasing",35002,"2007",1070900,536500,534400,0,82,11,71,0
 "New Democratic Party",FALSE,"Ancaster—Dundas—Flamborough—Westdale",35003,"2007",512500,440000,72500,0,17,11,6,0
 "New Democratic Party",FALSE,"Beaches—East York",35005,"2007",3026500,1090000,1936500,0,205,31,174,0
@@ -6863,7 +6848,7 @@
 "New Democratic Party",FALSE,"London—Fanshawe",35042,"2007",869000,611500,257500,0,46,16,30,0
 "New Democratic Party",FALSE,"London West",35044,"2007",179500,115000,64500,0,12,3,9,0
 "New Democratic Party",FALSE,"Newmarket—Aurora",35053,"2007",1e+05,40000,60000,0,5,1,4,0
-"New Democratic Party",FALSE,"Niagara West—Glanbrook",35055,"2007",104000,100000,4000,0,3,2,1,0
+"New Democratic Party",FALSE,"Niagara West—Glanbrook",35055,"2007",104000,1e+05,4000,0,3,2,1,0
 "New Democratic Party",FALSE,"Nickel Belt",35056,"2007",1211500,362700,576800,272000,360,7,81,272
 "New Democratic Party",FALSE,"Ottawa Centre",35062,"2007",710500,460000,250500,0,30,8,22,0
 "New Democratic Party",FALSE,"Ottawa South",35064,"2007",50000,50000,0,0,1,1,0,0
@@ -6877,7 +6862,7 @@
 "New Democratic Party",FALSE,"Prince Edward—Hastings",35073,"2007",66000,40000,14500,11500,33,1,2,30
 "New Democratic Party",FALSE,"Richmond Hill",35075,"2007",90000,40000,50000,0,6,1,5,0
 "New Democratic Party",FALSE,"St. Catharines",35076,"2007",1049500,776100,273400,0,52,16,36,0
-"New Democratic Party",FALSE,"Sarnia—Lambton",35078,"2007",135470,100000,31000,4470,12,1,6,5
+"New Democratic Party",FALSE,"Sarnia—Lambton",35078,"2007",135470,1e+05,31000,4470,12,1,6,5
 "New Democratic Party",FALSE,"Sault Ste. Marie",35079,"2007",794000,470000,324000,0,43,12,31,0
 "New Democratic Party",FALSE,"Scarborough Centre",35081,"2007",145000,135000,10000,0,4,3,1,0
 "New Democratic Party",FALSE,"Scarborough—Guildwood",35082,"2007",112500,70000,42500,0,4,1,3,0
@@ -6903,7 +6888,7 @@
 "New Democratic Party",FALSE,"Kildonan—St. Paul",46006,"2007",273000,210000,63000,0,10,2,8,0
 "New Democratic Party",FALSE,"Provencher",46008,"2007",130000,120000,10000,0,4,3,1,0
 "New Democratic Party",FALSE,"Winnipeg North",46012,"2007",376300,124000,251000,1300,34,3,30,1
-"New Democratic Party",FALSE,"Battlefords—Lloydminster",47001,"2007",507500,300000,207500,0,20,4,16,0
+"New Democratic Party",FALSE,"Battlefords—Lloydminster",47001,"2007",507500,3e+05,207500,0,20,4,16,0
 "New Democratic Party",FALSE,"Blackstrap",47002,"2007",704010,350500,353510,0,49,6,43,0
 "New Democratic Party",FALSE,"Palliser",47005,"2007",3093100,1718000,1330500,44600,256,34,164,58
 "New Democratic Party",FALSE,"Prince Albert",47006,"2007",890000,444000,446000,0,54,11,43,0
@@ -7008,15 +6993,15 @@
 "New Democratic Party",FALSE,"Sherbrooke",24070,"2008",55500,34000,21500,0,4,1,3,0
 "New Democratic Party",FALSE,"Terrebonne—Blainville",24071,"2008",52500,30000,22500,0,3,1,2,0
 "New Democratic Party",FALSE,"Vaudreuil-Soulanges",24073,"2008",24000,24000,0,0,1,1,0,0
-"New Democratic Party",FALSE,"Verchères—Les Patriotes",24074,"2008",357000,200000,157000,0,22,5,17,0
+"New Democratic Party",FALSE,"Verchères—Les Patriotes",24074,"2008",357000,2e+05,157000,0,22,5,17,0
 "New Democratic Party",FALSE,"Westmount—Ville-Marie",24075,"2008",407600,207500,198600,1500,36,6,27,3
 "New Democratic Party",FALSE,"Algoma—Manitoulin—Kapuskasing",35002,"2008",2340500,1086100,1254400,0,136,20,116,0
 "New Democratic Party",FALSE,"Ancaster—Dundas—Flamborough—Westdale",35003,"2008",436000,340000,96000,0,15,7,8,0
 "New Democratic Party",FALSE,"Beaches—East York",35005,"2008",1036200,445000,591200,0,64,11,53,0
-"New Democratic Party",FALSE,"Brampton—Springdale",35007,"2008",135000,100000,35000,0,5,1,4,0
+"New Democratic Party",FALSE,"Brampton—Springdale",35007,"2008",135000,1e+05,35000,0,5,1,4,0
 "New Democratic Party",FALSE,"Brampton West",35008,"2008",130000,80000,50000,0,5,2,3,0
 "New Democratic Party",FALSE,"Brant",35009,"2008",490000,462500,27500,0,13,9,4,0
-"New Democratic Party",FALSE,"Burlington",35010,"2008",527500,400000,127500,0,17,7,10,0
+"New Democratic Party",FALSE,"Burlington",35010,"2008",527500,4e+05,127500,0,17,7,10,0
 "New Democratic Party",FALSE,"Cambridge",35011,"2008",803200,440000,363200,0,47,11,36,0
 "New Democratic Party",FALSE,"Carleton—Mississippi Mills",35012,"2008",431000,373500,57500,0,13,6,7,0
 "New Democratic Party",FALSE,"Chatham-Kent—Essex",35013,"2008",254410,254410,0,0,4,4,0,0
@@ -7041,7 +7026,7 @@
 "New Democratic Party",FALSE,"Mississauga South",35050,"2008",12500,0,0,12500,1,0,0,1
 "New Democratic Party",FALSE,"Mississauga—Streetsville",35051,"2008",25000,25000,0,0,1,1,0,0
 "New Democratic Party",FALSE,"Nepean—Carleton",35052,"2008",282500,230000,52500,0,8,4,4,0
-"New Democratic Party",FALSE,"Newmarket—Aurora",35053,"2008",110000,100000,10000,0,2,1,1,0
+"New Democratic Party",FALSE,"Newmarket—Aurora",35053,"2008",110000,1e+05,10000,0,2,1,1,0
 "New Democratic Party",FALSE,"Nickel Belt",35056,"2008",757260,497864,158000,101396,427,8,15,404
 "New Democratic Party",FALSE,"Northumberland—Quinte West",35058,"2008",1557000,850000,707000,0,77,20,57,0
 "New Democratic Party",FALSE,"Oakville",35060,"2008",242500,242500,0,242500,5,0,5,0
@@ -7060,7 +7045,7 @@
 "New Democratic Party",FALSE,"Richmond Hill",35075,"2008",333000,195000,138000,0,20,4,16,0
 "New Democratic Party",FALSE,"St. Catharines",35076,"2008",432500,150500,282000,0,43,4,39,0
 "New Democratic Party",FALSE,"St. Paul's",35077,"2008",73000,60000,13000,0,4,2,2,0
-"New Democratic Party",FALSE,"Sarnia—Lambton",35078,"2008",278500,200000,78500,0,9,2,7,0
+"New Democratic Party",FALSE,"Sarnia—Lambton",35078,"2008",278500,2e+05,78500,0,9,2,7,0
 "New Democratic Party",FALSE,"Sault Ste. Marie",35079,"2008",537944,184000,216444,137500,99,7,23,69
 "New Democratic Party",FALSE,"Scarborough Centre",35081,"2008",275000,125000,150000,0,16,3,13,0
 "New Democratic Party",FALSE,"Scarborough Southwest",35084,"2008",1009400,592800,416600,0,50,13,37,0
@@ -7151,7 +7136,7 @@
 "New Democratic Party",FALSE,"Central Nova",12002,"2009",165000,55000,110000,0,12,2,10,0
 "New Democratic Party",FALSE,"Halifax",12004,"2009",509810,125000,285000,99810,122,4,28,90
 "New Democratic Party",FALSE,"Halifax West",12005,"2009",395500,205000,190500,0,20,4,16,0
-"New Democratic Party",FALSE,"Cumberland—Colchester—Musquodoboit Valley",12007,"2009",201000,100000,101000,0,12,3,9,0
+"New Democratic Party",FALSE,"Cumberland—Colchester—Musquodoboit Valley",12007,"2009",201000,1e+05,101000,0,12,3,9,0
 "New Democratic Party",FALSE,"Sackville—Eastern Shore",12008,"2009",1012495,456000,556496,0,75,9,66,0
 "New Democratic Party",FALSE,"South Shore—St. Margaret's",12009,"2009",1150087,623100,504000,22987,226,9,82,135
 "New Democratic Party",FALSE,"West Nova",12011,"2009",443200,325000,112000,6200,34,9,11,14
@@ -7249,7 +7234,7 @@
 "New Democratic Party",FALSE,"Toronto—Danforth",35094,"2009",1772700,813300,959400,0,143,19,124,0
 "New Democratic Party",FALSE,"Trinity—Spadina",35095,"2009",3903979,1868879,2035100,0,297,37,260,0
 "New Democratic Party",FALSE,"Welland",35097,"2009",1714400,1415500,294700,4200,161,25,38,98
-"New Democratic Party",FALSE,"Whitby—Oshawa",35099,"2009",773000,500000,271000,2000,49,11,28,10
+"New Democratic Party",FALSE,"Whitby—Oshawa",35099,"2009",773000,5e+05,271000,2000,49,11,28,10
 "New Democratic Party",FALSE,"Willowdale",35100,"2009",90000,50000,40000,0,3,1,2,0
 "New Democratic Party",FALSE,"Windsor—Tecumseh",35101,"2009",863000,680000,183000,0,27,12,15,0
 "New Democratic Party",FALSE,"Windsor West",35102,"2009",1538100,992600,545500,0,116,22,94,0
@@ -7285,7 +7270,7 @@
 "New Democratic Party",FALSE,"Lethbridge",48019,"2009",359000,285000,74000,0,12,5,7,0
 "New Democratic Party",FALSE,"Burnaby—Douglas",59002,"2009",2643000,1611000,1030000,2000,152,30,106,16
 "New Democratic Party",FALSE,"Burnaby—New Westminster",59003,"2009",487000,225000,262000,0,33,7,26,0
-"New Democratic Party",FALSE,"Chilliwack—Fraser Canyon",59005,"2009",125000,25000,100000,0,8,1,7,0
+"New Democratic Party",FALSE,"Chilliwack—Fraser Canyon",59005,"2009",125000,25000,1e+05,0,8,1,7,0
 "New Democratic Party",FALSE,"Esquimalt—Juan de Fuca",59008,"2009",599650,342000,248000,9650,70,10,40,20
 "New Democratic Party",FALSE,"Fleetwood—Port Kells",59009,"2009",583000,233500,349500,0,53,6,47,0
 "New Democratic Party",FALSE,"Kamloops—Thompson—Cariboo",59010,"2009",1125500,538500,587000,0,59,9,50,0
@@ -7296,7 +7281,7 @@
 "New Democratic Party",FALSE,"Newton—North Delta",59016,"2009",124500,25000,99500,0,9,0,9,0
 "New Democratic Party",FALSE,"New Westminster—Coquitlam",59017,"2009",2387459,1185500,1189500,12459,348,30,128,190
 "New Democratic Party",FALSE,"North Vancouver",59019,"2009",164000,160000,4000,0,3,2,1,0
-"New Democratic Party",FALSE,"Okanagan—Coquihalla",59020,"2009",102500,100000,2500,0,3,2,1,0
+"New Democratic Party",FALSE,"Okanagan—Coquihalla",59020,"2009",102500,1e+05,2500,0,3,2,1,0
 "New Democratic Party",FALSE,"Port Moody—Westwood—Port Coquitlam",59021,"2009",320000,320000,0,0,3,3,0,0
 "New Democratic Party",FALSE,"Prince George—Peace River",59022,"2009",210350,40000,170350,0,17,1,16,0
 "New Democratic Party",FALSE,"Richmond",59023,"2009",45000,25000,20000,0,3,1,2,0
@@ -7330,7 +7315,7 @@
 "New Democratic Party",FALSE,"Beauséjour",13002,"2010",262000,220000,40000,2000,11,5,3,3
 "New Democratic Party",FALSE,"Fredericton",13003,"2010",10000,0,10000,0,1,0,1,0
 "New Democratic Party",FALSE,"Fundy Royal",13004,"2010",186750,60000,67000,59750,67,2,6,59
-"New Democratic Party",FALSE,"New Brunswick Southwest",13008,"2010",271000,200000,65000,6000,14,4,7,3
+"New Democratic Party",FALSE,"New Brunswick Southwest",13008,"2010",271000,2e+05,65000,6000,14,4,7,3
 "New Democratic Party",FALSE,"Beauport—Limoilou",24007,"2010",81100,22500,58600,0,6,1,5,0
 "New Democratic Party",FALSE,"Bourassa",24009,"2010",322000,130000,192000,0,21,2,19,0
 "New Democratic Party",FALSE,"Brome—Missisquoi",24010,"2010",85000,40000,43500,1500,13,1,8,4
@@ -7363,17 +7348,17 @@
 "New Democratic Party",FALSE,"Algoma—Manitoulin—Kapuskasing",35002,"2010",1225500,707000,518500,0,55,14,41,0
 "New Democratic Party",FALSE,"Ancaster—Dundas—Flamborough—Westdale",35003,"2010",165000,155000,10000,0,5,4,1,0
 "New Democratic Party",FALSE,"Beaches—East York",35005,"2010",1790000,1337500,452500,0,62,24,38,0
-"New Democratic Party",FALSE,"Bramalea—Gore—Malton",35006,"2010",210000,200000,10000,0,3,2,1,0
+"New Democratic Party",FALSE,"Bramalea—Gore—Malton",35006,"2010",210000,2e+05,10000,0,3,2,1,0
 "New Democratic Party",FALSE,"Brampton West",35008,"2010",197000,167000,30000,0,5,3,2,0
 "New Democratic Party",FALSE,"Brant",35009,"2010",1193030,692500,253000,247530,457,8,29,420
 "New Democratic Party",FALSE,"Burlington",35010,"2010",590000,570000,20000,0,13,11,2,0
 "New Democratic Party",FALSE,"Cambridge",35011,"2010",152500,110000,42500,0,9,3,6,0
-"New Democratic Party",FALSE,"Carleton—Mississippi Mills",35012,"2010",130000,100000,30000,0,3,1,2,0
+"New Democratic Party",FALSE,"Carleton—Mississippi Mills",35012,"2010",130000,1e+05,30000,0,3,1,2,0
 "New Democratic Party",FALSE,"Chatham-Kent—Essex",35013,"2010",260000,250000,10000,0,4,3,1,0
 "New Democratic Party",FALSE,"Durham",35014,"2010",65000,50000,15000,0,4,3,1,0
 "New Democratic Party",FALSE,"Davenport",35015,"2010",3875224,1476414,2398810,0,232,35,197,0
 "New Democratic Party",FALSE,"Don Valley East",35016,"2010",45000,45000,0,0,2,2,0,0
-"New Democratic Party",FALSE,"Elgin—Middlesex—London",35020,"2010",178500,100000,49000,29500,51,2,5,44
+"New Democratic Party",FALSE,"Elgin—Middlesex—London",35020,"2010",178500,1e+05,49000,29500,51,2,5,44
 "New Democratic Party",FALSE,"Essex",35021,"2010",1385393,917500,467893,0,58,18,40,0
 "New Democratic Party",FALSE,"Etobicoke Centre",35022,"2010",2000,2000,0,2000,0,0,0,0
 "New Democratic Party",FALSE,"Haldimand—Norfolk",35028,"2010",124600,90000,25000,9600,12,0,4,8
@@ -7397,7 +7382,7 @@
 "New Democratic Party",FALSE,"Northumberland—Quinte West",35058,"2010",75000,40000,35000,0,4,1,3,0
 "New Democratic Party",FALSE,"Oakville",35060,"2010",269000,58000,0,269000,18,18,0,0
 "New Democratic Party",FALSE,"Oshawa",35061,"2010",160398,22366,138032,0,41,1,40,0
-"New Democratic Party",FALSE,"Ottawa Centre",35062,"2010",769555,400000,369555,0,43,9,34,0
+"New Democratic Party",FALSE,"Ottawa Centre",35062,"2010",769555,4e+05,369555,0,43,9,34,0
 "New Democratic Party",FALSE,"Ottawa South",35064,"2010",20000,0,0,0,1,0,1,0
 "New Democratic Party",FALSE,"Ottawa—Vanier",35065,"2010",1025500,795000,230500,0,34,13,21,0
 "New Democratic Party",FALSE,"Ottawa West—Nepean",35066,"2010",267500,210000,57500,0,10,4,6,0
@@ -7473,7 +7458,7 @@
 "New Democratic Party",FALSE,"Esquimalt—Juan de Fuca",59008,"2010",1167628,837228,330400,0,78,23,55,0
 "New Democratic Party",FALSE,"Fleetwood—Port Kells",59009,"2010",731500,119500,612000,0,104,3,101,0
 "New Democratic Party",FALSE,"Kamloops—Thompson—Cariboo",59010,"2010",2007500,1072000,935500,0,114,22,92,0
-"New Democratic Party",FALSE,"Kelowna—Lake Country",59011,"2010",277500,100000,177500,0,23,2,21,0
+"New Democratic Party",FALSE,"Kelowna—Lake Country",59011,"2010",277500,1e+05,177500,0,23,2,21,0
 "New Democratic Party",FALSE,"Kootenay—Columbia",59012,"2010",449500,230000,219500,0,24,6,18,0
 "New Democratic Party",FALSE,"Langley",59013,"2010",452967,197000,255967,0,60,6,54,0
 "New Democratic Party",FALSE,"Nanaimo—Alberni",59014,"2010",2094398,1350000,744398,0,104,24,80,0
@@ -7578,7 +7563,7 @@
 "New Democratic Party",FALSE,"Etobicoke North",35024,"2011",184300,131000,33000,20300,50,22,6,22
 "New Democratic Party",FALSE,"Haldimand—Norfolk",35028,"2011",225282,195282,30000,0,4,2,2,0
 "New Democratic Party",FALSE,"Haliburton—Kawartha Lakes—Brock",35029,"2011",939700,505000,434700,0,57,12,45,0
-"New Democratic Party",FALSE,"Hamilton Centre",35031,"2011",1442000,900000,542000,0,60,17,43,0
+"New Democratic Party",FALSE,"Hamilton Centre",35031,"2011",1442000,9e+05,542000,0,60,17,43,0
 "New Democratic Party",FALSE,"Hamilton East—Stoney Creek",35032,"2011",421899,322300,99599,0,24,7,17,0
 "New Democratic Party",FALSE,"Hamilton Mountain",35033,"2011",2754731,2153492,601239,0,105,39,66,0
 "New Democratic Party",FALSE,"Huron—Bruce",35034,"2011",1486500,1010000,476500,0,50,17,33,0
@@ -7588,7 +7573,7 @@
 "New Democratic Party",FALSE,"Kitchener—Waterloo",35039,"2011",310500,259000,51500,0,13,8,5,0
 "New Democratic Party",FALSE,"Lanark—Frontenac—Lennox and Addington",35040,"2011",259000,60000,199000,0,17,2,15,0
 "New Democratic Party",FALSE,"London—Fanshawe",35042,"2011",1000150,503650,496500,0,76,14,62,0
-"New Democratic Party",FALSE,"London West",35044,"2011",140500,100000,40500,0,7,2,5,0
+"New Democratic Party",FALSE,"London West",35044,"2011",140500,1e+05,40500,0,7,2,5,0
 "New Democratic Party",FALSE,"Mississauga East—Cooksville",35048,"2011",200100,190000,90100,10000,10,10,0,0
 "New Democratic Party",FALSE,"Mississauga South",35050,"2011",40000,40000,0,0,1,1,0,0
 "New Democratic Party",FALSE,"Newmarket—Aurora",35053,"2011",102000,70000,32000,0,5,2,3,0
@@ -7596,7 +7581,7 @@
 "New Democratic Party",FALSE,"Nickel Belt",35056,"2011",1232000,797000,435000,0,68,13,55,0
 "New Democratic Party",FALSE,"Northumberland—Quinte West",35058,"2011",745500,335000,410500,0,46,9,37,0
 "New Democratic Party",FALSE,"Oakville",35060,"2011",233401,10000,10000,223401,1,-140,1,140
-"New Democratic Party",FALSE,"Oshawa",35061,"2011",465000,400000,65000,0,13,8,5,0
+"New Democratic Party",FALSE,"Oshawa",35061,"2011",465000,4e+05,65000,0,13,8,5,0
 "New Democratic Party",FALSE,"Ottawa Centre",35062,"2011",306000,150000,115000,41000,72,2,10,60
 "New Democratic Party",FALSE,"Ottawa—Vanier",35065,"2011",159000,130000,29000,0,8,3,5,0
 "New Democratic Party",FALSE,"Ottawa West—Nepean",35066,"2011",195200,180000,15200,0,7,4,3,0
@@ -7689,7 +7674,7 @@
 "New Democratic Party",FALSE,"Vancouver Centre",59029,"2011",1129745,395000,712165,22580,111,12,82,17
 "New Democratic Party",FALSE,"Vancouver East",59030,"2011",1797232,976500,797500,23232,251,24,81,146
 "New Democratic Party",FALSE,"Vancouver Kingsway",59032,"2011",3437783,2178868,1257316,1600,174,39,133,2
-"New Democratic Party",FALSE,"Vancouver Quadra",59033,"2011",1097000,400000,697000,0,75,9,66,0
+"New Democratic Party",FALSE,"Vancouver Quadra",59033,"2011",1097000,4e+05,697000,0,75,9,66,0
 "New Democratic Party",FALSE,"Vancouver South",59034,"2011",857200,528000,302000,27200,85,11,48,26
 "New Democratic Party",FALSE,"Victoria",59035,"2011",1590451,781000,809451,0,105,19,86,0
 "New Democratic Party",FALSE,"Yukon",60001,"2011",472500,324500,148000,0,19,6,13,0
@@ -7697,7 +7682,7 @@
 "New Democratic Party",FALSE,"St. John's East",10006,"2012",726700,400600,302600,23500,180,11,93,76
 "New Democratic Party",FALSE,"St. John's South—Mount Pearl",10007,"2012",66000,30000,36000,0,5,1,4,0
 "New Democratic Party",FALSE,"Charlottetown",11002,"2012",1131500,991500,140000,0,30,18,12,0
-"New Democratic Party",FALSE,"Central Nova",12002,"2012",205000,105000,100000,0,9,2,7,0
+"New Democratic Party",FALSE,"Central Nova",12002,"2012",205000,105000,1e+05,0,9,2,7,0
 "New Democratic Party",FALSE,"Dartmouth—Cole Harbour",12003,"2012",430175,215200,146500,68475,74,74,0,0
 "New Democratic Party",FALSE,"Halifax",12004,"2012",200500,55000,145500,0,21,2,19,0
 "New Democratic Party",FALSE,"Halifax West",12005,"2012",215500,112500,103000,0,26,3,23,0
@@ -7780,7 +7765,7 @@
 "New Democratic Party",FALSE,"Essex",35021,"2012",1463500,1413500,48000,2000,25,19,5,1
 "New Democratic Party",FALSE,"Etobicoke—Lakeshore",35023,"2012",63000,48000,15000,0,3,2,1,0
 "New Democratic Party",FALSE,"Haldimand—Norfolk",35028,"2012",24000,24000,24000,0,0,-1,1,0
-"New Democratic Party",FALSE,"Haliburton—Kawartha Lakes—Brock",35029,"2012",192000,100000,92000,0,24,1,23,0
+"New Democratic Party",FALSE,"Haliburton—Kawartha Lakes—Brock",35029,"2012",192000,1e+05,92000,0,24,1,23,0
 "New Democratic Party",FALSE,"Hamilton Centre",35031,"2012",813128,596128,217000,0,29,10,19,0
 "New Democratic Party",FALSE,"Hamilton East—Stoney Creek",35032,"2012",2017056,1370250,646806,0,87,25,62,0
 "New Democratic Party",FALSE,"Hamilton Mountain",35033,"2012",1566000,1354000,212000,0,50,29,21,0
@@ -7836,7 +7821,7 @@
 "New Democratic Party",FALSE,"Elmwood—Transcona",46005,"2012",1622000,815000,807000,0,122,12,110,0
 "New Democratic Party",FALSE,"Kildonan—St. Paul",46006,"2012",1201300,110000,304500,786800,1385,1,31,1353
 "New Democratic Party",FALSE,"Provencher",46008,"2012",22000,22000,0,0,1,1,0,0
-"New Democratic Party",FALSE,"Selkirk—Interlake",46010,"2012",492000,400000,92000,0,19,7,12,0
+"New Democratic Party",FALSE,"Selkirk—Interlake",46010,"2012",492000,4e+05,92000,0,19,7,12,0
 "New Democratic Party",FALSE,"Winnipeg Centre",46011,"2012",242000,204000,38000,0,8,4,4,0
 "New Democratic Party",FALSE,"Winnipeg North",46012,"2012",553000,246000,307000,0,57,4,53,0
 "New Democratic Party",FALSE,"Winnipeg South Centre",46014,"2012",101500,25000,76500,0,10,1,9,0
@@ -7844,7 +7829,7 @@
 "New Democratic Party",FALSE,"Blackstrap",47002,"2012",253000,174000,79000,0,12,6,6,0
 "New Democratic Party",FALSE,"Cypress Hills—Grasslands",47004,"2012",122000,122000,0,0,9,0,9,0
 "New Democratic Party",FALSE,"Palliser",47005,"2012",1048100,762000,278000,8100,52,15,27,10
-"New Democratic Party",FALSE,"Prince Albert",47006,"2012",350000,300000,50000,0,11,8,3,0
+"New Democratic Party",FALSE,"Prince Albert",47006,"2012",350000,3e+05,50000,0,11,8,3,0
 "New Democratic Party",FALSE,"Regina—Lumsden—Lake Centre",47007,"2012",189000,140000,15000,34000,30,3,2,25
 "New Democratic Party",FALSE,"Regina—Qu'Appelle",47008,"2012",180000,150000,30000,0,4,2,2,0
 "New Democratic Party",FALSE,"Saskatoon—Rosetown—Biggar",47010,"2012",732963,394000,331500,7463,304,11,43,250
@@ -7859,7 +7844,7 @@
 "New Democratic Party",FALSE,"Edmonton—Leduc",48014,"2012",49500,0,15500,34000,0,0,0,0
 "New Democratic Party",FALSE,"Edmonton—Strathcona",48018,"2012",820000,675000,145000,0,21,11,10,0
 "New Democratic Party",FALSE,"Lethbridge",48019,"2012",310000,290000,20000,0,6,4,2,0
-"New Democratic Party",FALSE,"Medicine Hat",48021,"2012",1e+05,100000,0,0,1,1,0,0
+"New Democratic Party",FALSE,"Medicine Hat",48021,"2012",1e+05,1e+05,0,0,1,1,0,0
 "New Democratic Party",FALSE,"Peace River",48022,"2012",101200,101200,0,0,1,1,0,0
 "New Democratic Party",FALSE,"Burnaby—Douglas",59002,"2012",2033000,1271000,762000,0,115,22,93,0
 "New Democratic Party",FALSE,"Burnaby—New Westminster",59003,"2012",1356400,803300,553100,0,88,15,73,0
@@ -7896,16 +7881,16 @@
 "New Democratic Party",FALSE,"Sackville—Eastern Shore",12008,"2013",290000,196000,94000,0,10,3,7,0
 "New Democratic Party",FALSE,"South Shore—St. Margaret's",12009,"2013",322094,232600,75000,14494,49,3,8,38
 "New Democratic Party",FALSE,"West Nova",12011,"2013",362500,357000,0,5500,0,0,0,0
-"New Democratic Party",FALSE,"Acadie—Bathurst",13001,"2013",554500,300000,252500,2000,24,6,17,1
+"New Democratic Party",FALSE,"Acadie—Bathurst",13001,"2013",554500,3e+05,252500,2000,24,6,17,1
 "New Democratic Party",FALSE,"Beauséjour",13002,"2013",270000,240000,30000,0,7,5,2,0
-"New Democratic Party",FALSE,"Fundy Royal",13004,"2013",2e+05,200000,0,0,2,2,0,0
+"New Democratic Party",FALSE,"Fundy Royal",13004,"2013",2e+05,2e+05,0,0,2,2,0,0
 "New Democratic Party",FALSE,"Madawaska—Restigouche",13005,"2013",385000,345000,40000,0,10,6,4,0
 "New Democratic Party",FALSE,"Moncton—Riverview—Dieppe",13007,"2013",256300,68300,182100,5900,35,3,23,9
 "New Democratic Party",FALSE,"Saint John",13009,"2013",121000,90000,20000,11000,38,2,1,35
 "New Democratic Party",FALSE,"Abitibi—Témiscamingue",24001,"2013",405474,208866,143897,52711,339,3,26,310
 "New Democratic Party",FALSE,"Alfred-Pellan",24003,"2013",566569,470000,20000,76569,351,8,3,340
 "New Democratic Party",FALSE,"Argenteuil—Papineau—Mirabel",24004,"2013",358210,225500,46500,86210,451,3,8,440
-"New Democratic Party",FALSE,"Beauharnois—Salaberry",24006,"2013",367911,200000,111800,56111,357,3,19,335
+"New Democratic Party",FALSE,"Beauharnois—Salaberry",24006,"2013",367911,2e+05,111800,56111,357,3,19,335
 "New Democratic Party",FALSE,"Beauport—Limoilou",24007,"2013",224321,147052,77269,0,14,5,9,0
 "New Democratic Party",FALSE,"Berthier—Maskinongé",24008,"2013",274706,120000,48500,106206,179,1,8,170
 "New Democratic Party",FALSE,"Bourassa",24009,"2013",239930,50000,108000,81930,219,1,13,205

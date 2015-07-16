@@ -16,7 +16,17 @@ for(file in allSourceDataFiles) {
   csv <- read.csv(filePath, header=FALSE, as.is=TRUE, encoding="UTF-8")
   colnames(csv) <- k$sourceColNames
 
-  csv$party_riding_name <- aaply(csv$party_riding_name, 1, RemoveYearSuffix)
+  qReturns <- csv[IsQuarterlyReturn(csv$party_riding_name), ]
+  if(nrow(qReturns) > 0) {
+    qReturnsNumbers <- select(qReturns, -party_riding_name)
+    qReturnsNumbers[] <- lapply(qReturnsNumbers, StrToNum)
+    quarterlyTotals <- colSums(qReturnsNumbers)
+    quarterlyTotals$party_riding_name <- RemoveYearSuffix(qReturns$party_riding_name[1])
+    csv <- csv[!IsQuarterlyReturn(csv$party_riding_name), ]
+    csv <- rbind(csv, quarterlyTotals)
+  }
+
+  # csv$party_riding_name <- aaply(csv$party_riding_name, 1, RemoveYearSuffix)
 
   # remove commas for n_contibutor.x values and cast to integer
   nColIndices <- grep("n_contributors", colnames(csv))
